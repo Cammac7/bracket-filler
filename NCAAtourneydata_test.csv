@@ -1,0 +1,78 @@
+YEAR,ROUND,SEED,TEAM,SCORE,OPP_SEED,OPPONENT,OPP_SCORE,SCORE_DIFF,RESULT
+2016,Second Round,15,Middle Tennessee State,50,10,Syracuse,75,-25,LOSS
+2016,Sweet 16,3,Miami (Fla.),69,2,Villanova,92,-23,LOSS
+2016,Play-In,11,Vanderbilt,50,11,Wichita State,70,-20,LOSS
+2016,Second Round,9,Providence,66,1,North Carolina,85,-19,LOSS
+2016,First Round,7,Dayton,51,10,Syracuse,70,-19,LOSS
+2016,First Round,6,Seton Hall,52,11,Gonzaga,68,-16,LOSS
+2016,First Round,16,Florida Gulf Coast,67,1,North Carolina,83,-16,LOSS
+2016,Sweet 16,5,Maryland,63,1,Kansas,79,-16,LOSS
+2016,Sweet 16,4,Duke,68,1,Oregon,82,-14,LOSS
+2016,Elite Eight,6,Notre Dame,74,1,North Carolina,88,-14,LOSS
+2016,First Round,3,West Virginia,56,14,Stephen F. Austin,70,-14,LOSS
+2016,Sweet 16,4,Iowa State,71,1,Virginia,84,-13,LOSS
+2016,First Round,13,Iona,81,4,Iowa State,94,-13,LOSS
+2016,Elite Eight,1,Oregon,68,2,Oklahoma,80,-12,LOSS
+2016,First Round,6,Arizona,55,11,Wichita State,65,-10,LOSS
+2016,First Round,2,Michigan State,81,15,Middle Tennessee State,90,-9,LOSS
+2016,First Round,13,UNC Wilmington,85,4,Duke,93,-8,LOSS
+2016,Second Round,9,Butler,69,1,Virginia,77,-8,LOSS
+2016,Second Round,11,Wichita State,57,3,Miami (Fla.),65,-8,LOSS
+2016,First Round,11,Michigan,63,6,Notre Dame,70,-7,LOSS
+2016,Elite Eight,1,Virginia,62,10,Syracuse,68,-6,LOSS
+2016,Second Round,4,Kentucky,67,5,Indiana,73,-6,LOSS
+2016,Sweet 16,7,Wisconsin,56,6,Notre Dame,61,-5,LOSS
+2016,Elite Eight,1,Kansas,59,2,Villanova,64,-5,LOSS
+2016,First Round,12,South Dakota State,74,5,Maryland,79,-5,LOSS
+2016,Second Round,10,Virginia Commonwealth,81,2,Oklahoma,85,-4,LOSS
+2016,National Championship,1,North Carolina,74,2,Villanova,77,-3,LOSS
+2016,Sweet 16,11,Gonzaga,60,10,Syracuse,63,-3,LOSS
+2016,Second Round,2,Xavier,63,7,Wisconsin,66,-3,LOSS
+2016,First Round,5,Purdue,83,12,Arkansas-Little Rock,85,-2,LOSS
+2016,First Round,9,Cincinnati,76,8,St. Joseph's,78,-2,LOSS
+2016,First Round,8,Southern California,69,9,Providence,70,-1,LOSS
+2016,First Round,9,Providence,70,8,Southern California,69,1,WIN
+2016,Second Round,6,Notre Dame,76,14,Stephen F. Austin,75,1,WIN
+2016,National Championship,2,Villanova,77,1,North Carolina,74,3,WIN
+2016,Second Round,7,Wisconsin,66,2,Xavier,63,3,WIN
+2016,First Round,7,Wisconsin,47,10,Pittsburgh,43,4,WIN
+2016,Elite Eight,2,Villanova,64,1,Kansas,59,5,WIN
+2016,Second Round,1,Oregon,69,8,St. Joseph's,64,5,WIN
+2016,Play-In,11,Michigan,67,11,Tulsa,62,5,WIN
+2016,Sweet 16,6,Notre Dame,61,7,Wisconsin,56,5,WIN
+2016,First Round,5,Maryland,79,12,South Dakota State,74,5,WIN
+2016,Second Round,4,Duke,71,12,Yale,64,7,WIN
+2016,First Round,3,Miami (Fla.),79,14,Buffalo,72,7,WIN
+2016,First Round,6,Notre Dame,70,11,Michigan,63,7,WIN
+2016,Second Round,1,Virginia,77,9,Butler,69,8,WIN
+2016,First Round,4,Duke,93,13,UNC Wilmington,85,8,WIN
+2016,Second Round,3,Miami (Fla.),65,11,Wichita State,57,8,WIN
+2016,First Round,10,Virginia Commonwealth,75,7,Oregon State,67,8,WIN
+2016,First Round,15,Middle Tennessee State,90,2,Michigan State,81,9,WIN
+2016,First Round,9,Butler,71,8,Texas Tech,61,10,WIN
+2016,First Round,11,Wichita State,65,6,Arizona,55,10,WIN
+2016,Second Round,1,Kansas,73,9,Connecticut,61,12,WIN
+2016,Sweet 16,1,Virginia,84,4,Iowa State,71,13,WIN
+2016,First Round,4,Iowa State,94,13,Iona,81,13,WIN
+2016,Second Round,5,Maryland,73,13,Hawaii,60,13,WIN
+2016,Sweet 16,1,Oregon,82,4,Duke,68,14,WIN
+2016,Elite Eight,1,North Carolina,88,6,Notre Dame,74,14,WIN
+2016,Sweet 16,1,North Carolina,101,5,Indiana,86,15,WIN
+2016,Sweet 16,1,Kansas,79,5,Maryland,63,16,WIN
+2016,First Round,1,North Carolina,83,16,Florida Gulf Coast,67,16,WIN
+2016,First Round,11,Gonzaga,68,6,Seton Hall,52,16,WIN
+2016,Second Round,4,Iowa State,78,12,Arkansas-Little Rock,61,17,WIN
+2016,Final Four,1,North Carolina,83,10,Syracuse,66,17,WIN
+2016,First Round,2,Xavier,71,15,Weber State,53,18,WIN
+2016,Second Round,2,Villanova,87,7,Iowa,68,19,WIN
+2016,Second Round,1,North Carolina,85,9,Providence,66,19,WIN
+2016,Play-In,11,Wichita State,70,11,Vanderbilt,50,20,WIN
+2016,Sweet 16,2,Villanova,92,3,Miami (Fla.),69,23,WIN
+2016,Second Round,11,Gonzaga,82,3,Utah,59,23,WIN
+2016,First Round,1,Kansas,105,16,Austin Peay,79,26,WIN
+2016,First Round,4,Kentucky,85,13,Stony Brook,57,28,WIN
+2016,First Round,2,Villanova,86,15,UNC Asheville,56,30,WIN
+2016,Play-In,16,Florida Gulf Coast,96,16,Fairleigh Dickinson,65,31,WIN
+2016,First Round,1,Virginia,81,16,Hampton,45,36,WIN
+2016,First Round,1,Oregon,91,16,Holy Cross,52,39,WIN
+2016,Final Four,2,Villanova,95,2,Oklahoma,51,44,WIN
