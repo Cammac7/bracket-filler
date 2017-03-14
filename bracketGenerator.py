@@ -50,7 +50,7 @@ plt.show()
 
 #Split-out validation dataset
 array = dataset.values
-X = array[:,0:10]
+X = array[:,0:9]
 print(X)
 Y = array[:,9]
 print(Y)
