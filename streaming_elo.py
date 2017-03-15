@@ -26,27 +26,19 @@ def elo_update(p1_elo, p2_elo, p1_result):
 
 def elo_dfs(infile):
     df = pd.read_csv(infile)
+    df = df[df.apply(lambda r: r["Result"].split()[0] == "W", axis = 1)]
     elo_dict = {}
     starting_elo = 1500
     for las, cur, nex in utils.threewise(df.iterrows()):
-        cur_yr = cur[1]["Date"].split("-")[0]
+        cur_yr = str(int(round(to_years(cur[1]["Date"]))))
         if nex:
-            nex_yr = nex[1]["Date"].split("-")[0]
+            nex_yr = str(int(round(to_years(nex[1]["Date"]))))
         else:
             nex_yr = ""
-        _, row = cur
-        playerA = row["Schl"].strip()
-        playerB = row["Opp"].strip()
-        result = 1 * (row["Result"].split()[0] == "W")
 
-        p1 = None
-        p2 = None
-        if result:
-            p1 = playerA
-            p2 = playerB
-        else:
-            p1 = playerB
-            p2 = playerA
+        _, row = cur
+        p1 = row["Schl"].strip()
+        p2 = row["Opp"].strip()
 
         # p1 = row["Winner"].strip()
         # p2 = row["Loser"].strip()
