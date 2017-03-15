@@ -2,10 +2,9 @@
 import math
 import pandas as pd
 import argparse
-import utils
 import date
 import sys
-from jtutils import to_years
+from jtutils import to_years, threewise
 
 def readCL():
     parser = argparse.ArgumentParser()
@@ -29,7 +28,7 @@ def elo_dfs(infile):
     df = df[df.apply(lambda r: r["Result"].split()[0] == "W", axis = 1)]
     elo_dict = {}
     starting_elo = 1500
-    for las, cur, nex in utils.threewise(df.iterrows()):
+    for las, cur, nex in threewise(df.iterrows()):
         cur_yr = str(int(round(to_years(cur[1]["Date"]))))
         if nex:
             nex_yr = str(int(round(to_years(nex[1]["Date"]))))
