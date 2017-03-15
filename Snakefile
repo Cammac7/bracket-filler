@@ -1,0 +1,2 @@
+"allGames.csv" <-
+  for f in alltheGames/*csv; do less $f | pawk -g '",School," not in l and len(r) > 1'; done | pawk -g 'i==0 or ",Date,Schl,,Opp,Result,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,PTS" not in l' > $OUTPUT0
