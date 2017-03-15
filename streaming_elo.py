@@ -2,7 +2,6 @@
 import math
 import pandas as pd
 import argparse
-import date
 import sys
 from jtutils import to_years, threewise
 
