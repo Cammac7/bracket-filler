@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+442001,Johnny Hill\johnny-hill-2,G,2015-12-19,Purdue,,Butler,L,0,13,2,4,.500,2,4,.500,0,0,,0,0,,1,2,3,2,1,0,3,1,4,2.3
+442002,Isaac Haas\isaac-haas-1,C,2015-12-19,Purdue,,Butler,L,1,16,2,7,.286,2,7,.286,0,0,,0,0,,0,7,7,0,0,1,1,3,4,0.5
+442003,Davon Bell\davon-bell-1,G,2015-12-19,Presbyterian,,Piedmont,W,0,14,1,3,.333,1,3,.333,0,0,,2,4,.500,0,1,1,0,0,0,0,2,4,1.0
+442004,Austin Venable\austin-venable-1,C,2015-12-19,Presbyterian,,Piedmont,W,0,8,1,3,.333,1,3,.333,0,0,,2,2,1.000,2,0,2,0,1,1,1,2,4,3.6
+442005,Ray Barreno\ray-barreno-1,C,2015-12-19,Portland,,Cal State Fullerton,W,1,11,1,2,.500,1,2,.500,0,0,,2,2,1.000,0,0,0,0,0,1,1,4,4,1.1
+442006,Rashad Jackson\rashad-jackson-1,G,2015-12-19,Portland,,Cal State Fullerton,W,1,16,1,4,.250,1,3,.333,0,1,.000,2,2,1.000,0,1,1,3,0,0,1,3,4,1.8
+442007,Jarrel Marshall\jarrel-marshall-1,G,2015-12-19,Portland,,Cal State Fullerton,W,0,15,1,8,.125,1,6,.167,0,2,.000,2,2,1.000,2,3,5,0,0,1,0,0,4,1.8
+442008,Jamar Akoh\jamar-akoh-1,F,2015-12-19,Cal State Fullerton,,Portland,L,1,36,2,5,.400,2,4,.500,0,1,.000,0,3,.000,5,13,18,1,0,0,5,2,4,2.4
+442009,Mike Auger\mike-auger-1,F,2015-12-19,Pennsylvania,,Ursinus,W,0,7,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,0,1,0,2,3,4,2.2
+442010,Drew Eubanks\drew-eubanks-1,F,2015-12-19,Oregon State,,Tulsa,W,1,20,1,2,.500,1,2,.500,0,0,,2,2,1.000,1,1,2,0,0,1,1,3,4,2.5
+442011,Derrick Bruce\derrick-bruce-1,G,2015-12-19,Oregon State,,Tulsa,W,0,7,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,0,1,1,1,0,0,2,0,4,2.7
+442012,Ishmael Lane\ishmael-lane-1,F,2015-12-19,Northwestern State,,Missouri Valley,W,1,20,1,3,.333,1,3,.333,0,0,,2,2,1.000,4,4,8,0,0,3,3,4,4,3.8
+442013,Eric McGill\eric-mcgill-1,G,2015-12-19,Southeast Missouri State,@,Northern Kentucky,L,1,32,2,10,.200,2,8,.250,0,2,.000,0,0,,0,6,6,2,4,0,1,0,4,4.0
+442014,Michael Orris\michael-orris-1,G,2015-12-19,Northern Illinois,,Florida International,W,1,36,2,8,.250,2,5,.400,0,3,.000,0,0,,1,1,2,4,1,0,1,1,4,2.6
+442015,Eric Nottage\eric-nottage-1,G,2015-12-19,Florida International,@,Northern Illinois,L,0,27,0,3,.000,0,0,,0,3,.000,4,5,.800,0,2,2,4,0,1,1,4,4,3.0
+442016,Marvin Clark\marvin-clark-1,F,2015-12-19,Michigan State,@,Northeastern,W,0,6,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,0,1,0,2,2,4,1.9
+442017,Gavin Schilling\gavin-schilling-1,F,2015-12-19,Michigan State,@,Northeastern,W,0,11,2,3,.667,2,3,.667,0,0,,0,1,.000,1,2,3,0,0,1,1,4,4,1.7
+442018,Mario Karailiev\mario-karailiev-1,C,2015-12-19,Florida A&M,@,North Florida,L,1,10,2,3,.667,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,1,1,4,1.3
+442019,Johnathan Spicer\johnathan-spicer-1,F,2015-12-19,Florida A&M,@,North Florida,L,0,6,1,2,.500,1,2,.500,0,0,,2,2,1.000,1,0,1,2,0,0,0,0,4,5.1
+442020,Sam Logwood\sam-logwood-1,G,2015-12-19,New Mexico,,Rice,L,1,31,1,2,.500,0,0,,1,2,.500,1,2,.500,0,3,3,2,2,0,1,2,4,5.1
+442021,Nikola Scekic\nikola-scekic-1,C,2015-12-19,New Mexico,,Rice,L,0,8,2,4,.500,2,4,.500,0,0,,0,0,,1,0,1,0,1,0,0,0,4,3.7
+442022,Joe Bramanti\joe-bramanti-1,G,2015-12-19,New Hampshire,,Dartmouth,W,1,37,1,5,.200,1,4,.250,0,1,.000,2,5,.400,1,2,3,8,0,0,5,4,4,0.0
+442023,Connor Boehm\connor-boehm-1,F,2015-12-19,Dartmouth,@,New Hampshire,L,1,18,0,3,.000,0,2,.000,0,1,.000,4,6,.667,1,1,2,0,0,0,1,2,4,0.3
+442024,Cameron Smith\cameron-smith-1,G,2015-12-19,Dartmouth,@,New Hampshire,L,1,18,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,0,2,2,0,0,0,1,1,4,2.2
+442025,Russell Woods\russell-woods-1,F,2015-12-19,Missouri,,North Carolina State,L,0,19,2,3,.667,2,3,.667,0,0,,0,0,,0,4,4,2,0,1,0,3,4,4.8
+442026,K.J. Walton\kj-walton-1,G,2015-12-19,Missouri,,North Carolina State,L,0,11,2,3,.667,2,2,1.000,0,1,.000,0,2,.000,0,0,0,3,0,0,3,2,4,0.2
+442027,Kevin Puryear\kevin-puryear-1,F,2015-12-19,Missouri,,North Carolina State,L,1,25,1,2,.500,1,2,.500,0,0,,2,2,1.000,0,2,2,0,0,0,0,1,4,3.2
+442028,Jakeenan Gant\jakeenan-gant-1,F,2015-12-19,Missouri,,North Carolina State,L,0,16,2,5,.400,2,5,.400,0,0,,0,0,,1,1,2,0,1,1,0,2,4,3.2
+442029,Bryce Nickels\bryce-nickels-1,F,2015-12-19,Youngstown State,@,Michigan,L,1,12,2,3,.667,2,2,1.000,0,1,.000,0,0,,1,1,2,0,1,0,1,1,4,3.3
+442030,Payton Hulsey\peyton-hulsey-1,G,2015-12-19,College of Charleston,@,Miami (FL),L,1,20,2,2,1.000,2,2,1.000,0,0,,0,0,,3,2,5,3,0,0,2,4,4,4.6
+442031,Kamari Murphy\kamari-murphy-1,F,2015-12-19,Miami (FL),,College of Charleston,W,1,22,2,6,.333,2,5,.400,0,1,.000,0,0,,0,6,6,0,0,3,2,2,4,1.7
+442032,James Palmer\james-palmer-1,G,2015-12-19,Miami (FL),,College of Charleston,W,0,19,2,4,.500,2,2,1.000,0,2,.000,0,2,.000,0,2,2,1,1,0,2,0,4,1.5
+442033,Tai Odiase\tai-odiase-1,F,2015-12-19,Illinois-Chicago,@,Loyola (IL),L,1,20,2,3,.667,2,3,.667,0,0,,0,0,,2,2,4,0,1,3,3,3,4,3.6
+442034,Nigel Snipes\nigel-snipes-1,F,2015-12-19,Western Kentucky,@,Louisville,L,0,17,2,5,.400,2,2,1.000,0,3,.000,0,2,.000,0,0,0,0,3,0,2,1,4,1.1
+442035,Javan White\javan-white-1,F,2015-12-19,Oral Roberts,@,Louisiana State,L,0,22,2,3,.667,2,3,.667,0,0,,0,0,,0,4,4,1,0,3,2,4,4,3.1
+442036,Jesse Chuku\jesse-chuku-1,F,2015-12-19,Lehigh,,Mount St. Mary's,W,1,23,2,7,.286,2,4,.500,0,3,.000,0,0,,0,1,1,1,0,0,1,5,4,-2.1
+442037,D.J. Johnson\dj-johnson-2,F,2015-12-19,Kansas State,,Colorado State,W,0,8,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,1,1,4,3.0
+442038,Cheick Diallo\cheick-diallo-1,F,2015-12-19,Kansas,,Montana,W,0,10,2,4,.500,2,4,.500,0,0,,0,0,,0,3,3,1,1,1,2,5,4,1.3
+442039,Bryden Boehning\bryden-boehning-1,C,2015-12-19,Montana,@,Kansas,L,0,15,2,3,.667,2,3,.667,0,0,,0,2,.000,1,2,3,0,0,0,2,3,4,0.0
+442040,Aaron Brennan\aaron-brennan-1,F,2015-12-19,IUPUI,,Southern Utah,W,0,21,2,7,.286,2,7,.286,0,0,,0,0,,1,0,1,1,0,0,0,2,4,0.5
+442041,Brent Calhoun\brent-calhoun-1,F,2015-12-19,IPFW,,Stetson,W,1,13,2,4,.500,2,4,.500,0,0,,0,0,,1,1,2,0,0,0,1,1,4,1.6
+442042,Jeremy Morgan\jeremy-morgan-1,G,2015-12-19,Northern Iowa,,Iowa State,W,1,34,2,4,.500,2,3,.667,0,1,.000,0,0,,1,4,5,4,1,1,2,5,4,4.4
+442043,Peter Jok\peter-jok-1,G,2015-12-19,Iowa,,Drake,W,1,23,2,10,.200,2,6,.333,0,4,.000,0,0,,0,2,2,2,0,0,0,2,4,-1.0
+442044,Adam Woodbury\adam-woodbury-1,C,2015-12-19,Iowa,,Drake,W,1,12,2,5,.400,2,5,.400,0,0,,0,0,,1,0,1,1,1,0,1,1,4,2.3
+442045,Maverick Morgan\maverick-morgan-1,C,2015-12-19,Illinois,,South Dakota,W,0,13,2,4,.500,2,4,.500,0,0,,0,0,,0,3,3,0,0,0,1,1,4,1.5
+442046,Cameron Lewis\cameron-lewis-2,F,2015-12-19,Howard,,Maryland-Baltimore County,W,0,16,2,3,.667,2,3,.667,0,0,,0,1,.000,0,0,0,0,1,0,0,2,4,2.5
+442047,L.J. Rose\lj-rose-2,G,2015-12-19,Houston,,Eastern Illinois,W,0,21,1,5,.200,0,1,.000,1,4,.250,1,2,.500,0,0,0,4,0,0,0,2,4,2.5
+442048,Zach Price\zach-price-1,C,2015-12-19,Winthrop,@,Georgia Southern,W,1,25,1,3,.333,1,3,.333,0,0,,2,3,.667,1,4,5,1,1,3,0,2,4,6.8
+442049,Jason Burnell\jason-burnell-1,F,2015-12-19,Georgia Southern,,Winthrop,L,0,11,1,5,.200,0,1,.000,1,4,.250,1,3,.333,4,1,5,1,0,0,0,1,4,3.5
+442050,Devonte Boykins\devonte-boykins-1,G,2015-12-19,Georgia Southern,,Winthrop,L,0,19,1,3,.333,0,2,.000,1,1,1.000,1,2,.500,0,1,1,1,0,0,1,1,4,1.5
+442051,Coye Simmons\coye-simmons-1,F,2015-12-19,Georgia Southern,,Winthrop,L,0,4,2,8,.250,2,8,.250,0,0,,0,2,.000,4,3,7,0,0,0,0,0,4,2.1
+442052,Josh Heath\josh-heath-2,G,2015-12-19,Georgia Tech,@,Georgia,L,1,26,2,5,.400,2,3,.667,0,2,.000,0,0,,0,1,1,3,0,1,1,4,4,1.8
+442053,James White\james-white-2,G,2015-12-19,Georgia Tech,@,Georgia,L,0,15,2,3,.667,2,3,.667,0,0,,0,0,,3,5,8,0,0,0,1,4,4,3.7
+442054,Charles Mann\charles-mann-1,G,2015-12-19,Georgia,,Georgia Tech,W,1,32,1,6,.167,1,6,.167,0,0,,2,4,.500,0,5,5,3,0,0,3,4,4,-1.6
+442055,Ben Lammers\ben-lammers-1,C,2015-12-19,Georgia Tech,@,Georgia,L,0,20,2,3,.667,2,3,.667,0,0,,0,0,,1,4,5,0,2,1,1,2,4,5.5
+442056,Jessie Govan\jessie-govan-1,C,2015-12-19,Georgetown,,North Carolina-Asheville,L,0,11,1,4,.250,1,4,.250,0,0,,2,2,1.000,0,3,3,1,0,0,1,1,4,1.8
+442057,John Cannon\john-cannon-1,C,2015-12-19,North Carolina-Asheville,@,Georgetown,W,0,1,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7
+442058,Danny Dixon\danny-dixon-1,F,2015-12-19,George Mason,,Longwood,W,0,21,2,2,1.000,2,2,1.000,0,0,,0,0,,2,2,4,0,0,0,0,3,4,4.2
+442059,Nemanja Zarkovic\nemanja-zarkovic-1,G,2015-12-19,Fordham,,Maine,W,0,21,2,5,.400,2,2,1.000,0,3,.000,0,0,,1,2,3,1,3,0,0,4,4,4.7
+442060,Mandell Thomas\mandell-thomas-1,G,2015-12-19,Fordham,,Maine,W,1,23,1,8,.125,1,4,.250,0,4,.000,2,2,1.000,0,6,6,2,2,0,6,4,4,-3.6
+442061,Jesse Bunting\jesse-bunting-1,F,2015-12-19,Fordham,,Maine,W,1,20,2,5,.400,2,5,.400,0,0,,0,0,,2,0,2,1,0,0,1,0,4,2.4
+442062,Aaron Brennan\aaron-brennan-1,F,2016-01-23,IUPUI,@,IPFW,W,1,22,2,7,.286,2,6,.333,0,1,.000,0,0,,0,3,3,2,1,0,0,2,4,2.4
+442063,Bryant McIntosh\bryant-mcintosh-1,G,2016-01-23,Northwestern,@,Indiana,L,1,33,2,12,.167,2,10,.200,0,2,.000,0,0,,1,5,6,6,1,0,4,4,4,-1.8
+442064,Jontrell Walker\jontrell-walker-1,G,2016-01-23,Incarnate Word,,Abilene Christian,W,1,12,2,3,.667,2,2,1.000,0,1,.000,0,0,,0,0,0,1,1,0,4,2,4,-0.4
+442065,Duran Porter\duran-porter-1,F,2016-01-23,Abilene Christian,@,Incarnate Word,L,1,13,2,4,.500,2,4,.500,0,0,,0,2,.000,0,3,3,0,0,0,0,1,4,1.7
+442066,Jeremy Morgan\jeremy-morgan-1,G,2016-01-23,Northern Iowa,@,Illinois State,L,1,32,2,5,.400,2,3,.667,0,2,.000,0,2,.000,2,6,8,1,3,1,2,1,4,5.7
+442067,Zach Braxton\zach-braxton-1,F,2016-01-23,Weber State,@,Idaho State,L,1,19,2,4,.500,2,4,.500,0,0,,0,0,,1,1,2,1,0,1,3,2,4,0.6
+442068,Mike Thomas\mike-thomas-2,F,2016-01-23,Hawaii,,UC-Davis,W,1,25,2,5,.400,2,3,.667,0,2,.000,0,0,,2,2,4,0,2,0,3,3,4,1.1
+442069,Garrison Goode\garrison-goode-1,F,2016-01-23,UC-Davis,@,Hawaii,L,0,15,2,2,1.000,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,4,4,1.8
+442070,Khalen Pinkett\khaleen-pinkett-1,G,2016-01-23,Savannah State,@,Hampton,L,0,12,2,3,.667,2,3,.667,0,0,,0,0,,0,2,2,0,0,0,0,1,4,2.9
+442071,Jamar Hurdle\jamar-hurdle-1,F,2016-01-23,Green Bay,,Oakland,L,0,12,2,5,.400,2,5,.400,0,0,,0,0,,1,1,2,1,0,0,0,0,4,3.0
+442072,Quinton Stephens\quinton-stephens-1,F,2016-01-23,Georgia Tech,,Louisville,L,0,14,2,6,.333,2,3,.667,0,3,.000,0,0,,2,1,3,1,1,0,0,1,4,3.6
+442073,Quentin Snider\quentin-snider-1,G,2016-01-23,Louisville,@,Georgia Tech,W,1,24,1,5,.200,1,3,.333,0,2,.000,2,4,.500,3,2,5,3,0,0,1,2,4,3.1
+442074,Keaton Miles\keaton-miles-1,F,2016-01-23,Arkansas,@,Georgia,L,1,37,2,8,.250,2,7,.286,0,1,.000,0,0,,0,4,4,2,0,1,1,4,4,-0.1
+442075,Larry Wideman\larry-wideman-1,G,2016-01-23,Furman,,Wofford,W,0,22,1,4,.250,1,1,1.000,0,3,.000,2,4,.500,2,1,3,0,0,0,0,3,4,1.3
+442076,Jarquez Smith\jarquez-smith-1,F,2016-01-23,Florida State,,Pittsburgh,L,0,21,2,4,.500,2,4,.500,0,0,,0,0,,0,2,2,0,1,2,0,2,4,4.2
+442077,Devin Robinson\devin-robinson-1,F,2016-01-23,Florida,,Auburn,W,0,19,1,7,.143,1,7,.143,0,0,,2,2,1.000,2,6,8,1,2,1,3,3,4,1.9
+442078,Cinmeon Bowers\cinmeon-bowers-1,F,2016-01-23,Auburn,@,Florida,L,1,28,2,13,.154,2,9,.222,0,4,.000,0,0,,3,6,9,3,0,0,3,2,4,-2.1
+442079,Christian Hairston\christian-hairston-1,G,2016-01-23,Elon,,James Madison,L,1,17,2,3,.667,2,3,.667,0,0,,0,2,.000,1,1,2,0,2,0,1,4,4,2.3
+442080,Blake Brown\blake-brown-1,F,2016-01-23,Eastern Michigan,,Ball State,L,0,10,2,2,1.000,2,2,1.000,0,0,,0,0,,2,4,6,0,0,0,0,1,4,5.6
+442081,Paul Jackson\paul-johnson-3,G,2016-01-23,Eastern Kentucky,,Tennessee Tech,L,1,35,1,5,.200,1,1,1.000,0,4,.000,2,2,1.000,0,1,1,6,2,0,3,4,4,2.8
+442082,Zane Najdawi\zane-najdawi-1,F,2016-01-23,Citadel,@,East Tennessee State,L,1,14,2,6,.333,2,5,.400,0,1,.000,0,0,,1,3,4,0,0,0,1,2,4,0.4
+442083,Tom Koopman\tom-koopman-1,C,2016-01-23,Citadel,@,East Tennessee State,L,0,12,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,2,4,3.2
+442084,Desonta Bradford\desonta-bradford-1,G,2016-01-23,East Tennessee State,,Citadel,W,0,17,2,4,.500,2,4,.500,0,0,,0,0,,0,3,3,0,0,1,1,1,4,2.2
+442085,Derrick Henry\derrick-henry-1,G,2016-01-23,Citadel,@,East Tennessee State,L,1,15,1,6,.167,1,3,.333,0,3,.000,2,2,1.000,0,5,5,2,3,0,1,0,4,5.1
+442086,Abednego Lufile\abednego-lufile-1,F,2016-01-23,East Tennessee State,,Citadel,W,0,12,2,4,.500,2,4,.500,0,0,,0,0,,0,3,3,1,1,0,0,0,4,4.6
+442087,Michael Fleming\michael-fleming-1,G,2016-01-23,Dartmouth,,Harvard,W,0,17,2,4,.500,2,3,.667,0,1,.000,0,0,,0,0,0,1,2,0,1,0,4,3.7
+442088,Kevin Crescenzi\kevin-crescenzi-1,G,2016-01-23,Dartmouth,,Harvard,W,0,27,2,5,.400,2,3,.667,0,2,.000,0,0,,0,4,4,1,0,0,1,3,4,1.0
+442089,Brandon McDonnell\brandon-mcdonnell-1,F,2016-01-23,Dartmouth,,Harvard,W,0,11,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,3,4,2.5
+442090,Zach Hanson\zach-hanson-1,F,2016-01-23,Creighton,,Butler,W,0,20,2,3,.667,2,3,.667,0,0,,0,0,,1,4,5,0,1,2,1,5,4,4.0
+442091,Tyler Wideman\tyler-wideman-1,F,2016-01-23,Butler,@,Creighton,L,1,27,1,3,.333,1,3,.333,0,0,,2,5,.400,7,3,10,1,0,0,2,5,4,3.6
+442092,Wil Bathurst\will-bathurst-1,G,2016-01-23,Cornell,,Columbia,L,0,16,2,4,.500,2,2,1.000,0,2,.000,0,0,,0,5,5,0,0,1,1,0,4,3.2
+442093,Darryl Smith\darryl-smith-1,G,2016-01-23,Cornell,,Columbia,L,0,22,2,2,1.000,2,2,1.000,0,0,,0,0,,0,2,2,0,1,0,1,2,4,3.2
+442094,Nick Harris\nick-harris-1,F,2016-01-23,College of Charleston,,Delaware,W,1,29,2,2,1.000,2,2,1.000,0,0,,0,0,,2,4,6,0,1,0,1,4,4,4.4
+442095,Maurice Jeffers\maurice-jeffers-2,F,2016-01-23,Delaware,@,College of Charleston,L,0,21,0,2,.000,0,2,.000,0,0,,4,6,.667,2,1,3,0,0,0,1,1,4,2.1
+442096,Dayon Goodman\dayon-goodman-1,F,2016-01-23,Utah Valley,@,Chicago State,W,0,15,2,3,.667,2,3,.667,0,0,,0,0,,1,6,7,1,0,0,1,1,4,4.5
+442097,Benas Griciunas\benas-griciunas-1,C,2016-01-23,Charlotte,,Western Kentucky,W,0,10,2,5,.400,2,4,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,2,4,0.5
+442098,Demetrius Pollard\demetrius-pollard-1,G,2016-01-23,Charleston Southern,,Coastal Carolina,L,1,31,2,7,.286,2,3,.667,0,4,.000,0,0,,2,4,6,2,0,0,2,5,4,-0.1
+442099,DaJuan Smith\dajuan-smith-1,G,2016-01-23,UC-Santa Barbara,,Cal State Northridge,W,0,10,2,3,.667,2,3,.667,0,0,,0,0,,0,3,3,2,0,0,1,1,4,3.6
+442100,Parker Jackson-Cartwright\parker-jackson-cartwright-1,G,2016-01-23,Arizona,@,University of California,L,0,18,1,3,.333,1,3,.333,0,0,,2,2,1.000,0,1,1,6,0,0,3,2,4,3.0
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=442000&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

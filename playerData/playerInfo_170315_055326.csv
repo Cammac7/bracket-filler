@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+351501,Justin Fry\justin-fry-1,F,2011-01-08,Maryland-Baltimore County,,Maine,L,1,21,3,5,.600,3,5,.600,0,0,,0,0,,2,1,3,0,0,1,0,1,6,5.7
+351502,Antonio Barton\antonio-barton-1,G,2011-01-08,Memphis,,East Carolina,W,0,29,2,6,.333,1,3,.333,1,3,.333,1,2,.500,0,4,4,1,1,0,2,1,6,2.7
+351503,Chris Crawford\chris-crawford-3,G,2011-01-08,Memphis,,East Carolina,W,1,25,3,7,.429,3,5,.600,0,2,.000,0,0,,0,0,0,1,3,0,2,2,6,3.2
+351504,Joe Jackson\joe-jackson-1,G,2011-01-08,Memphis,,East Carolina,W,1,18,2,6,.333,2,5,.400,0,1,.000,2,4,.500,0,0,0,1,0,0,1,2,6,0.7
+351505,Will Barton\will-barton-1,G,2011-01-08,Memphis,,East Carolina,W,1,21,2,6,.333,1,2,.500,1,4,.250,1,2,.500,0,2,2,3,0,1,1,1,6,4.2
+351506,Senario Hillman\senario-hillman-1,G,2011-01-08,Alabama,@,Mississippi State,W,0,15,3,7,.429,3,7,.429,0,0,,0,0,,1,2,3,0,1,0,1,3,6,2.4
+351507,Bakari Lewis\bakari-lewis-1,G,2011-01-08,Missouri-Kansas City,,Southern Utah,W,1,30,1,6,.167,0,4,.000,1,2,.500,3,4,.750,2,0,2,2,2,1,5,1,6,1.9
+351508,B.J. Miller\bj-miller-1,G,2011-01-08,Jacksonville State,@,Morehead State,L,1,14,2,5,.400,0,1,.000,2,4,.500,0,0,,0,0,0,2,0,0,6,1,6,-1.7
+351509,Brice Jenkins\brice-jenkins-1,G,2011-01-08,Jacksonville State,@,Morehead State,L,0,15,2,3,.667,0,1,.000,2,2,1.000,0,0,,2,0,2,1,2,0,1,1,6,7.4
+351510,Josh Castellanos\josh-castellanos-1,G,2011-01-08,Mount St. Mary's,,Robert Morris,L,0,26,2,5,.400,0,2,.000,2,3,.667,0,0,,0,2,2,2,0,0,1,4,6,2.7
+351511,Velton Jones\velton-jones-1,G,2011-01-08,Robert Morris,@,Mount St. Mary's,W,1,27,2,8,.250,1,6,.167,1,2,.500,1,2,.500,0,3,3,1,2,0,2,1,6,2.0
+351512,Jeffery McClain\jeffery-mcclain-1,F,2011-01-08,Murray State,,Austin Peay,L,1,26,2,5,.400,2,5,.400,0,0,,2,6,.333,3,3,6,0,1,0,2,3,6,2.5
+351513,John Fraley\john-fraley-1,C,2011-01-08,Austin Peay,@,Murray State,W,1,33,3,7,.429,3,7,.429,0,0,,0,1,.000,3,6,9,2,0,0,0,3,6,6.0
+351514,TyShwan Edmondson\tyshwan-edmondson-1,G,2011-01-08,Austin Peay,@,Murray State,W,1,27,1,7,.143,1,4,.250,0,3,.000,4,5,.800,0,1,1,0,2,0,0,1,6,3.0
+351515,Brandon Ubel\brandon-ubel-1,F,2011-01-08,Nebraska,,Iowa State,W,0,12,1,4,.250,1,4,.250,0,0,,4,4,1.000,2,3,5,0,0,0,0,1,6,5.5
+351516,Brian Jorge Diaz\brian-jorge-diaz-1,C,2011-01-08,Nebraska,,Iowa State,W,1,27,2,10,.200,2,10,.200,0,0,,2,5,.400,2,2,4,3,0,3,4,2,6,0.0
+351517,Calvin Godfrey\calvin-godfrey-1,F,2011-01-08,Iowa State,@,Nebraska,L,0,20,3,6,.500,3,6,.500,0,0,,0,0,,3,4,7,0,1,1,0,1,6,7.6
+351518,Scott Christopherson\scott-christopherson-1,G,2011-01-08,Iowa State,@,Nebraska,L,1,39,2,7,.286,0,1,.000,2,6,.333,0,0,,0,1,1,1,0,0,3,0,6,-0.1
+351519,Amric Fields\amric-fields-1,F,2011-01-08,Texas Christian,@,Nevada-Las Vegas,L,0,21,3,4,.750,3,4,.750,0,0,,0,0,,3,1,4,0,0,0,4,3,6,1.6
+351520,Derrick Jasper\derrick-jasper-1,G,2011-01-08,Nevada-Las Vegas,,Texas Christian,W,1,24,3,9,.333,3,5,.600,0,4,.000,0,2,.000,2,3,5,2,0,1,0,1,6,4.1
+351521,Tyler Newbold\tyler-newbold-1,G,2011-01-08,Utah State,@,Nevada,W,1,26,2,3,.667,0,0,,2,3,.667,0,0,,1,5,6,0,0,0,0,4,6,5.3
+351522,Bracken Funk\bracken-funk-1,F,2011-01-08,Fresno State,@,New Mexico State,L,0,19,2,6,.333,2,5,.400,0,1,.000,2,2,1.000,3,2,5,1,1,0,2,1,6,4.6
+351523,Greg Smith\greg-smith-3,C,2011-01-08,Fresno State,@,New Mexico State,L,1,20,3,3,1.000,3,3,1.000,0,0,,0,0,,0,2,2,0,0,0,0,5,6,3.7
+351524,Renaldo Dixon\renaldo-dixon-1,F,2011-01-08,New Mexico State,,Fresno State,W,0,10,2,2,1.000,2,2,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,1,6,5.0
+351525,Bo Ingram\bo-ingram-1,F,2011-01-08,Texas-Arlington,@,Nicholls State,L,1,22,2,4,.500,2,3,.667,0,1,.000,2,2,1.000,2,3,5,0,1,0,5,3,6,1.1
+351526,Dantrell Thomas\dantrell-thomas-1,G,2011-01-08,Nicholls State,,Texas-Arlington,W,0,17,3,4,.750,3,4,.750,0,0,,0,0,,2,1,3,1,2,0,1,0,6,7.8
+351527,Drew Onyebuchi\drew-onyebuchi-1,F,2011-01-08,NJIT,,Marywood,W,0,21,3,4,.750,3,4,.750,0,0,,0,0,,1,5,6,1,0,0,0,1,6,6.9
+351528,Lamar Kearse\lamar-kearse-1,G,2011-01-08,NJIT,,Marywood,W,1,22,2,6,.333,0,1,.000,2,5,.400,0,0,,2,2,4,3,2,0,2,2,6,5.9
+351529,Yannick Crowder\yannick-crowder-1,F,2011-01-08,Florida A&M,@,North Carolina A&T,L,1,29,2,4,.500,2,4,.500,0,0,,2,2,1.000,2,8,10,0,0,4,0,5,6,8.6
+351530,Jay Threatt\jay-threatt-1,G,2011-01-08,Delaware State,@,North Carolina Central,W,1,38,2,6,.333,2,5,.400,0,1,.000,2,2,1.000,1,3,4,5,4,0,4,3,6,6.5
+351531,Justin Leemow\justin-leemow-1,G,2011-01-08,North Carolina Central,,Delaware State,L,1,35,3,8,.375,3,7,.429,0,1,.000,0,0,,0,1,1,5,3,0,1,3,6,6.2
+351532,Terron Stowe\terron-stowe-1,F,2011-01-08,Delaware State,@,North Carolina Central,W,1,21,2,2,1.000,2,2,1.000,0,0,,2,2,1.000,0,5,5,0,0,0,0,0,6,6.9
+351533,Aaron Bracket\aaron-bracket-1,F,2011-01-08,North Carolina-Greensboro,,Chattanooga,L,1,27,2,3,.667,2,3,.667,0,0,,2,5,.400,1,2,3,0,1,0,3,3,6,1.6
+351534,Carson Desrosiers\carson-desrosiers-1,F,2011-01-08,Wake Forest,@,North Carolina State,L,1,33,2,8,.250,2,7,.286,0,1,.000,2,2,1.000,2,5,7,1,0,2,0,3,6,5.0
+351535,Richard Howell\richard-howell-1,F,2011-01-08,North Carolina State,,Wake Forest,W,0,13,3,4,.750,3,4,.750,0,0,,0,0,,2,3,5,1,1,0,2,1,6,6.0
+351536,Andrew Rebol\andrew-rebol-1,F,2011-01-08,Centenary (LA),@,North Dakota State,L,1,18,2,5,.400,2,5,.400,0,0,,2,2,1.000,2,3,5,0,1,1,2,4,6,3.7
+351537,Jonathan Blount\jonathan-blount-1,G,2011-01-08,Centenary (LA),@,North Dakota State,L,0,11,3,5,.600,3,5,.600,0,0,,0,0,,1,0,1,0,0,0,0,0,6,4.4
+351538,Kauri Black\kauri-black-1,F,2011-01-08,Northeastern,,Hofstra,L,1,25,3,3,1.000,3,3,1.000,0,0,,0,0,,0,4,4,3,1,2,1,5,6,7.8
+351539,Kyle Tresnak\kyle-tresnak-1,C,2011-01-08,Weber State,@,Northern Arizona,W,0,11,3,6,.500,3,6,.500,0,0,,0,0,,1,0,1,0,0,0,0,2,6,2.9
+351540,Cody Anderson\cody-anderson-1,C,2011-01-08,Montana State,@,Northern Colorado,L,1,25,2,3,.667,2,3,.667,0,0,,2,2,1.000,1,3,4,2,1,1,1,2,6,7.6
+351541,Elliott Lloyd\elliott-lloyd-1,G,2011-01-08,Northern Colorado,,Montana State,W,1,31,3,6,.500,3,4,.750,0,2,.000,0,0,,0,2,2,3,1,0,4,4,6,1.1
+351542,Taylor Montgomery\taylor-montgomery-1,F,2011-01-08,Northern Colorado,,Montana State,W,1,32,2,7,.286,2,7,.286,0,0,,2,2,1.000,5,5,10,1,1,0,0,3,6,7.4
+351543,David Loubeau\david-loubeau-1,F,2011-01-08,Texas A&M,@,Oklahoma,W,1,20,2,5,.400,2,5,.400,0,0,,2,2,1.000,1,2,3,0,0,0,2,2,6,1.8
+351544,Demetrece Young\demetrece-young-1,G,2011-01-08,Pacific,,UC-Santa Barbara,W,1,40,2,9,.222,0,2,.000,2,7,.286,0,0,,1,2,3,3,2,0,0,1,6,5.5
+351545,Greg Somogyi\greg-somogyi-1,C,2011-01-08,UC-Santa Barbara,@,Pacific,L,1,18,2,3,.667,2,3,.667,0,0,,2,2,1.000,0,2,2,1,0,1,0,4,6,5.1
+351546,Derrick Nix\derrick-nix-1,C,2011-01-08,Michigan State,@,Penn State,L,0,11,2,4,.500,2,4,.500,0,0,,2,2,1.000,2,3,5,0,0,1,1,2,6,5.2
+351547,Phillip Thomas\phillip-thomas-1,F,2011-01-08,Portland State,,Eastern Washington,W,1,20,2,3,.667,2,3,.667,0,0,,2,2,1.000,0,2,2,0,1,0,2,2,6,3.5
+351548,Al'lonzo Coleman\allonzo-coleman-1,C,2011-01-08,Presbyterian,,North Carolina-Asheville,L,1,9,3,4,.750,3,4,.750,0,0,,0,0,,1,2,3,0,0,0,1,1,6,4.3
+351549,Jaron Lane\jaron-lane-1,F,2011-01-08,North Carolina-Asheville,@,Presbyterian,W,0,18,2,3,.667,2,3,.667,0,0,,2,2,1.000,0,2,2,0,0,1,0,1,6,5.6
+351550,Evan Faulkner\evan-faulkner-1,G,2011-01-08,Radford,,High Point,W,1,20,1,3,.333,0,0,,1,3,.333,3,4,.750,0,1,1,0,2,0,1,1,6,4.8
+351551,Duke Mondy\duke-mondy-1,G,2011-01-08,Providence,@,Rutgers,L,0,34,2,8,.250,0,1,.000,2,7,.286,0,0,,3,5,8,0,4,0,2,2,6,6.0
+351552,Justin Crosgile\justin-crosgile-1,G,2011-01-08,Saint Joseph's,,George Washington,L,0,22,2,8,.250,1,3,.333,1,5,.200,1,2,.500,1,4,5,2,3,0,2,4,6,3.5
+351553,Nemanja Mikic\nemanja-mikic-1,F,2011-01-08,George Washington,@,Saint Joseph's,W,1,23,2,6,.333,0,1,.000,2,5,.400,0,0,,0,4,4,1,0,0,1,1,6,3.1
+351554,Brandon Wiley\brandon-wiley-1,F,2011-01-08,Idaho,@,San Jose State,W,1,25,3,7,.429,3,7,.429,0,0,,0,0,,1,2,3,2,2,0,1,3,6,4.8
+351555,Brandon Durham\brandon-durham-1,F,2011-01-08,Seattle,,Cal State Northridge,W,0,16,2,3,.667,2,3,.667,0,0,,2,3,.667,1,2,3,0,0,0,1,4,6,3.0
+351556,Chad Rasmussen\chad-rasmussen-1,F,2011-01-08,Seattle,,Cal State Northridge,W,1,23,2,7,.286,0,0,,2,7,.286,0,0,,1,1,2,3,2,1,2,1,6,5.3
+351557,Garrett Lever\garrett-lever-1,G,2011-01-08,Seattle,,Cal State Northridge,W,1,36,2,5,.400,2,3,.667,0,2,.000,2,2,1.000,3,6,9,2,4,0,1,3,6,10.4
+351558,Louis Bell\louis-bell-1,G,2011-01-08,Maryland-Eastern Shore,@,South Carolina State,L,1,19,2,5,.400,0,1,.000,2,4,.500,0,0,,0,0,0,3,1,0,2,3,6,3.2
+351559,Lyvann Obame Obame\lyvann-obame-obame-2,C,2011-01-08,Maryland-Eastern Shore,@,South Carolina State,L,0,22,2,3,.667,2,3,.667,0,0,,2,4,.500,2,1,3,0,1,0,2,4,6,3.0
+351560,Babatunde Olomuwiya\babatunde-olomuwiya-1,C,2011-01-08,South Carolina Upstate,,Stetson,L,0,19,3,4,.750,3,4,.750,0,0,,0,0,,1,1,2,0,0,2,1,3,6,4.6
+351561,Mezie Uzochukwu\mezie-uzochukwu-1,F,2011-01-08,South Carolina Upstate,,Stetson,L,1,22,3,6,.500,3,6,.500,0,0,,0,1,.000,0,4,4,1,2,0,1,3,6,4.3
+351562,Steve Forbes\steve-forbes-1,F,2011-01-08,Stetson,@,South Carolina Upstate,W,1,29,3,6,.500,3,6,.500,0,0,,0,0,,2,1,3,0,0,0,4,2,6,-0.1
+351563,L.C. Doss\lc-doss-1,G,2011-01-08,Eastern Illinois,@,Southeast Missouri State,L,0,23,2,5,.400,1,1,1.000,1,4,.250,1,2,.500,0,2,2,2,0,0,2,2,6,2.1
+351564,DeShawn Patterson\deshawn-patterson-1,G,2011-01-08,Southeastern Louisiana,,Stephen F. Austin,W,1,39,1,2,.500,1,2,.500,0,0,,4,6,.667,0,3,3,3,4,0,3,3,6,7.0
+351565,Desmond Haymon\desmond-haymon-1,G,2011-01-08,Stephen F. Austin,@,Southeastern Louisiana,L,0,5,2,3,.667,0,0,,2,3,.667,0,2,.000,0,0,0,0,0,0,0,0,6,3.9
+351566,Eddie Williams\eddie-williams-1,G,2011-01-08,Stephen F. Austin,@,Southeastern Louisiana,L,1,38,2,7,.286,2,5,.400,0,2,.000,2,2,1.000,3,3,6,1,2,0,2,3,6,4.4
+351567,Jordan Glynn\jordan-glynn-1,F,2011-01-08,Stephen F. Austin,@,Southeastern Louisiana,L,1,37,2,6,.333,2,6,.333,0,0,,2,2,1.000,4,6,10,1,1,0,2,3,6,5.7
+351568,David Boarden\david-boarden-1,G,2011-01-08,Southern Illinois-Edwardsville,,South Dakota,W,0,24,3,7,.429,3,7,.429,0,0,,0,0,,2,2,4,2,1,0,2,1,6,4.3
+351569,An'Juan Wilderness\anjuan-wilderness-1,F,2011-01-08,Charlotte,@,St. Bonaventure,L,1,41,3,6,.500,3,6,.500,0,0,,0,1,.000,4,4,8,3,0,0,0,3,6,7.5
+351570,Charles Dewhurst\charles-dewhurst-1,G,2011-01-08,Charlotte,@,St. Bonaventure,L,0,15,3,4,.750,3,4,.750,0,0,,0,0,,3,1,4,1,2,0,1,1,6,8.1
+351571,Kj Sherrill\kj-sherrill-1,F,2011-01-08,Charlotte,@,St. Bonaventure,L,0,28,3,5,.600,3,5,.600,0,0,,0,0,,3,0,3,0,0,1,2,4,6,2.9
+351572,Jacquan Nobles\jacquan-nobles-1,G,2011-01-08,Tennessee State,@,Tennessee-Martin,W,0,20,2,5,.400,0,0,,2,5,.400,0,0,,0,3,3,0,0,0,5,1,6,-1.2
+351573,Terence Smith\terence-smith-1,G,2011-01-08,Tennessee-Martin,,Tennessee State,L,1,37,3,9,.333,3,7,.429,0,2,.000,0,0,,0,5,5,6,1,0,3,5,6,2.6
+351574,Antuan Bootle\antuan-bootle-1,C,2011-01-08,Sam Houston State,@,Texas-San Antonio,W,1,20,3,6,.500,3,6,.500,0,0,,0,0,,2,0,2,2,1,0,0,1,6,6.4
+351575,Marcus James\marcus-james-1,F,2011-01-08,Sam Houston State,@,Texas-San Antonio,W,0,21,3,5,.600,3,5,.600,0,0,,0,0,,2,4,6,0,1,0,0,2,6,6.5
+351576,T.J. Williams\tj-williams-2,F,2011-01-08,Texas-San Antonio,,Sam Houston State,L,0,18,3,7,.429,3,7,.429,0,0,,0,0,,2,2,4,1,1,1,2,1,6,4.3
+351577,Quincy Acy\quincy-acy-1,F,2011-01-08,Baylor,@,Texas Tech,W,1,34,2,8,.250,2,8,.250,0,0,,2,3,.667,1,4,5,1,0,1,1,3,6,1.9
+351578,Connor Frizzelle\connor-frizzelle-1,G,2011-01-08,Rice,@,Tulsa,L,0,32,2,11,.182,0,5,.000,2,6,.333,0,0,,0,3,3,2,1,0,4,0,6,-1.6
+351579,Billy White\billy-white-1,F,2011-01-08,San Diego State,@,Utah,W,1,20,3,6,.500,3,4,.750,0,2,.000,0,0,,0,0,0,3,0,1,3,4,6,1.2
+351580,J.J. O'Brien\jj-obrien-1,F,2011-01-08,Utah,,San Diego State,L,1,31,2,10,.200,2,8,.250,0,2,.000,2,5,.400,4,6,10,0,1,0,3,2,6,0.4
+351581,Austin Kenon\austin-kenon-1,G,2011-01-08,Virginia Military Institute,,Charleston Southern,L,1,30,1,11,.091,0,3,.000,1,8,.125,3,3,1.000,0,2,2,2,1,0,1,4,6,-0.9
+351582,Chris Grier\chris-grier-1,G,2011-01-08,Charleston Southern,@,Virginia Military Institute,W,0,6,2,3,.667,2,3,.667,0,0,,2,2,1.000,1,1,2,0,1,0,1,0,6,5.7
+351583,Sheldon Strickland\sheldon-strickland-1,G,2011-01-08,Charleston Southern,@,Virginia Military Institute,W,1,27,0,7,.000,0,5,.000,0,2,.000,6,6,1.000,3,2,5,0,1,0,1,3,6,2.6
+351584,Mislav Jukic\mislav-jukic-1,F,2011-01-08,Saint Francis (PA),@,Wagner,L,1,16,2,3,.667,2,3,.667,0,0,,2,2,1.000,1,3,4,2,0,0,5,4,6,1.1
+351585,Abe Lodwick\abe-lodwick-1,F,2011-01-08,Washington State,,Oregon,W,1,26,2,5,.400,0,1,.000,2,4,.500,0,0,,0,6,6,1,0,0,0,4,6,4.2
+351586,Faisal Aden\faisal-aden-1,G,2011-01-08,Washington State,,Oregon,W,0,14,1,6,.167,0,2,.000,1,4,.250,3,4,.750,1,2,3,1,1,0,5,1,6,-0.6
+351587,Angus Brandt\angus-brandt-1,C,2011-01-08,Oregon State,@,Washington,L,1,22,2,8,.250,1,5,.200,1,3,.333,1,2,.500,1,3,4,0,2,1,1,4,6,2.5
+351588,Jake Cohen\jake-cohen-1,F,2011-01-08,Davidson,@,Western Carolina,L,1,20,2,6,.333,2,5,.400,0,1,.000,2,4,.500,2,4,6,1,1,0,4,5,6,0.1
+351589,Richie Gordon\richie-gordon-1,F,2011-01-08,Western Carolina,,Davidson,W,1,14,2,4,.500,2,4,.500,0,0,,2,3,.667,1,2,3,2,3,1,5,5,6,3.0
+351590,Santoine Butler\santoine-butler-1,F,2011-01-08,Gardner-Webb,@,Winthrop,L,0,11,2,4,.500,2,4,.500,0,0,,2,3,.667,2,2,4,0,0,0,1,1,6,4.2
+351591,Antwaine Wiggins\antwaine-wiggins-1,F,2011-01-08,College of Charleston,@,Wofford,W,1,34,2,5,.400,0,1,.000,2,4,.500,0,0,,0,4,4,0,0,0,1,1,6,3.1
+351592,A.J. Hardeman\aj-hardeman-1,F,2011-01-08,New Mexico,@,Wyoming,L,1,25,3,8,.375,3,8,.375,0,0,,0,2,.000,1,1,2,1,1,0,3,5,6,-1.5
+351593,Michael Grace\michael-grace-1,G,2011-01-08,Yale,,Baruch College,W,0,11,3,4,.750,3,3,1.000,0,1,.000,0,0,,0,0,0,2,1,0,2,1,6,4.4
+351594,Brendon Lavender\brendon-lavender-1,G,2011-01-09,Arizona,,Stanford,W,0,12,1,4,.250,0,1,.000,1,3,.333,3,4,.750,0,0,0,0,1,0,0,0,6,4.2
+351595,Jarrett Mann\jarrett-mann-1,G,2011-01-09,Stanford,@,Arizona,L,1,33,2,2,1.000,2,2,1.000,0,0,,2,2,1.000,2,2,4,4,2,0,2,1,6,9.8
+351596,Matt Griffin\matt-griffin-1,G,2011-01-09,Boston University,,Vermont,W,0,21,1,3,.333,1,1,1.000,0,2,.000,4,6,.667,1,3,4,0,0,0,2,1,6,2.7
+351597,Ronald Nored\ronald-nored-1,G,2011-01-09,Butler,,Youngstown State,W,1,32,2,7,.286,2,7,.286,0,0,,2,7,.286,1,2,3,2,4,0,1,2,6,4.8
+351598,Danny Stewart\danny-stewart-1,F,2011-01-09,Rider,@,Canisius,W,1,25,2,5,.400,2,5,.400,0,0,,2,4,.500,4,4,8,0,0,0,1,4,6,3.9
+351599,Robert Goldsberry\robert-goldsberry-1,G,2011-01-09,Canisius,,Rider,L,1,27,1,4,.250,0,1,.000,1,3,.333,3,4,.750,0,0,0,9,3,0,0,4,6,10.9
+351600,Aaron Hawley\aaron-hawley-1,G,2011-01-09,Drake,,Indiana State,L,0,18,2,4,.500,2,3,.667,0,1,.000,2,2,1.000,0,2,2,0,1,0,0,1,6,5.2
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=351500&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

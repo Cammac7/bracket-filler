@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+499001,Anthony Brown\anthony-brown-5,G,2011-01-09,Stanford,@,Arizona,L,0,14,1,7,.143,0,3,.000,1,4,.250,0,0,,1,1,2,0,0,0,1,0,3,-1.5
+499002,Pat Bergmann\pat-bergmann-1,F,2011-01-09,Vermont,@,Boston University,L,0,2,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,0,0,0,0,1,0,0,3,2.7
+499003,Jonathan Thompson\jonathan-thompson-1,G,2011-01-09,Rider,@,Canisius,W,0,26,1,3,.333,1,2,.500,0,1,.000,1,1,1.000,0,2,2,3,0,0,0,1,3,3.6
+499004,Patrick Mansell\patrick-mansell-1,G,2011-01-09,Rider,@,Canisius,W,0,11,1,2,.500,0,0,,1,2,.500,0,0,,0,3,3,0,0,0,0,0,3,2.9
+499005,Terrell Stoglin\terrell-stoglin-1,G,2011-01-09,Maryland,@,Duke,L,1,24,1,10,.100,1,4,.250,0,6,.000,1,2,.500,0,3,3,5,0,0,3,4,3,-4.2
+499006,Jahenns Manigat\jahenns-manigat-1,G,2011-01-09,Creighton,@,Evansville,W,0,12,1,2,.500,0,0,,1,2,.500,0,0,,0,0,0,0,1,0,2,2,3,0.2
+499007,Keith Matthews\keith-matthews-1,F,2011-01-09,Fairfield,,Saint Peter's,W,0,22,0,3,.000,0,3,.000,0,0,,3,4,.750,2,1,3,3,1,0,0,4,3,3.7
+499008,Yorel Hawkins\yorel-hawkins-1,F,2011-01-09,Fairfield,,Saint Peter's,W,1,15,1,3,.333,1,3,.333,0,0,,1,2,.500,1,1,2,1,0,1,1,3,3,1.1
+499009,Blake Metcalf\blake-metcalf-1,C,2011-01-09,Albany (NY),@,Hartford,L,0,16,1,3,.333,1,3,.333,0,0,,1,2,.500,2,3,5,1,0,1,1,1,3,3.2
+499010,Erik Etherly\erik-etherly-1,F,2011-01-09,Loyola (MD),@,Iona,L,1,30,1,4,.250,1,4,.250,0,0,,1,2,.500,1,8,9,1,1,0,1,3,3,2.8
+499011,Jay Bowie\jay-bowie-1,G,2011-01-09,Marist,@,Manhattan,W,1,32,1,3,.333,0,1,.000,1,2,.500,0,0,,2,4,6,5,1,0,1,4,3,5.8
+499012,Nick Walsh\nick-walsh-1,G,2011-01-09,Manhattan,,Marist,L,0,19,1,7,.143,0,3,.000,1,4,.250,0,0,,0,3,3,2,0,0,1,1,3,-0.6
+499013,Luke Fabrizius\luke-fabrizius-1,F,2011-01-09,Dayton,@,Massachusetts,L,0,18,1,5,.200,0,0,,1,5,.200,0,0,,1,2,3,0,0,0,1,3,3,-1.0
+499014,Matt Kavanaugh\matt-kavanaugh-1,C,2011-01-09,Dayton,@,Massachusetts,L,0,16,1,2,.500,1,2,.500,0,0,,1,3,.333,0,0,0,0,0,0,0,1,3,0.8
+499015,David Robinson\david-robinson-2,F,2011-01-09,Longwood,@,North Dakota,L,0,14,1,3,.333,0,0,,1,3,.333,0,0,,1,0,1,1,0,0,1,1,3,1.3
+499016,Earl Gee\earl-gee-1,G,2011-01-09,Longwood,@,North Dakota,L,0,12,1,4,.250,1,4,.250,0,0,,1,1,1.000,0,0,0,1,2,0,1,2,3,1.5
+499017,Mark Parker\mark-parker-1,G,2011-01-09,Longwood,@,North Dakota,L,0,7,1,1,1.000,0,0,,1,1,1.000,0,1,.000,0,1,1,0,0,0,0,0,3,2.6
+499018,Jake Eastman\jake-eastman-1,G,2011-01-09,Bradley,@,Northern Iowa,L,0,29,1,4,.250,0,1,.000,1,3,.333,0,0,,2,3,5,0,0,0,0,1,3,2.5
+499019,Kerwin Dunham\kerwin-dunham-1,G,2011-01-09,Northern Iowa,,Bradley,W,0,19,1,1,1.000,0,0,,1,1,1.000,0,0,,0,1,1,1,0,0,0,3,3,2.5
+499020,Milos Knezevic\milos-knezevic-1,F,2011-01-09,Bradley,@,Northern Iowa,L,0,7,1,1,1.000,0,0,,1,1,1.000,0,0,,0,2,2,0,0,0,0,0,3,3.3
+499021,Matt Roth\matt-roth-1,G,2011-01-09,Indiana,@,Northwestern,L,0,5,1,2,.500,0,0,,1,2,.500,0,0,,0,0,0,0,0,0,0,1,3,1.6
+499022,Maverick Ahanmisi\maverick-ahanmisi-1,G,2011-01-09,Minnesota,@,Ohio State,L,0,9,1,1,1.000,0,0,,1,1,1.000,0,0,,0,1,1,2,0,0,3,0,3,1.4
+499023,Asown Sayles\asown-sayles-1,F,2011-01-09,Ohio,,Miami (OH),L,0,37,1,2,.500,1,1,1.000,0,1,.000,1,2,.500,2,2,4,1,2,0,1,4,3,3.7
+499024,Nick Kellogg\nick-kellogg-1,G,2011-01-09,Ohio,,Miami (OH),L,1,21,1,5,.200,0,3,.000,1,2,.500,0,0,,1,1,2,1,0,0,1,0,3,0.6
+499025,D.J. Byrd\dj-byrd-1,G,2011-01-09,Purdue,,Iowa,W,1,19,1,5,.200,1,1,1.000,0,4,.000,1,2,.500,0,1,1,2,0,0,0,3,3,0.0
+499026,Eric May\eric-may-1,G,2011-01-09,Iowa,@,Purdue,L,1,17,1,4,.250,0,2,.000,1,2,.500,0,0,,0,2,2,0,0,0,2,1,3,-1.2
+499027,Dante Jackson\dante-jackson-1,G,2011-01-09,Xavier,@,Rhode Island,W,1,35,1,6,.167,0,1,.000,1,5,.200,0,0,,0,3,3,3,2,0,1,2,3,2.4
+499028,Griffin McKenzie\griffin-mckenzie-1,F,2011-01-09,Xavier,@,Rhode Island,W,0,2,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,2.3
+499029,Johnny Mazza\johnny-mazza-1,G,2011-01-09,Xavier,@,Rhode Island,W,0,1,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+499030,LaVonte Dority\lavonte-dority-1,G,2011-01-09,South Florida,,Louisville,L,0,8,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,3,1.6
+499031,Ron Anderson\ron-anderson-2,F,2011-01-09,South Florida,,Louisville,L,1,24,1,3,.333,1,3,.333,0,0,,1,2,.500,2,5,7,4,0,0,3,4,3,2.0
+499032,Russ Smith\russ-smith-1,G,2011-01-09,Louisville,@,South Florida,W,0,8,1,2,.500,0,0,,1,2,.500,0,0,,0,0,0,2,1,0,0,2,3,3.6
+499033,Marcus Simmons\marcus-simmons-1,G,2011-01-09,Southern California,,UCLA,W,1,28,1,3,.333,0,2,.000,1,1,1.000,0,0,,1,2,3,1,1,0,0,4,3,2.7
+499034,Jack Crowder\jack-crowder-1,G,2011-01-09,Southern Illinois,,Illinois State,W,1,18,0,5,.000,0,3,.000,0,2,.000,3,4,.750,2,4,6,1,0,0,1,1,3,1.0
+499035,Justin Jackson\justin-jackson-3,F,2011-01-09,Cincinnati,@,Villanova,L,0,22,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,2,3,0,2,1,1,1,3,4.9
+499036,Larry Davis\larry-davis-1,G,2011-01-09,Cincinnati,@,Villanova,L,0,11,1,3,.333,0,1,.000,1,2,.500,0,0,,0,1,1,0,0,0,1,4,3,-1.0
+499037,Antonio Weary\antonio-weary-1,G,2011-01-09,Central Michigan,@,Western Michigan,L,0,25,1,6,.167,1,6,.167,0,0,,1,3,.333,3,2,5,0,1,0,1,4,3,-0.5
+499038,Toure' Murry\toure-murry-1,G,2011-01-09,Wichita State,,Missouri State,L,1,33,1,6,.167,1,4,.250,0,2,.000,1,3,.333,2,9,11,3,0,1,6,1,3,-1.1
+499039,Gavin Montgomery\gavin-montgomery-1,G,2011-01-10,Arkansas-Pine Bluff,,Alabama A&M,W,0,16,0,3,.000,0,3,.000,0,0,,3,4,.750,1,2,3,0,3,1,1,2,3,3.7
+499040,Jonathan Inman\jonathan-inman-1,F,2011-01-10,Alabama A&M,@,Arkansas-Pine Bluff,L,0,14,1,1,1.000,1,1,1.000,0,0,,1,4,.250,1,2,3,0,0,0,1,2,3,1.0
+499041,Trevor Noack\trevor-noack-1,F,2011-01-10,Belmont,,Jacksonville,W,1,13,1,4,.250,0,1,.000,1,3,.333,0,0,,1,2,3,0,1,0,1,0,3,1.9
+499042,Chretien Lukusa\chretien-lukusa-1,G,2011-01-10,Binghamton,,Stony Brook,W,1,36,1,7,.143,1,3,.333,0,4,.000,1,3,.333,1,2,3,4,4,0,5,5,3,-1.2
+499043,Dallis Joyner\dallis-joyner-1,F,2011-01-10,Stony Brook,@,Binghamton,L,0,23,1,5,.200,1,5,.200,0,0,,1,2,.500,3,1,4,2,1,1,1,2,3,3.2
+499044,Jake Gollon\jake-gollon-1,F,2011-01-10,Mercer,@,Campbell,L,0,13,1,1,1.000,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,0,0,0,3,3,1.5
+499045,Bryce Fluellen\bryce-fluellen-1,G,2011-01-10,Howard,@,Coppin State,L,0,4,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+499046,Collin Johnson\collin-johnson-1,G,2011-01-10,Coppin State,,Howard,W,1,12,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,3,0.6
+499047,Mike Simpson\mike-simpson-1,G,2011-01-10,Coppin State,,Howard,W,0,7,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,2,3,1.9
+499048,Sheldon Cooley\sheldon-cooley-1,G,2011-01-10,East Tennessee State,,Stetson,W,0,18,1,2,.500,1,2,.500,0,0,,1,2,.500,0,1,1,1,1,0,4,4,3,-2.0
+499049,Chris Britt-Black\chris-britt-black-1,F,2011-01-10,Grambling,,Alcorn State,L,1,13,1,3,.333,1,3,.333,0,0,,1,2,.500,3,5,8,0,0,1,1,4,3,2.6
+499050,Ian Francis\ian-francis-1,F,2011-01-10,Alcorn State,@,Grambling,W,1,25,1,5,.200,1,5,.200,0,0,,1,2,.500,2,2,4,0,0,0,3,3,3,-2.7
+499051,Yondarius Johnson\yondarius-johnson-2,G,2011-01-10,Grambling,,Alcorn State,L,0,5,1,1,1.000,0,0,,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,3,2.6
+499052,Cason Burk\cason-burk-1,G,2011-01-10,Jackson State,,Southern,W,0,21,1,1,1.000,1,1,1.000,0,0,,1,3,.333,2,1,3,2,1,0,0,2,3,5.2
+499053,Patrick Coleman\patrick-coleman-1,G,2011-01-10,Southern,@,Jackson State,L,0,14,1,3,.333,0,0,,1,3,.333,0,0,,1,1,2,0,0,1,1,2,3,1.2
+499054,Brandon Barnes\brandon-barnes-1,G,2011-01-10,Lipscomb,,North Florida,W,0,22,0,5,.000,0,4,.000,0,1,.000,3,7,.429,2,3,5,0,0,0,1,2,3,-1.6
+499055,Charles McRoy\charles-mcroy-1,F,2011-01-10,North Florida,@,Lipscomb,L,0,3,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+499056,David Jeune\david-jeune-1,F,2011-01-10,North Florida,@,Lipscomb,L,1,23,1,1,1.000,1,1,1.000,0,0,,1,2,.500,2,2,4,0,0,2,0,5,3,3.7
+499057,Michael Teller\michael-teller-1,F,2011-01-10,Lipscomb,,North Florida,W,1,17,1,5,.200,0,2,.000,1,3,.333,0,0,,0,1,1,1,1,0,0,0,3,1.9
+499058,Zach Brown\zach-brown-1,G,2011-01-10,Lipscomb,,North Florida,W,0,7,1,2,.500,1,1,1.000,0,1,.000,1,2,.500,0,1,1,0,0,0,1,1,3,0.5
+499059,Joey Brooks\joey-brooks-1,G,2011-01-10,Notre Dame,@,Marquette,L,0,17,1,2,.500,1,2,.500,0,0,,1,2,.500,1,0,1,0,2,0,0,3,3,3.1
+499060,Cedric Smith\cedric-smith-3,G,2011-01-10,Savannah State,@,Marshall,L,0,28,1,5,.200,1,5,.200,0,0,,1,1,1.000,0,1,1,1,4,0,1,2,3,3.1
+499061,Derrick Banks\derrick-banks-1,G,2011-01-10,Morgan State,,Hampton,W,0,7,1,1,1.000,0,0,,1,1,1.000,0,0,,1,0,1,0,0,0,0,3,3,2.2
+499062,Gene Johnson\gene-johnson-1,F,2011-01-10,Morgan State,,Hampton,W,0,5,1,2,.500,1,2,.500,0,0,,1,2,.500,1,0,1,0,2,0,1,2,3,2.5
+499063,Justin Black\justin-black-1,G,2011-01-10,Morgan State,,Hampton,W,0,17,1,7,.143,0,4,.000,1,3,.333,0,0,,0,0,0,5,2,0,4,4,3,-1.6
+499064,Koron Reed\koron-reed-1,F,2011-01-10,Hampton,@,Morgan State,L,0,12,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,0,1,0,0,0,0,4,3,1.4
+499065,Kris Brown\kris-brown-1,G,2011-01-10,Norfolk State,,Florida A&M,W,0,2,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+499066,Malik Johnson\malik-johnson-1,G,2011-01-10,Norfolk State,,Florida A&M,W,0,1,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,3,1.7
+499067,Pendarvis Williams\pendarvis-williams-1,G,2011-01-10,Norfolk State,,Florida A&M,W,0,13,1,4,.250,1,4,.250,0,0,,1,2,.500,0,1,1,1,0,0,1,0,3,0.2
+499068,Jeremy Underwood\jeremy-underwood-1,G,2011-01-10,North Carolina A&T,,Bethune-Cookman,L,0,7,1,3,.333,0,2,.000,1,1,1.000,0,0,,0,2,2,1,1,0,4,0,3,-0.4
+499069,Mark Robertson\mark-robertson-1,G,2011-01-10,Maryland-Eastern Shore,@,North Carolina Central,L,0,4,1,4,.250,0,1,.000,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,0.6
+499070,Aaron Bracket\aaron-bracket-1,F,2011-01-10,North Carolina-Greensboro,,Elon,L,1,20,1,6,.167,1,6,.167,0,0,,1,2,.500,3,5,8,1,1,1,2,4,3,1.2
+499071,Cody Henegar\cody-henegar-1,F,2011-01-10,North Carolina-Greensboro,,Elon,L,0,6,1,3,.333,0,1,.000,1,2,.500,0,0,,0,1,1,0,0,0,0,0,3,1.6
+499072,Sebastian Koch\sebastian-koch-1,G,2011-01-10,Elon,@,North Carolina-Greensboro,W,0,16,1,3,.333,0,1,.000,1,2,.500,0,0,,0,0,0,0,0,0,1,2,3,-0.5
+499073,Omar Sanders\omar-sanders-1,F,2011-01-10,South Carolina State,,Delaware State,L,1,15,1,4,.250,0,2,.000,1,2,.500,0,0,,0,3,3,0,0,1,3,2,3,-1.6
+499074,Richard Howell\richard-howell-1,F,2011-01-11,North Carolina State,@,Boston College,L,0,16,1,5,.200,1,5,.200,0,0,,1,2,.500,2,5,7,0,0,0,0,1,3,2.0
+499075,Jay Higgins\jay-higgins-1,F,2011-01-11,Eastern Michigan,,Northern Illinois,L,0,20,1,5,.200,0,1,.000,1,4,.250,0,0,,0,2,2,0,3,0,2,1,3,1.1
+499076,Alex Tucker\alex-tucker-1,G,2011-01-11,Florida Atlantic,,Manhattan,W,0,23,1,7,.143,0,5,.000,1,2,.500,0,0,,2,1,3,0,0,0,1,2,3,-1.6
+499077,Luke Kraus\luke-kraus-1,G,2011-01-11,Bowling Green State,@,Kent State,L,0,13,1,5,.200,0,2,.000,1,3,.333,0,0,,2,0,2,1,1,0,0,3,3,1.8
+499078,Durrell Summers\durrell-summers-1,G,2011-01-11,Michigan State,,Wisconsin,W,1,38,1,6,.167,1,1,1.000,0,5,.000,1,2,.500,1,5,6,0,0,0,1,1,3,-0.4
+499079,Korie Lucious\korie-lucious-1,G,2011-01-11,Michigan State,,Wisconsin,W,0,22,1,3,.333,0,1,.000,1,2,.500,0,0,,0,2,2,2,1,1,1,0,3,4.0
+499080,Jordon Bronner\jordon-bronner-1,G,2011-01-11,New Hampshire,,Hartford,W,1,31,1,4,.250,0,1,.000,1,3,.333,0,0,,0,1,1,4,1,0,2,1,3,2.3
+499081,Robert Hayes\robert-hayes-1,G,2011-01-11,Cal State Bakersfield,@,Pacific,L,0,11,1,4,.250,0,0,,1,4,.250,0,0,,0,0,0,0,0,0,2,1,3,-1.8
+499082,Billy Oliver\billy-oliver-1,F,2011-01-11,Penn State,,Illinois,W,0,18,1,2,.500,0,0,,1,2,.500,0,0,,0,1,1,1,0,2,0,3,3,3.2
+499083,D.J. Richardson\dj-richardson-1,G,2011-01-11,Illinois,@,Penn State,L,1,31,0,4,.000,0,2,.000,0,2,.000,3,3,1.000,0,1,1,3,1,0,1,1,3,2.2
+499084,Jereme Richmond\jereme-richmond-1,F,2011-01-11,Illinois,@,Penn State,L,0,13,1,3,.333,1,3,.333,0,0,,1,1,1.000,1,3,4,0,1,0,2,1,3,1.5
+499085,Chris Hines\chris-hines-1,G,2011-01-11,Utah,,Brigham Young,L,0,15,1,5,.200,0,2,.000,1,3,.333,0,0,,0,1,1,1,0,0,1,3,3,-1.3
+499086,Chris Kupets\chris-kupets-2,G,2011-01-11,Utah,,Brigham Young,L,0,14,1,3,.333,0,0,,1,3,.333,0,0,,0,0,0,0,0,0,4,1,3,-3.1
+499087,Josh Chojnacki\josh-chojnacki-1,F,2011-01-11,Youngstown State,,Wilberforce,W,0,12,1,2,.500,1,2,.500,0,0,,1,2,.500,1,1,2,1,0,0,0,3,3,2.1
+499088,Nate Perry\nate-perry-1,G,2011-01-11,Youngstown State,,Wilberforce,W,0,6,1,3,.333,0,0,,1,3,.333,0,0,,0,0,0,0,0,0,0,0,3,1.3
+499089,Mike Bardo\mike-bardo-1,C,2011-01-12,Akron,,Ohio,L,0,12,1,3,.333,1,3,.333,0,0,,1,2,.500,3,2,5,0,0,0,1,2,3,1.8
+499090,T.J. Hall\tj-hall-1,G,2011-01-12,Ohio,@,Akron,W,1,12,1,4,.250,0,1,.000,1,3,.333,0,0,,0,0,0,1,0,0,1,3,3,-0.9
+499091,Trevor Releford\trevor-releford-1,G,2011-01-12,Alabama,,South Carolina,W,1,30,1,3,.333,1,3,.333,0,0,,1,2,.500,0,4,4,1,1,1,4,2,3,-0.3
+499092,Ralph Watts\ralph-watts-1,G,2011-01-12,Albany (NY),,Maine,L,0,13,1,3,.333,1,3,.333,0,0,,1,2,.500,0,0,0,0,1,0,0,1,3,1.5
+499093,Colin Klebon\colin-klebon-1,F,2011-01-12,Bucknell,@,American,W,0,7,1,2,.500,1,2,.500,0,0,,1,2,.500,0,0,0,0,0,0,0,3,3,0.4
+499094,Joe Richard\joe-richard-1,F,2011-01-12,Tulsa,@,Arizona State,L,0,22,0,3,.000,0,3,.000,0,0,,3,4,.750,4,4,8,1,0,0,1,2,3,3.4
+499095,Marcus Jackson\marcus-jackson-4,G,2011-01-12,Arizona State,,Tulsa,W,1,35,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,3,4,4,2,0,2,0,3,6.7
+499096,Andrew Stire\andrew-stire-1,C,2011-01-12,Army,,Holy Cross,L,0,14,1,2,.500,1,2,.500,0,0,,1,1,1.000,1,0,1,2,0,0,1,2,3,2.3
+499097,Dee Goens\dee-goens-1,G,2011-01-12,Holy Cross,@,Army,W,0,7,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.0
+499098,Josh Herbeck\josh-herbeck-1,G,2011-01-12,Army,,Holy Cross,L,0,14,1,4,.250,0,1,.000,1,3,.333,0,0,,1,1,2,0,0,0,0,0,3,1.6
+499099,Josh Jones\josh-jones-2,F,2011-01-12,Holy Cross,@,Army,W,0,10,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,0,1,0,0,0,2,2,3,0.2
+499100,Caleb Dean\caleb-dean-1,C,2011-01-12,Western Michigan,@,Ball State,L,0,13,1,2,.500,1,2,.500,0,0,,1,2,.500,0,1,1,0,0,0,2,3,3,-1.3
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=499000&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+381301,Rod Days\rod-days-1,F,2016-02-20,Campbell,@,Charleston Southern,W,1,30,2,4,.500,1,2,.500,1,2,.500,1,1,1.000,0,3,3,2,0,1,1,2,6,5.2
+381302,D.J. Mason\dj-mason-1,F,2016-02-20,Campbell,@,Charleston Southern,W,0,12,2,4,.500,2,3,.667,0,1,.000,2,2,1.000,0,1,1,0,0,2,0,4,6,4.1
+381303,Henry Brooks\henry-brooks-1,F,2016-02-20,Wagner,@,Central Connecticut State,W,0,11,3,6,.500,3,6,.500,0,0,,0,0,,0,2,2,0,1,1,2,2,6,2.5
+381304,Greg Senat\greg-senat-1,F,2016-02-20,Wagner,@,Central Connecticut State,W,0,10,3,3,1.000,3,3,1.000,0,0,,0,0,,1,2,3,0,0,1,2,3,6,3.9
+381305,Dwaun Anderson\dwaun-anderson-1,G,2016-02-20,Wagner,@,Central Connecticut State,W,0,22,3,6,.500,3,5,.600,0,1,.000,0,0,,1,2,3,3,1,1,0,1,6,7.7
+381306,Neal Monson\neal-monson-1,C,2016-02-20,UC-Davis,@,UC-Santa Barbara,L,1,31,2,4,.500,2,4,.500,0,0,,2,2,1.000,1,3,4,0,1,0,4,3,6,1.4
+381307,John Green\john-green-3,G,2016-02-20,UC-Santa Barbara,,UC-Davis,W,0,21,1,5,.200,0,1,.000,1,4,.250,3,4,.750,0,1,1,1,1,0,1,4,6,1.9
+381308,Jonathan Galloway\jonathan-galloway-1,F,2016-02-20,UC-Irvine,,Hawaii,L,0,15,3,4,.750,3,4,.750,0,0,,0,1,.000,3,0,3,0,0,0,0,2,6,5.3
+381309,Luke Meikle\luke-meikle-1,F,2016-02-20,Cal Poly,,Cal State Northridge,L,0,22,2,9,.222,1,3,.333,1,6,.167,1,2,.500,2,4,6,2,0,1,0,2,6,4.0
+381310,David Nwaba\david-nwaba-1,G,2016-02-20,Cal Poly,,Cal State Northridge,L,1,28,1,6,.167,1,6,.167,0,0,,4,9,.444,2,2,4,3,0,0,2,4,6,0.7
+381311,Taylor Danaher\taylor-danaher-1,C,2016-02-20,Mount St. Mary's,@,Bryant,W,0,15,3,4,.750,3,4,.750,0,0,,0,0,,2,3,5,0,0,2,1,3,6,5.9
+381312,Jakob Hartsock\jakob-hartsock-1,F,2016-02-20,Brigham Young,,San Diego,W,0,12,2,3,.667,0,0,,2,3,.667,0,0,,0,3,3,2,1,2,0,0,6,9.4
+381313,Shirmane Thomas\shirmane-thomas-1,G,2016-02-20,Tennessee Tech,@,Belmont,L,1,22,2,4,.500,1,2,.500,1,2,.500,1,1,1.000,0,5,5,4,0,1,3,1,6,5.6
+381314,Kevin McClain\kevin-mcclain-1,G,2016-02-20,Belmont,,Tennessee Tech,W,0,3,2,3,.667,0,0,,2,3,.667,0,0,,0,0,0,0,0,0,0,1,6,4.3
+381315,Dylan Windler\dylan-windler-1,G,2016-02-20,Belmont,,Tennessee Tech,W,0,17,2,3,.667,2,2,1.000,0,1,.000,2,3,.667,1,3,4,1,3,1,1,0,6,9.3
+381316,Wayne Langston\wayne-langston-1,F,2016-02-20,Murray State,@,Austin Peay,W,1,27,3,4,.750,3,4,.750,0,0,,0,0,,3,3,6,1,1,2,0,4,6,8.9
+381317,Terence Davis\terence-davis-1,G,2016-02-20,Mississippi,@,Auburn,W,0,8,2,4,.500,1,2,.500,1,2,.500,1,2,.500,0,2,2,0,2,0,0,1,6,5.8
+381318,Horace Spencer\horace-spencer-1,F,2016-02-20,Auburn,,Mississippi,L,1,19,2,8,.250,2,7,.286,0,1,.000,2,3,.667,3,6,9,2,0,5,1,4,6,7.0
+381319,Tramaine Isabell\tramaine-isabell-1,G,2016-02-20,Missouri,@,Arkansas,L,0,18,2,6,.333,2,4,.500,0,2,.000,2,3,.667,0,2,2,0,0,0,0,3,6,1.6
+381320,Manuale Watkins\manuale-watkins-1,G,2016-02-20,Arkansas,,Missouri,W,0,14,3,6,.500,3,6,.500,0,0,,0,0,,1,2,3,2,0,0,2,3,6,2.5
+381321,Jakeenan Gant\jakeenan-gant-1,F,2016-02-20,Missouri,@,Arkansas,L,0,18,3,6,.500,3,4,.750,0,2,.000,0,1,.000,0,3,3,1,0,1,0,2,6,4.1
+381322,Cullen VanLeer\cullen-vanleer-1,G,2016-02-20,Missouri,@,Arkansas,L,1,31,2,4,.500,0,0,,2,4,.500,0,0,,0,1,1,3,0,0,1,2,6,4.6
+381323,D'Angelo Allen\dangelo-allen-1,F,2016-02-20,Missouri,@,Arkansas,L,0,9,3,5,.600,3,5,.600,0,0,,0,2,.000,0,1,1,2,0,0,0,2,6,3.8
+381324,Jacob Lawson\jacob-lawson-1,F,2016-02-20,Appalachian State,,Troy,W,0,22,2,3,.667,2,3,.667,0,0,,2,2,1.000,1,4,5,1,2,2,1,4,6,8.1
+381325,Steve Rogers\steve-rogers-1,G,2016-02-20,Alabama State,,Southern,W,0,19,2,5,.400,2,4,.500,0,1,.000,2,3,.667,0,1,1,2,1,1,0,4,6,4.7
+381326,Reginald Johnson\reginald-johnson-1,F,2016-02-20,Alcorn State,@,Alabama A&M,W,0,20,3,5,.600,3,5,.600,0,0,,0,0,,0,4,4,1,1,0,0,0,6,6.6
+381327,Rakiya Battle\rakiya-battle-1,G,2016-02-20,Alabama A&M,,Alcorn State,L,1,28,1,6,.167,0,1,.000,1,5,.200,3,4,.750,0,1,1,5,4,0,1,2,6,7.8
+381328,Christopher Thomas\christopher-thomas-2,G,2016-02-20,Alabama A&M,,Alcorn State,L,0,11,3,6,.500,3,4,.750,0,2,.000,0,0,,3,1,4,0,0,0,0,1,6,5.0
+381329,Zach Moer\zach-moer-1,C,2016-02-20,Air Force,,New Mexico,W,0,10,3,4,.750,3,3,1.000,0,1,.000,0,0,,0,1,1,1,1,0,3,4,6,1.8
+381330,Sam Downey\sam-downey-1,F,2016-02-19,Yale,@,Princeton,L,0,9,1,1,1.000,1,1,1.000,0,0,,4,4,1.000,1,2,3,0,0,0,0,0,6,7.0
+381331,Jake Pemberton\jake-pemberton-1,G,2016-02-19,Denver,@,Oral Roberts,L,1,33,3,6,.500,3,5,.600,0,1,.000,0,0,,0,4,4,2,1,0,2,4,6,3.0
+381332,Christian Mackey\christian-mackey-1,C,2016-02-19,Denver,@,Oral Roberts,L,0,14,2,6,.333,2,6,.333,0,0,,2,2,1.000,3,2,5,1,1,0,2,4,6,3.4
+381333,Chris Jenkins\chris-jenkins-3,G,2016-02-19,Detroit Mercy,@,Illinois-Chicago,W,1,30,1,3,.333,1,2,.500,0,1,.000,4,6,.667,0,2,2,1,0,1,0,3,6,4.3
+381334,Trey Moses\trey-moses-1,F,2016-02-19,Ball State,,Northern Illinois,W,0,17,2,4,.500,2,3,.667,0,1,.000,2,3,.667,0,4,4,1,0,3,2,5,6,3.6
+381335,Levi Bradley\levi-bradley-1,G,2016-02-19,Northern Illinois,@,Ball State,L,0,12,2,5,.400,1,3,.333,1,2,.500,1,1,1.000,0,2,2,0,0,0,0,1,6,3.5
+381336,Laytwan Porter\laytwan-porter-1,G,2016-02-19,Northern Illinois,@,Ball State,L,0,24,2,5,.400,2,3,.667,0,2,.000,2,2,1.000,0,2,2,3,0,0,0,2,6,5.2
+381337,Ron Trapps\ron-trapps-1,G,2016-02-18,Coastal Carolina,@,Winthrop,L,0,20,2,9,.222,1,5,.200,1,4,.250,1,2,.500,0,0,0,2,1,0,3,0,6,-0.5
+381338,Jordon Talley\jordon-talley-1,G,2016-02-18,North Carolina-Wilmington,@,William & Mary,L,0,33,3,12,.250,3,8,.375,0,4,.000,0,0,,5,2,7,10,0,0,1,1,6,8.5
+381339,Eric Hamilton\eric-hamilton-1,F,2016-02-18,Wichita State,,Missouri State,W,0,5,2,3,.667,2,3,.667,0,0,,2,2,1.000,2,0,2,0,0,0,0,1,6,5.7
+381340,Anton Waters\anton-waters-1,F,2016-02-18,Western Kentucky,,Old Dominion,L,1,20,3,7,.429,3,7,.429,0,0,,0,0,,3,4,7,0,0,1,0,2,6,5.5
+381341,Matisse Thybulle\matisse-thybulle-1,F,2016-02-18,Washington,,University of California,L,1,27,0,3,.000,0,1,.000,0,2,.000,6,8,.750,0,0,0,1,2,0,1,4,6,3.2
+381342,Prince Ali\prince-ali-1,G,2016-02-18,UCLA,,Utah,L,0,14,2,3,.667,0,1,.000,2,2,1.000,0,0,,0,0,0,2,0,0,1,1,6,4.7
+381343,Jy'lan Washington\jylan-washington-1,F,2016-02-18,Louisiana Tech,@,Texas-San Antonio,W,1,22,3,4,.750,3,3,1.000,0,1,.000,0,1,.000,1,2,3,0,1,2,1,5,6,4.7
+381344,Tevin Caldwell\tevin-caldwell-1,G,2016-02-18,Texas-El Paso,,Southern Mississippi,W,0,17,2,2,1.000,2,2,1.000,0,0,,2,2,1.000,3,2,5,0,0,0,0,1,6,7.7
+381345,Cortez Edwards\cortez-edwards-1,G,2016-02-18,Southern Mississippi,@,Texas-El Paso,L,0,23,3,3,1.000,3,3,1.000,0,0,,0,0,,0,1,1,2,5,0,0,2,6,11.0
+381346,Steven Wronkoski\steven-wronkoski-1,G,2016-02-18,Louisiana-Lafayette,@,Texas-Arlington,L,1,18,2,3,.667,1,1,1.000,1,2,.500,1,1,1.000,0,0,0,0,0,0,0,0,6,4.7
+381347,Nick Pallas\nick-pallas-1,F,2016-02-18,Texas-Arlington,,Louisiana-Lafayette,W,0,28,1,6,.167,1,6,.167,0,0,,4,4,1.000,6,7,13,0,2,2,2,2,6,9.1
+381348,Hayward Register\hayward-register-1,G,2016-02-18,Louisiana-Lafayette,@,Texas-Arlington,L,0,18,2,7,.286,0,1,.000,2,6,.333,0,0,,0,2,2,2,0,1,1,2,6,2.8
+381349,Jacolby Mobley\jacolby-mobley-1,G,2016-02-18,Tennessee-Martin,,Eastern Illinois,W,0,22,2,5,.400,1,1,1.000,1,4,.250,1,2,.500,1,1,2,1,0,0,1,3,6,2.4
+381350,Will Joyce\will-joyce-1,F,2016-02-18,Southern Utah,,Weber State,L,0,13,2,3,.667,2,3,.667,0,0,,2,2,1.000,3,0,3,0,0,0,0,3,6,5.6
+381351,Trae Bryant\trae-bryant-1,G,2015-11-18,North Carolina-Asheville,,Mars Hill,W,0,23,2,10,.200,1,7,.143,1,3,.333,1,2,.500,0,2,2,3,2,0,1,2,6,2.3
+381352,Nick Reese\nick-reese-1,F,2015-11-18,North Carolina A&T,,Roanoke,L,0,21,3,6,.500,3,5,.600,0,1,.000,0,0,,0,6,6,3,1,0,1,2,6,6.1
+381353,Casey Oliverson\casey-oliverson-1,F,2015-11-28,Southern Utah,@,Eastern Kentucky,L,1,25,3,4,.750,3,4,.750,0,0,,0,0,,2,3,5,1,2,1,3,2,6,6.3
+381354,Quadir Welton\quadir-welton-1,C,2015-12-28,Saint Peter's,,Cornell,L,1,29,2,5,.400,2,5,.400,0,0,,2,5,.400,5,4,9,1,0,2,4,4,6,3.3
+381355,Brandon Peel\brandon-peel-1,F,2015-12-18,Central Connecticut State,,Massachusetts-Lowell,W,1,21,2,4,.500,2,4,.500,0,0,,2,2,1.000,0,1,1,2,0,0,2,1,6,3.3
+381356,Jarvis Pugh\jarvis-pugh-1,G,2015-11-19,Santa Clara,@,UC-Riverside,L,0,20,3,5,.600,3,5,.600,0,0,,0,0,,1,1,2,0,0,0,0,3,6,3.5
+381357,Khristian Smith\khristian-smith-1,G,2015-11-16,Indiana State,,Wyoming,W,1,19,2,9,.222,2,6,.333,0,3,.000,2,2,1.000,3,6,9,1,0,0,1,3,6,2.9
+381358,Niels Bunschoten\niels-bunschoten-1,F,2015-11-16,Indiana State,,Wyoming,W,0,15,2,4,.500,2,3,.667,0,1,.000,2,2,1.000,0,2,2,0,0,0,1,2,6,2.8
+381359,Joe Reed\joe-reed-1,F,2015-11-16,IPFW,,Manchester,W,1,19,1,3,.333,1,2,.500,0,1,.000,4,6,.667,2,3,5,1,0,2,2,1,6,5.5
+381360,D.J. Johnson\dj-johnson-2,F,2015-11-16,Kansas State,,Columbia,W,0,9,3,4,.750,3,4,.750,0,0,,0,1,.000,3,3,6,0,0,0,2,5,6,3.0
+381361,Kyle Castlin\kyle-castlin-1,G,2015-11-16,Columbia,@,Kansas State,L,0,9,3,4,.750,3,3,1.000,0,1,.000,0,0,,1,0,1,0,0,0,1,2,6,3.3
+381362,Jake Toolson\jake-toolson-1,G,2015-11-16,Brigham Young,@,Long Beach State,L,1,21,2,5,.400,0,0,,2,5,.400,0,0,,0,1,1,2,0,0,1,3,6,2.8
+381363,Khris Lane\khris-lane-1,F,2015-11-16,Longwood,,La Roche,W,1,31,2,9,.222,2,6,.333,0,3,.000,2,2,1.000,4,5,9,1,1,1,1,4,6,4.6
+381364,Aubrey Williams\aubrey-williams-2,F,2015-11-16,Kennesaw State,@,Louisiana State,L,0,26,2,4,.500,2,4,.500,0,0,,2,2,1.000,3,8,11,1,1,0,0,1,6,9.8
+381365,Elbert Robinson\elbert-robinson-1,C,2015-11-16,Louisiana State,,Kennesaw State,W,1,19,1,4,.250,1,4,.250,0,0,,4,4,1.000,2,3,5,0,0,1,1,2,6,4.8
+381366,Ilias Theodorou\ilias-theodorou-1,F,2015-11-23,Pacific,,Notre Dame (CA),W,0,18,3,7,.429,3,4,.750,0,3,.000,0,0,,3,2,5,2,0,0,1,3,6,4.2
+381367,Atif Russell\atif-russell-1,G,2015-11-23,Pepperdine,,Duquesne,W,0,9,1,3,.333,1,3,.333,0,0,,4,6,.667,0,1,1,1,0,0,0,2,6,3.7
+381368,Lamond Murray\lamond-murray-2,G,2015-11-23,Pepperdine,,Duquesne,W,1,25,3,9,.333,3,8,.375,0,1,.000,0,0,,1,1,2,2,1,0,1,2,6,2.5
+381369,Shawn Olden\shawn-olden-1,G,2015-11-23,Pepperdine,,Duquesne,W,0,8,2,5,.400,0,1,.000,2,4,.500,0,0,,0,1,1,0,1,0,0,0,6,4.6
+381370,Junior Lomomba\junior-lomomba-1,G,2015-11-23,Providence,,NJIT,W,1,30,3,5,.600,3,4,.750,0,1,.000,0,1,.000,0,1,1,2,0,0,0,3,6,3.8
+381371,Ryan Fazekas\ryan-fazekas-1,G,2015-11-23,Providence,,NJIT,W,1,22,2,7,.286,1,2,.500,1,5,.200,1,2,.500,1,3,4,0,0,0,1,4,6,0.5
+381372,Khyri Thomas\khyri-thomas-1,G,2015-11-23,Creighton,,Rutgers,W,1,21,2,4,.500,2,3,.667,0,1,.000,2,4,.500,1,5,6,2,1,0,3,2,6,4.0
+381373,Angelo Chol\angelo-chol-1,F,2015-11-23,San Diego State,,East Carolina,W,1,20,2,3,.667,2,3,.667,0,0,,2,2,1.000,3,0,3,1,0,2,1,2,6,7.1
+381374,Michel Nzege\michael-ofik-nzege-1,F,2015-11-23,East Carolina,@,San Diego State,L,1,19,3,4,.750,3,4,.750,0,0,,0,0,,2,1,3,0,0,0,4,3,6,0.9
+381375,Prince Williams\prince-williams-1,G,2015-11-23,East Carolina,@,San Diego State,L,1,22,2,6,.333,2,5,.400,0,1,.000,2,2,1.000,0,2,2,2,0,0,2,3,6,1.4
+381376,Austin Luke\austin-luke-1,G,2015-11-23,Belmont,,South Alabama,W,1,28,2,2,1.000,2,2,1.000,0,0,,2,2,1.000,0,4,4,4,1,0,3,1,6,7.0
+381377,Julian Jacobs\julian-jacobs-1,G,2015-11-23,Southern California,,Cal State Northridge,W,1,26,3,5,.600,3,4,.750,0,1,.000,0,1,.000,2,9,11,10,1,0,3,3,6,11.2
+381378,Micheal Warren\michael-warren-1,G,2015-11-23,Cal State Northridge,@,Southern California,L,1,23,2,7,.286,2,6,.333,0,1,.000,2,5,.400,0,1,1,1,0,0,3,3,6,-2.5
+381379,Corbin Miller\corbin-miller-1,G,2015-11-25,Harvard,,Bryant,W,0,20,2,7,.286,0,3,.000,2,4,.500,0,1,.000,0,1,1,1,1,0,2,1,6,1.1
+381380,Corey Johnson\corey-johnson-4,G,2015-11-25,Harvard,,Bryant,W,1,25,2,6,.333,0,1,.000,2,5,.400,0,0,,0,2,2,3,1,0,2,2,6,3.5
+381381,Ray Barreno\ray-barreno-1,C,2015-11-20,Portland,@,Colorado,L,1,15,3,4,.750,3,4,.750,0,0,,0,0,,2,5,7,0,1,0,2,4,6,4.7
+381382,Ryan Spangler\ryan-spangler-1,F,2016-04-02,Oklahoma,,Villanova,L,1,27,3,6,.500,3,6,.500,0,0,,0,2,.000,3,1,4,1,1,0,0,1,6,5.9
+381383,Isaiah Hicks\isaiah-hicks-1,F,2016-04-02,North Carolina,,Syracuse,W,0,16,3,4,.750,3,4,.750,0,0,,0,0,,1,3,4,0,1,1,1,4,6,5.1
+381384,Yuta Watanabe\yuta-watanabe-1,F,2016-03-31,George Washington,,Valparaiso,W,1,33,3,7,.429,3,4,.750,0,3,.000,0,0,,1,3,4,2,1,4,1,2,6,7.3
+381385,Vashil Fernandez\vashil-fernandez-1,C,2016-03-31,Valparaiso,,George Washington,L,1,29,3,4,.750,3,4,.750,0,0,,0,0,,2,4,6,1,1,5,0,4,6,10.6
+381386,E. Victor Nickerson\e-victor-nickerson-1,G,2016-03-31,Valparaiso,,George Washington,L,0,15,3,5,.600,3,5,.600,0,0,,0,0,,0,0,0,3,0,0,1,3,6,3.6
+381387,Nik Biberaj\nik-biberaj-1,F,2016-03-30,Old Dominion,,Oakland,W,0,19,3,3,1.000,3,3,1.000,0,0,,0,0,,0,1,1,1,0,0,0,2,6,5.3
+381388,Nick Daniels\nick-daniels-2,G,2016-03-30,Oakland,,Old Dominion,L,1,24,2,4,.500,0,1,.000,2,3,.667,0,0,,0,0,0,0,1,0,1,2,6,3.2
+381389,Jordan Baker\jordan-baker-3,G,2016-03-30,Old Dominion,,Oakland,W,0,28,2,4,.500,1,2,.500,1,2,.500,1,3,.333,0,0,0,4,1,0,3,1,6,3.6
+381390,Lyonell Gaines\lyonell-gaines-1,F,2016-03-30,Morehead State,@,Nevada,L,1,18,3,8,.375,3,6,.500,0,2,.000,0,0,,3,2,5,0,1,0,1,4,6,2.7
+381391,Alex Mitola\alex-mitola-1,G,2016-03-29,George Washington,,San Diego State,W,0,14,2,4,.500,0,2,.000,2,2,1.000,0,0,,2,1,3,3,0,0,1,1,6,6.4
+381392,Jordan Baker\jordan-baker-3,G,2016-03-29,Old Dominion,,UC-Santa Barbara,W,0,30,2,6,.333,0,0,,2,6,.333,0,0,,0,1,1,1,0,0,0,0,6,3.6
+381393,DaJuan Smith\dajuan-smith-1,G,2016-03-29,UC-Santa Barbara,,Old Dominion,L,0,25,2,4,.500,2,3,.667,0,1,.000,2,3,.667,0,2,2,1,0,0,2,1,6,2.5
+381394,Sherron Dorsey-Walker\sherron-dorsey-walker-1,G,2016-03-29,Oakland,,East Tennessee State,W,0,18,2,5,.400,0,1,.000,2,4,.500,0,0,,0,4,4,1,1,0,0,1,6,5.8
+381395,Deuce Bello\deuce-bello-1,G,2016-03-29,East Tennessee State,,Oakland,L,1,28,2,7,.286,0,2,.000,2,5,.400,0,0,,1,4,5,1,1,0,4,2,6,0.7
+381396,Sherron Dorsey-Walker\sherron-dorsey-walker-1,G,2016-03-28,Oakland,,Towson,W,0,14,1,3,.333,1,2,.500,0,1,.000,4,5,.800,1,0,1,1,0,0,1,3,6,3.1
+381397,Denzell Taylor\denzell-taylor-1,F,2016-03-28,Old Dominion,,Tennessee Tech,W,1,25,2,3,.667,2,3,.667,0,0,,2,2,1.000,3,1,4,1,1,0,0,4,6,7.2
+381398,Anthony Morse\anthony-morse-1,F,2016-03-28,Tennessee Tech,,Old Dominion,L,1,24,3,6,.500,3,6,.500,0,0,,0,0,,1,3,4,0,0,1,0,3,6,4.1
+381399,Jacobi Boykins\jacobi-boykins-1,G,2016-03-28,Louisiana Tech,,East Tennessee State,L,1,32,2,9,.222,2,6,.333,0,3,.000,2,5,.400,3,6,9,2,2,1,2,3,6,4.1
+381400,Marin Maric\marin-maric-1,C,2016-03-28,Northern Illinois,,UC-Santa Barbara,L,0,22,0,1,.000,0,1,.000,0,0,,6,7,.857,1,4,5,0,1,0,1,2,6,6.0
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=381300&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

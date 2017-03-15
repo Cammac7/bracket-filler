@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+564101,Jordan Latham\jordan-latham-1,F,2011-02-16,Xavier,@,Saint Joseph's,W,0,4,1,3,.333,1,3,.333,0,0,,0,0,,1,1,2,0,0,0,0,0,2,1.3
+564102,Drew Crowell\drew-crowell-1,F,2011-02-16,Wofford,@,Samford,W,0,14,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7
+564103,Nathan Parker\nathan-parker-1,F,2011-02-16,Wofford,@,Samford,W,0,18,1,1,1.000,1,1,1.000,0,0,,0,0,,1,4,5,0,0,2,3,2,2,1.2
+564104,Terry Martin\terry-martin-3,G,2011-02-16,Wofford,@,Samford,W,0,9,0,0,,0,0,,0,0,,2,2,1.000,1,2,3,0,0,0,2,5,2,-0.7
+564105,Alex Kirk\alex-kirk-2,C,2011-02-16,New Mexico,@,San Diego State,L,0,7,1,2,.500,1,2,.500,0,0,,0,0,,1,1,2,0,0,0,0,1,2,1.6
+564106,Kenton Walker\kenton-walker-2,F,2011-02-16,Saint Mary's (CA),@,San Diego,L,0,13,1,4,.250,1,4,.250,0,0,,0,0,,2,3,5,0,0,2,1,1,2,1.9
+564107,Rob Jones\rob-jones-1,F,2011-02-16,Saint Mary's (CA),@,San Diego,L,1,30,1,9,.111,1,3,.333,0,6,.000,0,0,,0,6,6,2,0,1,1,5,2,-3.0
+564108,Trevor Fuller\trevor-fuller-1,F,2011-02-16,San Diego,,Saint Mary's (CA),W,0,6,1,2,.500,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,1,2,0.9
+564109,Brandon Walters\brandon-walters-1,C,2011-02-16,Siena,,Saint Peter's,L,0,3,0,1,.000,0,1,.000,0,0,,2,2,1.000,1,0,1,0,0,0,0,0,2,2.0
+564110,Kyle Downey\kyle-downey-1,G,2011-02-16,Siena,,Saint Peter's,L,0,12,0,2,.000,0,1,.000,0,1,.000,2,2,1.000,1,4,5,0,0,0,2,2,2,-0.3
+564111,O.D. Anosike\od-anosike-1,F,2011-02-16,Siena,,Saint Peter's,L,1,21,1,6,.167,1,6,.167,0,0,,0,0,,4,2,6,0,0,1,2,5,2,-1.7
+564112,Owen Wignot\owen-wignot-1,F,2011-02-16,Siena,,Saint Peter's,L,1,32,0,4,.000,0,2,.000,0,2,.000,2,2,1.000,0,5,5,2,0,3,1,3,2,2.0
+564113,Jeffery McClain\jeffery-mcclain-1,F,2011-02-16,Murray State,@,Southeast Missouri State,L,1,18,1,3,.333,1,3,.333,0,0,,0,0,,2,4,6,2,0,0,0,5,2,2.3
+564114,Devon Lamb\devon-lamb-1,G,2011-02-16,Lamar,@,Southeastern Louisiana,W,1,35,1,4,.250,1,2,.500,0,2,.000,0,7,.000,3,7,10,4,2,0,3,0,2,2.8
+564115,Jason Marks\jason-marks-1,F,2011-02-16,Southeastern Louisiana,,Lamar,L,0,24,1,3,.333,1,3,.333,0,0,,0,0,,2,0,2,2,2,0,2,5,2,1.1
+564116,Osas Ebomwonyi\osas-ebomwonyi-1,F,2011-02-16,Lamar,@,Southeastern Louisiana,W,0,7,1,2,.500,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,1,2,2,-0.2
+564117,John Freeman\john-freeman-1,G,2011-02-16,Southern Illinois,,Indiana State,L,1,20,1,6,.167,1,4,.250,0,2,.000,0,0,,1,0,1,1,0,0,2,3,2,-3.6
+564118,Mykel Cleveland\mykel-cleveland-1,G,2011-02-16,Southern Illinois,,Indiana State,L,0,17,1,2,.500,1,2,.500,0,0,,0,0,,0,2,2,3,2,0,2,3,2,2.5
+564119,Gabriel McCulley\gabriel-mcculley-1,F,2011-02-16,Texas-El Paso,@,Southern Mississippi,L,0,19,0,1,.000,0,1,.000,0,0,,2,4,.500,1,1,2,1,0,0,2,4,2,-1.4
+564120,Julyan Stone\julyan-stone-1,G,2011-02-16,Texas-El Paso,@,Southern Mississippi,L,1,40,1,7,.143,1,6,.167,0,1,.000,0,2,.000,0,9,9,4,2,0,0,3,2,3.0
+564121,Sai'Quon Stone\saiquon-stone-1,G,2011-02-16,Southern Mississippi,,Texas-El Paso,W,0,20,1,2,.500,1,2,.500,0,0,,0,0,,0,3,3,0,1,2,1,1,2,2.9
+564122,Christian Salecich\christian-salecich-1,G,2011-02-16,Saint Louis,@,St. Bonaventure,L,0,19,1,2,.500,1,1,1.000,0,1,.000,0,0,,1,1,2,2,1,0,0,1,2,4.0
+564123,Marquise Simmons\marquise-simmons-1,F,2011-02-16,St. Bonaventure,,Saint Louis,W,0,14,1,2,.500,1,2,.500,0,0,,0,0,,2,1,3,1,0,0,1,1,2,2.0
+564124,Steven Pearl\steven-pearl-1,F,2011-02-16,Tennessee,,South Carolina,W,0,13,1,1,1.000,1,1,1.000,0,0,,0,0,,2,3,5,1,1,0,0,2,2,4.9
+564125,Jordan Railey\jordan-railey-1,C,2011-02-16,Iowa State,@,Texas A&M,L,0,25,1,4,.250,1,4,.250,0,0,,0,0,,3,1,4,1,0,0,1,4,2,0.1
+564126,Amos Olatayo\amos-olatayo-1,F,2011-02-16,Stephen F. Austin,@,Texas-Arlington,L,0,3,1,1,1.000,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,0,2,2.3
+564127,Jarvis Ray\jarvis-ray-1,G,2011-02-16,Texas Christian,,Colorado State,L,0,17,0,1,.000,0,1,.000,0,0,,2,4,.500,2,0,2,0,1,0,2,4,2,-0.7
+564128,Will Bell\will-bell-1,F,2011-02-16,Colorado State,@,Texas Christian,W,0,5,1,3,.333,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,1,2,-0.1
+564129,Roger Franklin\roger-franklin-1,G,2011-02-16,Oklahoma State,@,Texas,L,0,27,1,1,1.000,1,1,1.000,0,0,,0,2,.000,3,5,8,0,1,0,2,3,2,2.3
+564130,Dwight McCombs\dwight-mccombs-2,F,2011-02-16,Central Florida,@,Tulane,W,0,5,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7
+564131,Isaiah Sykes\isaiah-sykes-1,G,2011-02-16,Central Florida,@,Tulane,W,0,6,1,1,1.000,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,2,1,2,-0.4
+564132,Tom Herzog\tom-herzog-1,C,2011-02-16,Central Florida,@,Tulane,W,1,12,0,1,.000,0,1,.000,0,0,,2,2,1.000,2,3,5,0,1,0,4,1,2,0.2
+564133,Evan Salzano\evan-salzano-1,G,2011-02-16,East Carolina,@,Tulsa,L,0,2,1,2,.500,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,0,0,2,1.3
+564134,Joe Richard\joe-richard-1,F,2011-02-16,Tulsa,,East Carolina,W,1,22,1,2,.500,1,2,.500,0,0,,0,0,,4,1,5,3,0,1,0,4,2,5.3
+564135,Brad Brown\brad-brown-1,F,2011-02-16,Utah State,,Montana Western,W,0,5,0,2,.000,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,0,0,0,1,2,0.2
+564136,Arthur Bouedo\arthur-bouedo-1,G,2011-02-16,Wyoming,@,Utah,L,0,26,1,4,.250,1,2,.500,0,2,.000,0,0,,2,1,3,2,0,0,1,2,2,0.9
+564137,Akil Mitchell\akil-mitchell-1,F,2011-02-16,Virginia,,Duke,L,0,24,1,4,.250,1,4,.250,0,0,,0,0,,1,4,5,1,3,0,1,2,2,3.4
+564138,Kyle Singler\kyle-singler-1,F,2011-02-16,Duke,@,Virginia,W,1,23,1,5,.200,1,3,.333,0,2,.000,0,0,,0,4,4,2,0,0,5,4,2,-5.1
+564139,Miles Plumlee\miles-plumlee-1,F,2011-02-16,Duke,@,Virginia,W,0,13,1,1,1.000,1,1,1.000,0,0,,0,2,.000,1,5,6,0,0,0,1,0,2,2.1
+564140,Sammy Zeglinski\sammy-zeglinski-1,G,2011-02-16,Virginia,,Duke,L,1,35,1,7,.143,1,5,.200,0,2,.000,0,0,,1,4,5,4,2,0,0,2,2,3.4
+564141,Nate Lozeau\nate-lozeau-1,C,2011-02-16,Portland State,@,Weber State,L,0,15,1,5,.200,1,5,.200,0,0,,0,0,,0,2,2,0,0,0,2,4,2,-4.1
+564142,Anthony Breeze\anthony-breeze-1,G,2011-02-17,Appalachian State,,Western Carolina,L,0,11,1,3,.333,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,2,1,2,-2.1
+564143,Marcus Wright\marcus-wright-1,G,2011-02-17,Appalachian State,,Western Carolina,L,1,22,1,2,.500,1,1,1.000,0,1,.000,0,0,,0,2,2,2,0,0,4,2,2,-1.8
+564144,Mitch Woods\mitch-woods-1,G,2011-02-17,Appalachian State,,Western Carolina,L,0,24,1,2,.500,1,2,.500,0,0,,0,0,,1,3,4,1,0,0,1,4,2,0.7
+564145,Tawaski King\tawaski-king-1,F,2011-02-17,Western Carolina,@,Appalachian State,W,0,14,1,7,.143,1,7,.143,0,0,,0,2,.000,3,2,5,0,3,0,0,0,2,2.4
+564146,Carrick Felix\carrick-felix-1,G,2011-02-17,Arizona State,,Washington,L,1,12,1,4,.250,1,1,1.000,0,3,.000,0,0,,0,1,1,2,0,0,0,1,2,0.9
+564147,Jordan Bachynski\jordan-bachynski-1,C,2011-02-17,Arizona State,,Washington,L,0,14,0,2,.000,0,2,.000,0,0,,2,2,1.000,2,2,4,0,0,1,2,2,2,0.5
+564148,Terrence Ross\terrence-ross-1,G,2011-02-17,Washington,@,Arizona State,W,0,24,0,5,.000,0,2,.000,0,3,.000,2,2,1.000,0,1,1,2,1,1,2,3,2,-1.3
+564149,Faisal Aden\faisal-aden-1,G,2011-02-17,Washington State,@,Arizona,L,0,18,1,4,.250,1,3,.333,0,1,.000,0,1,.000,0,0,0,1,2,0,1,1,2,0.5
+564150,Jordin Mayes\jordin-mayes-1,G,2011-02-17,Arizona,,Washington State,W,0,11,0,3,.000,0,1,.000,0,2,.000,2,2,1.000,0,1,1,0,1,0,1,1,2,-0.2
+564151,Derrick Bails\derrick-bails-1,F,2011-02-17,Arkansas-Little Rock,,Western Kentucky,L,0,13,1,3,.333,1,3,.333,0,0,,0,2,.000,1,2,3,0,0,0,0,2,2,0.0
+564152,Juan Pattillo\juan-pattillo-1,F,2011-02-17,Western Kentucky,@,Arkansas-Little Rock,W,1,28,1,4,.250,1,4,.250,0,0,,0,2,.000,1,4,5,2,1,1,2,4,2,0.2
+564153,Stephon Drane\stephon-drane-1,F,2011-02-17,Western Kentucky,@,Arkansas-Little Rock,W,0,2,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,1.7
+564154,Blake Jenkins\blake-jenkins-1,F,2011-02-17,Belmont,,East Tennessee State,W,0,5,1,3,.333,1,3,.333,0,0,,0,0,,1,2,3,0,0,0,0,1,2,1.2
+564155,Ike Azotam\ike-azotam-1,F,2011-02-17,Quinnipiac,@,Bryant,W,1,10,1,3,.333,1,3,.333,0,0,,0,0,,2,0,2,0,0,0,1,3,2,-0.5
+564156,Jamee Jackson\jamee-jackson-1,F,2011-02-17,Quinnipiac,@,Bryant,W,1,11,1,1,1.000,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,1,4,2,-0.3
+564157,Jordan Harris\jordan-harris-3,G,2011-02-17,Bryant,,Quinnipiac,L,0,2,1,2,.500,1,1,1.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,2,1.0
+564158,Kevin Tarca\kevin-tarca-1,G,2011-02-17,Quinnipiac,@,Bryant,W,0,2,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,1,0,2,0.7
+564159,Richard Solomon\richard-solomon-1,F,2011-02-17,University of California,,Southern California,L,0,13,1,2,.500,1,2,.500,0,0,,0,0,,1,4,5,0,0,1,0,1,2,3.2
+564160,De'Angelo Speech\deangelo-speech-1,G,2011-02-17,Central Connecticut State,,Sacred Heart,W,0,17,1,4,.250,1,4,.250,0,0,,0,0,,0,2,2,3,2,0,2,1,2,1.9
+564161,Jerrell Thompson\jerrell-thompson-1,G,2011-02-17,Sacred Heart,@,Central Connecticut State,L,0,25,1,3,.333,1,3,.333,0,0,,0,0,,0,1,1,4,0,0,1,0,2,2.4
+564162,Joe Efese\joe-efese-1,F,2011-02-17,Central Connecticut State,,Sacred Heart,W,1,15,1,1,1.000,1,1,1.000,0,0,,0,0,,0,1,1,0,1,2,3,0,2,1.4
+564163,Jordan Scott\jordan-scott-1,G,2011-02-17,College of Charleston,@,Citadel,W,0,3,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4
+564164,Dijon Manns\dijon-manns-1,F,2011-02-17,North Carolina Central,@,Coastal Carolina,L,1,14,1,3,.333,1,3,.333,0,0,,0,0,,2,4,6,0,0,0,2,1,2,0.5
+564165,Tim Hobbs\tim-hobbs-1,F,2011-02-17,North Carolina Central,@,Coastal Carolina,L,0,7,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,3,2,2,-2.1
+564166,Alex Pickert\alex-pickert-1,G,2011-02-17,Denver,,Louisiana-Monroe,W,0,6,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,1,1,2,1.3
+564167,Blake Foeman\blake-foeman-1,F,2011-02-17,Denver,,Louisiana-Monroe,W,0,11,1,1,1.000,1,1,1.000,0,0,,0,1,.000,0,1,1,1,0,0,0,2,2,1.5
+564168,Hugh Mingo\hugh-mingo-1,G,2011-02-17,Louisiana-Monroe,@,Denver,L,1,22,1,4,.250,1,3,.333,0,1,.000,0,2,.000,1,2,3,1,1,0,0,0,2,1.8
+564169,Mike Scott\mike-scott-3,G,2011-02-17,Fairleigh Dickinson,,Robert Morris,L,1,26,1,8,.125,1,4,.250,0,4,.000,0,0,,0,3,3,2,0,0,2,4,2,-4.5
+564170,Niyi Harrison\niyi-harrison-1,F,2011-02-17,Santa Clara,@,Gonzaga,L,1,22,0,1,.000,0,1,.000,0,0,,2,4,.500,3,4,7,0,1,0,1,4,2,2.2
+564171,Kherel Silcott\kherel-silcott-1,C,2011-02-17,NJIT,@,Houston Baptist,W,0,14,0,0,,0,0,,0,0,,2,6,.333,1,4,5,0,0,1,1,4,2,0.4
+564172,Donovan Gibbs\donovan-gibbs-1,F,2011-02-17,IUPUI,,Southern Utah,L,0,9,1,4,.250,1,4,.250,0,0,,0,0,,1,0,1,0,0,0,0,0,2,0.3
+564173,Babatunde Olomuwiya\babatunde-olomuwiya-1,C,2011-02-17,South Carolina Upstate,@,Lipscomb,L,0,18,1,2,.500,1,2,.500,0,0,,0,1,.000,0,3,3,1,1,0,0,1,2,2.8
+564174,Jacob Arnett\jacob-arnett-1,G,2011-02-17,Lipscomb,,South Carolina Upstate,W,1,26,1,4,.250,1,2,.500,0,2,.000,0,0,,2,1,3,4,1,0,4,0,2,1.1
+564175,Raymone Andrews\raymone-andrews-1,G,2011-02-17,Louisiana-Lafayette,,Arkansas State,W,1,28,0,6,.000,0,6,.000,0,0,,2,2,1.000,0,3,3,2,2,0,1,3,2,-0.1
+564176,Charvez Davis\charvez-davis-1,G,2011-02-17,Alabama,@,Louisiana State,W,1,22,1,6,.167,1,4,.250,0,2,.000,0,0,,0,4,4,0,0,0,2,0,2,-2.6
+564177,Chris Bass\chris-bass-1,G,2011-02-17,Louisiana State,,Alabama,L,0,16,1,4,.250,1,4,.250,0,0,,0,0,,1,2,3,2,0,0,1,0,2,1.3
+564178,Senario Hillman\senario-hillman-1,G,2011-02-17,Alabama,@,Louisiana State,W,0,12,1,2,.500,1,2,.500,0,0,,0,0,,0,1,1,0,1,0,1,3,2,0.1
+564179,Storm Warren\storm-warren-1,F,2011-02-17,Louisiana State,,Alabama,L,1,10,1,3,.333,1,3,.333,0,0,,0,2,.000,2,6,8,0,1,1,0,4,2,2.8
+564180,Adam Chmielewski\adam-chmielewski-1,G,2011-02-17,St. Francis (NY),@,Mount St. Mary's,W,0,13,1,3,.333,1,1,1.000,0,2,.000,0,0,,0,0,0,0,0,0,1,0,2,-0.7
+564181,Danny Thompson\danny-thompson-1,F,2011-02-17,Mount St. Mary's,,St. Francis (NY),L,0,16,1,3,.333,1,3,.333,0,0,,0,0,,0,2,2,1,0,0,0,2,2,0.8
+564182,Dre Calloway\dre-calloway-1,G,2011-02-17,St. Francis (NY),@,Mount St. Mary's,W,1,22,1,3,.333,1,3,.333,0,0,,0,0,,1,1,2,3,0,0,1,4,2,0.8
+564183,Travis Nichols\travis-nichols-1,F,2011-02-17,St. Francis (NY),@,Mount St. Mary's,W,0,13,1,6,.167,1,3,.333,0,3,.000,0,0,,2,2,4,0,0,0,0,0,2,0.2
+564184,Catalin Baciu\catalin-baciu-1,C,2011-02-17,Clemson,@,North Carolina State,L,0,2,0,0,,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0
+564185,DeShawn Painter\deshawn-painter-1,C,2011-02-17,North Carolina State,,Clemson,W,0,10,1,1,1.000,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,3,2,0.8
+564186,Devon Archie\devon-archie-1,F,2011-02-17,Iowa,@,Northwestern,L,0,10,1,2,.500,1,2,.500,0,0,,0,2,.000,1,2,3,1,0,0,0,0,2,2.2
+564187,Eric May\eric-may-1,G,2011-02-17,Iowa,@,Northwestern,L,1,20,1,5,.200,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,1,0,2,-1.8
+564188,Eric Carlson\eric-carlson-1,F,2011-02-17,North Dakota State,@,Oakland,L,1,18,0,5,.000,0,5,.000,0,0,,2,3,.667,2,0,2,1,0,0,2,1,2,-2.2
+564189,Steve Kirkpatrick\steve-kirkpatrick-1,F,2011-02-17,Penn State,,Minnesota,W,0,5,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4
+564190,Jasonn Hannibal\jasonn-hannibal-1,C,2011-02-17,Portland,,San Francisco,L,0,9,1,1,1.000,1,1,1.000,0,0,,0,1,.000,0,0,0,0,0,0,0,0,2,1.3
+564191,Justin Raffington\justin-raffington-1,C,2011-02-17,San Francisco,@,Portland,W,0,13,1,2,.500,1,2,.500,0,0,,0,0,,1,3,4,0,0,1,1,2,2,1.5
+564192,Ryan Nicholas\ryan-nicholas-1,F,2011-02-17,Portland,,San Francisco,L,0,9,1,3,.333,1,3,.333,0,0,,0,0,,1,1,2,0,2,0,1,4,2,0.7
+564193,Bilal Dixon\bilal-dixon-1,F,2011-02-17,Providence,,DePaul,L,1,12,1,1,1.000,1,1,1.000,0,0,,0,2,.000,2,2,4,1,0,0,2,4,2,0.0
+564194,Keierre Richards\keierre-richards-1,G,2011-02-17,Savannah State,,Trinity Baptist,W,0,20,1,3,.333,1,3,.333,0,0,,0,0,,3,4,7,0,1,0,1,0,2,3.6
+564195,Andrew Zimmerman\andrew-zimmerman-1,F,2011-02-17,Stanford,,UCLA,L,0,10,1,2,.500,1,2,.500,0,0,,0,0,,1,0,1,1,0,1,1,3,2,0.9
+564196,Brendan Lane\brendan-lane-1,F,2011-02-17,UCLA,@,Stanford,W,0,7,1,1,1.000,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,2.7
+564197,Dwight Powell\dwight-powell-1,F,2011-02-17,Stanford,,UCLA,L,1,17,1,7,.143,1,6,.167,0,1,.000,0,0,,2,3,5,1,1,0,2,0,2,-0.5
+564198,Cole Dewey\cole-dewey-1,G,2011-02-17,Campbell,@,Stetson,W,0,9,1,2,.500,1,1,1.000,0,1,.000,0,0,,0,1,1,0,0,0,1,2,2,-0.5
+564199,Martell Jackson\martell-jackson-1,C,2011-02-17,Campbell,@,Stetson,W,0,12,1,3,.333,1,3,.333,0,0,,0,2,.000,1,0,1,0,0,0,1,3,2,-2.0
+564200,Kevin Hovde\kevin-hovde-1,F,2011-02-17,Richmond,@,Temple,L,0,1,1,1,1.000,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,2.4
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=564100&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

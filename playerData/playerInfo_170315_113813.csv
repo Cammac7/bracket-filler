@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+435301,Joel Davis\joel-davis-1,G,2016-12-27,Cornell,@,Syracuse,L,0,2,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,0,0,0,0,0,4,3.7
+435302,Janai Raynor Powell\janai-raynorpowell-1,G,2016-12-06,South Carolina State,@,Miami (FL),L,1,22,1,3,.333,0,2,.000,1,1,1.000,1,2,.500,0,1,1,1,0,0,2,0,4,0.9
+435303,Terrence Samuel\terrence-samuel-1,G,2016-12-27,Penn State,,Northwestern,L,0,11,1,4,.250,1,3,.333,0,1,.000,2,2,1.000,1,1,2,0,1,0,0,0,4,3.6
+435304,Johnathon Wilkins\jonathan-wilkins-1,F,2016-12-27,New Mexico State,,Eastern New Mexico,W,1,17,2,4,.500,2,4,.500,0,0,,0,0,,3,6,9,2,0,1,3,4,4,3.4
+435305,Jermaine Haley\jermaine-haley-1,G,2016-12-27,New Mexico State,,Eastern New Mexico,W,1,23,1,3,.333,0,1,.000,1,2,.500,1,2,.500,1,1,2,1,1,0,2,4,4,1.0
+435306,Eric Curry\eric-curry-1,F,2016-12-27,Minnesota,,Michigan State,L,0,21,0,0,,0,0,,0,0,,4,4,1.000,1,4,5,1,1,1,2,4,4,4.7
+435307,Akeem Springs\akeem-springs-1,G,2016-12-27,Minnesota,,Michigan State,L,0,17,1,2,.500,0,0,,1,2,.500,1,2,.500,0,1,1,0,0,1,2,0,4,1.6
+435308,Jalen Coleman-Lands\jalen-coleman-lands-1,G,2016-12-27,Illinois,@,Maryland,L,1,25,2,5,.400,2,2,1.000,0,3,.000,0,0,,0,2,2,1,0,0,3,4,4,-2.0
+435309,Alex Hart\alex-hart-1,F,2016-12-27,UC-Santa Barbara,,Cal State Bakersfield,W,1,25,1,5,.200,1,5,.200,0,0,,2,4,.500,2,3,5,0,0,1,1,3,4,0.9
+435310,Martins Igbanu\martins-igbanu-1,F,2016-12-25,Tulsa,,Illinois State,L,0,11,2,4,.500,2,4,.500,0,0,,0,0,,2,3,5,0,0,0,1,1,4,2.9
+435311,Seventh Woods\seventh-woods-1,G,2016-12-07,North Carolina,,Davidson,W,0,11,1,3,.333,1,2,.500,0,1,.000,2,2,1.000,2,1,3,2,2,0,1,0,4,6.4
+435312,Deng Geu\deng-geu-1,F,2016-12-07,North Dakota State,,North Dakota,L,0,15,2,4,.500,2,3,.667,0,1,.000,0,0,,0,4,4,0,0,0,2,1,4,0.8
+435313,Josh Collins\josh-collins-1,F,2016-12-07,North Dakota,@,North Dakota State,W,0,15,2,3,.667,2,2,1.000,0,1,.000,0,0,,1,1,2,0,0,1,0,2,4,3.6
+435314,Quinton Hooker\quinton-hooker-1,G,2016-12-07,North Dakota,@,North Dakota State,W,1,38,1,10,.100,1,5,.200,0,5,.000,2,2,1.000,0,4,4,9,2,0,3,0,4,3.9
+435315,Bennett Koch\bennett-koch-1,F,2016-12-07,Northern Iowa,,South Dakota State,W,0,12,2,3,.667,2,3,.667,0,0,,0,0,,1,0,1,0,0,0,2,4,4,-0.2
+435316,Matthew McCarthy\matthew-mccarthy-1,F,2016-12-25,San Francisco,,San Diego State,L,1,21,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,0,1,0,3,2,4,1.6
+435317,Chase Foster\chase-foster-1,F,2016-12-25,San Francisco,,San Diego State,L,1,24,2,5,.400,2,4,.500,0,1,.000,0,1,.000,0,5,5,1,1,0,0,2,4,3.3
+435318,Clemmye Owens\clemmye-owens-1,G,2016-12-23,Chicago State,,Troy,L,0,23,1,7,.143,1,4,.250,0,3,.000,2,2,1.000,0,2,2,4,3,0,0,1,4,5.5
+435319,Robert Montgomery\robert-montgomery-1,F,2016-12-23,St. Francis (NY),,Saint Peter's,L,1,21,2,5,.400,2,5,.400,0,0,,0,0,,2,3,5,1,0,0,1,4,4,1.7
+435320,Raheem Watts\raheem-watts-1,F,2016-12-23,Southern Mississippi,,Stephen F. Austin,L,1,18,2,3,.667,2,2,1.000,0,1,.000,0,0,,2,2,4,0,2,0,0,5,4,4.7
+435321,Nick Rakocevic\nick-rakocevic-1,F,2016-12-23,Southern California,,Wyoming,W,0,22,2,2,1.000,2,2,1.000,0,0,,0,0,,2,3,5,4,1,1,1,3,4,8.0
+435322,Alan Herndon\alan-herndon-1,F,2016-12-23,Wyoming,,Southern California,L,1,35,2,4,.500,2,2,1.000,0,2,.000,0,0,,2,1,3,0,1,1,0,1,4,5.0
+435323,Michael Nzei\michael-nzei-1,F,2016-12-23,Seton Hall,,Rutgers,W,0,11,1,2,.500,1,2,.500,0,0,,2,3,.667,2,1,3,0,0,0,1,2,4,2.5
+435324,Jonathan Laurent\jonathan-laurent-1,F,2016-12-23,Rutgers,@,Seton Hall,L,0,17,0,0,,0,0,,0,0,,4,4,1.000,1,5,6,0,0,1,2,0,4,4.9
+435325,C.J. Gettys\cj-gettys-1,C,2016-12-23,Rutgers,@,Seton Hall,L,1,16,1,7,.143,1,7,.143,0,0,,2,2,1.000,0,0,0,0,0,1,4,5,4,-5.8
+435326,Pat Birt\pat-birt-1,G,2016-12-23,Tulsa,,San Diego State,L,0,32,1,7,.143,1,4,.250,0,3,.000,2,2,1.000,1,4,5,0,0,0,2,1,4,-1.0
+435327,Carlos Johnson\carlos-johnson-1,G,2016-11-26,Washington,,Texas Christian,L,0,9,2,4,.500,2,4,.500,0,0,,0,0,,1,0,1,0,0,0,4,3,4,-2.5
+435328,Sam Timmins\sam-timmins-1,F,2016-11-26,Washington,,Texas Christian,L,0,8,2,3,.667,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,2,0,4,1.0
+435329,Antonio Green\antonio-green-2,G,2016-11-26,Texas-Rio Grande Valley,,St. Francis (NY),W,1,32,1,13,.077,1,7,.143,0,6,.000,2,2,1.000,0,3,3,0,1,0,2,0,4,-4.8
+435330,Jahmel Bodrick\jahmel-bodrick-1,F,2016-11-26,St. Francis (NY),,Texas-Rio Grande Valley,L,0,9,2,3,.667,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,0,4,4,2.1
+435331,Dachon Burke\dachon-burke-1,G,2016-11-26,Robert Morris,@,Towson,W,0,13,1,4,.250,1,3,.333,0,1,.000,2,2,1.000,0,2,2,0,0,1,1,0,4,1.9
+435332,Eddie Keith\eddie-keith-1,F,2016-11-26,Towson,,Robert Morris,L,1,38,1,5,.200,0,3,.000,1,2,.500,1,2,.500,2,5,7,5,3,0,3,2,4,6.1
+435333,Payton Henson\payton-henson-1,F,2016-11-26,Vermont,,Yale,W,1,17,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,0,0,0,0,1,1,4,4,4,-0.9
+435334,Kealen Washington-Ives\kealen-washington-ives-1,G,2016-11-26,Rider,@,Wagner,W,0,5,1,1,1.000,0,0,,1,1,1.000,1,2,.500,0,0,0,0,0,0,2,0,4,1.3
+435335,Bryce Moore\bryce-moore-1,G,2016-11-26,Western Michigan,,Central Arkansas,W,0,19,2,5,.400,2,3,.667,0,2,.000,0,2,.000,0,3,3,1,1,0,0,1,4,2.7
+435336,Patrick Ingram\patrick-ingram-1,G,2016-11-25,Idaho,@,Sam Houston State,L,0,16,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,0,1,1,1,0,0,3,1,4,1.3
+435337,Djery Baptiste\djery-baptiste-1,C,2016-11-25,Vanderbilt,,Santa Clara,W,1,10,2,2,1.000,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,0,3,4,2.2
+435338,Matt Hauser\matt-hauser-1,G,2016-11-25,Santa Clara,,Vanderbilt,L,1,37,2,8,.250,2,5,.400,0,3,.000,0,0,,0,3,3,4,0,0,0,2,4,2.1
+435339,Andre Wallace\andre-wallace-1,G,2016-11-25,South Dakota State,,UC-Irvine,L,0,14,2,6,.333,2,4,.500,0,2,.000,0,4,.000,0,0,0,0,0,1,2,3,4,-3.5
+435340,Corey Henderson\corey-henderson-1,G,2016-12-23,Tulsa,,San Diego State,L,0,16,2,5,.400,2,3,.667,0,2,.000,0,0,,0,2,2,0,1,0,1,0,4,1.9
+435341,Mike Edwards\mike-edwards-2,F,2016-12-23,Georgia,@,Oakland,L,0,19,2,4,.500,2,4,.500,0,0,,0,0,,3,3,6,0,1,0,0,3,4,4.8
+435342,Jarred Dixon\jarred-dixon-1,G,2016-12-23,Missouri State,,DePaul,W,0,24,2,5,.400,2,3,.667,0,2,.000,0,0,,0,0,0,3,0,0,2,1,4,1.0
+435343,Akil Douglas\akil-douglas-1,F,2016-12-10,Santa Clara,,Cal State East Bay,W,0,3,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,1,1,2,0,0,1,1,1,4,3.3
+435344,Jaevin Cumberland\jaevin-cumberland-1,G,2016-12-01,Oakland,,Oral Roberts,W,0,16,1,2,.500,0,0,,1,2,.500,1,2,.500,0,2,2,0,1,0,1,2,4,2.4
+435345,Aaron Tate\aaron-tate-1,F,2016-12-10,Robert Morris,,Oakland,L,1,22,2,7,.286,2,7,.286,0,0,,0,0,,1,2,3,1,0,1,2,2,4,-0.2
+435346,Nolan Gerrity\nolan-gerrity-1,F,2016-12-23,Maryland-Baltimore County,@,James Madison,W,1,23,2,5,.400,2,5,.400,0,0,,0,0,,0,4,4,0,0,0,1,3,4,0.3
+435347,Jackson Kent\jackson-kent-1,G,2016-12-23,James Madison,,Maryland-Baltimore County,L,1,31,1,8,.125,1,5,.200,0,3,.000,2,2,1.000,0,4,4,3,1,1,1,1,4,2.4
+435348,Ivan Lukic\ivan-lukic-1,F,2016-12-23,James Madison,,Maryland-Baltimore County,L,0,10,2,3,.667,2,3,.667,0,0,,0,0,,1,1,2,0,0,1,0,2,4,3.6
+435349,Jack Shaughnessy\jack-shaughnessy-1,G,2016-11-26,Seattle,@,Central Florida,L,0,11,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,1,2,3,1,0,0,0,1,4,5.3
+435350,William Powell\william-powell-1,F,2016-11-26,Seattle,@,Central Florida,L,1,34,2,5,.400,2,5,.400,0,0,,0,1,.000,1,3,4,2,1,0,2,4,4,1.3
+435351,Brock Johnson\brock-johnson-1,G,2016-11-26,Charleston Southern,,Toccoa Falls,W,0,2,2,2,1.000,2,2,1.000,0,0,,0,0,,0,0,0,2,1,0,0,0,4,5.8
+435352,Tevin King\tevin-king-1,G,2016-11-27,South Dakota State,,Milwaukee,W,1,27,0,2,.000,0,1,.000,0,1,.000,4,4,1.000,0,4,4,1,1,0,1,2,4,3.7
+435353,Seth Towns\seth-towns-1,F,2016-12-23,Harvard,@,Houston,W,1,24,2,8,.250,2,6,.333,0,2,.000,0,0,,0,4,4,4,1,0,2,2,4,1.4
+435354,Justin Bassey\justin-bassey-1,G,2016-12-23,Harvard,@,Houston,W,0,21,2,3,.667,2,3,.667,0,0,,0,0,,2,3,5,1,0,0,0,1,4,5.3
+435355,Henry Welsh\henry-welsh-1,F,2016-12-23,Harvard,@,Houston,W,0,6,2,3,.667,2,3,.667,0,0,,0,0,,0,0,0,0,0,0,1,0,4,1.7
+435356,Bertrand Nkali\bertrand-nkali-1,F,2016-12-23,Houston,,Harvard,L,0,11,2,3,.667,2,3,.667,0,0,,0,0,,4,1,5,0,0,2,0,1,4,6.8
+435357,Obi Momah\obi-momah-1,F,2016-12-23,Marist,@,Holy Cross,L,0,11,2,4,.500,2,4,.500,0,0,,0,0,,1,3,4,0,1,0,0,3,4,3.4
+435358,Sedrick Barefield\sedrick-barefield-1,G,2016-12-23,Utah,@,Hawaii,W,1,17,2,5,.400,2,4,.500,0,1,.000,0,0,,0,0,0,1,1,0,0,5,4,1.0
+435359,Ido Flaisher\ido-flaisher-1,C,2016-12-23,Hawaii,,Utah,L,0,14,2,3,.667,2,3,.667,0,0,,0,0,,0,5,5,0,0,0,1,4,4,1.6
+435360,Trey Landers\trey-landers-1,G,2016-12-23,Dayton,,Virginia Military Institute,W,0,8,1,1,1.000,0,0,,1,1,1.000,1,2,.500,1,2,3,1,0,1,1,0,4,5.0
+435361,T.J. Thomas\tj-thomas-2,F,2016-12-10,Drake,,Jackson State,L,1,20,1,4,.250,1,4,.250,0,0,,2,2,1.000,2,4,6,1,0,1,1,3,4,3.4
+435362,Francisco Santiago\francisco-santiago-1,G,2016-12-10,Youngstown State,@,American,L,1,30,2,5,.400,2,4,.500,0,1,.000,0,0,,1,1,2,5,2,0,3,2,4,4.0
+435363,Arlando Cook\arlando-cook-1,F,2016-12-10,Arkansas,,North Florida,W,0,12,2,4,.500,2,4,.500,0,0,,0,0,,3,1,4,0,2,0,1,2,4,4.6
+435364,Romelo Banks\romelo-banks-1,C,2016-12-10,North Florida,@,Arkansas,L,1,31,2,6,.333,2,6,.333,0,0,,0,2,.000,1,4,5,0,0,0,2,4,4,-1.9
+435365,Dylan Windler\dylan-windler-1,G,2016-12-03,Belmont,@,Pepperdine,W,1,37,2,5,.400,2,3,.667,0,2,.000,0,0,,2,5,7,3,1,1,1,1,4,6.6
+435366,Nolan Taylor\nolan-taylor-1,F,2016-12-03,Pepperdine,,Belmont,L,0,12,2,3,.667,2,2,1.000,0,1,.000,0,0,,0,2,2,1,0,0,0,3,4,2.8
+435367,Tory Miller\tory-miller-1,F,2016-12-03,Colorado,@,Portland,W,0,7,2,4,.500,2,4,.500,0,0,,0,1,.000,1,0,1,0,0,0,0,1,4,1.9
+435368,Dan Kimasa\dan-kimasa-1,F,2016-12-03,Texas-Rio Grande Valley,@,Portland State,L,0,9,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,1,0,0,0,4,4,3.5
+435369,Lesley Varner Jr.\lesley-varnerjr-1,F,2016-12-03,Texas-Rio Grande Valley,@,Portland State,L,0,15,1,5,.200,1,2,.500,0,3,.000,2,2,1.000,1,2,3,2,3,0,1,0,4,5.6
+435370,Marvin Jean-Pierre\marvin-jean-pierre-1,G,2016-12-03,Louisiana-Monroe,@,Chattanooga,L,0,17,1,6,.167,1,6,.167,0,0,,2,2,1.000,1,3,4,1,1,1,2,3,4,1.0
+435371,Isaiah Jackson\isaiah-jackson-2,G,2016-12-23,Providence,@,Boston College,L,1,18,2,6,.333,2,4,.500,0,2,.000,0,0,,1,1,2,2,1,1,0,1,4,4.3
+435372,Rauno Nurger\rauno-nurger-1,C,2016-12-22,Wichita State,,South Dakota State,W,0,11,2,2,1.000,2,2,1.000,0,0,,0,0,,0,0,0,0,0,1,0,0,4,4.1
+435373,Rashard Kelly\rashard-kelly-1,F,2016-12-22,Wichita State,,South Dakota State,W,0,16,2,3,.667,2,3,.667,0,0,,0,0,,1,0,1,0,1,0,0,2,4,3.6
+435374,Onno Steger\onno-steger-1,F,2016-12-22,Western Carolina,,College of Charleston,L,0,19,2,3,.667,2,2,1.000,0,1,.000,0,0,,0,1,1,0,2,0,1,0,4,4.0
+435375,Mike Aaman\mike-aaman-2,F,2016-12-22,Wagner,,Staten Island,W,0,10,2,5,.400,2,5,.400,0,0,,0,1,.000,1,3,4,1,0,2,0,0,4,4.6
+435376,Shack Scott\shack-scott-1,F,2016-12-22,Wagner,,Staten Island,W,1,14,1,5,.200,1,5,.200,0,0,,2,5,.400,2,2,4,0,0,0,2,3,4,-1.5
+435377,Michael Carey\michael-carey-1,G,2016-12-22,Wagner,,Staten Island,W,1,21,1,4,.250,1,4,.250,0,0,,2,2,1.000,1,5,6,3,0,0,2,1,4,3.5
+435378,Greg Senat\greg-senat-1,F,2016-12-22,Wagner,,Staten Island,W,0,17,2,3,.667,2,3,.667,0,0,,0,0,,3,5,8,1,1,2,0,0,4,9.4
+435379,Justin Tillman\justin-tillman-1,F,2016-12-22,Virginia Commonwealth,,Louisiana-Monroe,W,1,21,2,2,1.000,2,2,1.000,0,0,,0,0,,1,5,6,0,0,0,1,1,4,4.2
+435380,Jonathan Williams\jonathan-williams-3,G,2016-12-22,Virginia Commonwealth,,Louisiana-Monroe,W,1,16,2,5,.400,2,4,.500,0,1,.000,0,2,.000,0,1,1,2,1,0,3,1,4,-0.2
+435381,Nate Renfro\nate-renfro-1,F,2016-12-22,San Francisco,,Utah,W,1,18,2,5,.400,2,3,.667,0,2,.000,0,1,.000,1,0,1,0,1,0,4,1,4,-1.8
+435382,Jimbo Lull\jimbo-lull-1,C,2016-12-22,San Francisco,,Utah,W,1,9,1,2,.500,1,2,.500,0,0,,2,2,1.000,1,1,2,0,0,0,4,4,4,-1.6
+435383,Sterling Taplin\sterling-taplin-1,G,2016-12-22,Tulsa,,Stephen F. Austin,W,1,23,2,4,.500,2,3,.667,0,1,.000,0,0,,1,1,2,4,1,0,2,5,4,2.8
+435384,Christian Sanders\christian-sanders-1,G,2016-12-22,Stanford,,Idaho,W,0,12,1,1,1.000,1,1,1.000,0,0,,2,3,.667,0,3,3,1,0,0,1,0,4,3.9
+435385,Josh Ayeni\josh-ayeni-1,F,2016-12-22,St. Bonaventure,,Canisius,L,1,11,1,3,.333,1,3,.333,0,0,,2,2,1.000,3,0,3,0,0,0,0,1,4,4.0
+435386,Max Hoetzel\max-hoetzel-1,F,2016-12-22,San Diego State,,Southern Mississippi,W,0,19,1,6,.167,0,0,,1,6,.167,1,2,.500,0,2,2,0,0,0,0,1,4,0.0
+435387,D'Erryl Williams\derryl-williams-1,G,2016-12-22,San Diego State,,Southern Mississippi,W,0,22,2,3,.667,2,3,.667,0,0,,0,0,,1,5,6,1,0,0,4,0,4,1.6
+435388,Dante Bailey\dante-bailey-1,F,2016-12-22,Tennessee-Martin,@,Southern Illinois,L,0,8,1,2,.500,1,1,1.000,0,1,.000,2,3,.667,1,0,1,0,0,0,0,0,4,3.3
+435389,Jordan Martin\jordan-martin-2,F,2016-12-22,Missouri State,,Southern California,L,1,13,2,3,.667,2,3,.667,0,0,,0,0,,1,1,2,0,0,0,1,1,4,2.3
+435390,Ron Trapps\ron-trapps-1,G,2016-12-10,North Carolina Central,@,Coastal Carolina,L,0,21,1,7,.143,1,2,.500,0,5,.000,2,2,1.000,0,1,1,2,0,0,0,3,4,0.0
+435391,Ilker Er\ilker-er-1,G,2016-12-10,Maine,@,Dartmouth,W,0,17,1,8,.125,0,5,.000,1,3,.333,1,2,.500,1,2,3,0,0,0,0,3,4,-1.5
+435392,Marko Pirovic\marko-pirovic-1,F,2016-12-10,Maine,@,Dartmouth,W,0,19,2,7,.286,2,3,.667,0,4,.000,0,0,,2,0,2,1,1,0,0,1,4,2.6
+435393,Vincent Eze\vincent-eze-1,F,2016-12-10,Maine,@,Dartmouth,W,0,12,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,2,1,3,0,0,1,2,2,4,3.3
+435394,Jason Williams\jason-williams-10,G,2016-12-10,East Tennessee State,@,Dayton,L,0,10,0,2,.000,0,1,.000,0,1,.000,4,4,1.000,0,2,2,2,0,0,1,3,4,2.4
+435395,Ryan Mikesell\ryan-mikesell-1,F,2016-12-10,Dayton,,East Tennessee State,W,1,20,2,4,.500,2,3,.667,0,1,.000,0,0,,1,0,1,1,0,0,1,2,4,1.6
+435396,T.J. Cromer\tj-cromer-1,G,2016-12-10,East Tennessee State,@,Dayton,L,1,28,1,11,.091,0,6,.000,1,5,.200,1,2,.500,0,2,2,3,0,1,3,2,4,-4.1
+435397,Al Eichelberger\al-eichelberger-1,F,2016-12-10,DePaul,,Temple,L,0,6,1,1,1.000,1,1,1.000,0,0,,2,3,.667,2,1,3,0,0,1,0,0,4,5.7
+435398,R.J. Curington\rj-curington-1,G,2016-12-10,DePaul,,Temple,L,0,11,2,2,1.000,2,2,1.000,0,0,,0,0,,0,2,2,0,0,1,3,3,4,0.5
+435399,Sam Timmins\sam-timmins-1,F,2016-12-22,Washington,@,Seattle,W,0,21,2,3,.667,2,3,.667,0,0,,0,0,,1,3,4,1,1,0,0,2,4,5.2
+435400,Devenir Duruisseau\devenir-duruisseau-1,F,2016-12-22,Washington,@,Seattle,W,0,5,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,0,1,0,1,0,4,3.7
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=435300&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

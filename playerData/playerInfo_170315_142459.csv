@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+519901,Michael Hoffman\michael-hoffman-1,F,2014-11-16,Lafayette,@,West Virginia,L,0,14,1,1,1.000,1,1,1.000,0,0,,1,2,.500,0,1,1,0,1,1,1,1,3,2.9
+519902,Malik Thomas\malik-thomas-1,G,2014-11-16,Norfolk State,@,Virginia,L,1,20,0,8,.000,0,6,.000,0,2,.000,3,4,.750,3,4,7,3,0,2,3,3,3,-0.4
+519903,Malik Gray\malik-gray-1,G,2014-11-16,Norfolk State,@,Virginia,L,0,14,1,3,.333,0,0,,1,3,.333,0,0,,0,2,2,1,0,0,0,1,3,2.2
+519904,D'Shon Taylor\dshon-taylor-1,G,2014-11-16,Norfolk State,@,Virginia,L,1,22,1,4,.250,0,2,.000,1,2,.500,0,0,,0,3,3,0,0,1,0,3,3,1.0
+519905,Wanaah Bail\wanaah-bail-1,F,2014-11-16,UCLA,,Coastal Carolina,W,0,14,1,1,1.000,1,1,1.000,0,0,,1,1,1.000,0,3,3,0,0,0,0,0,3,3.6
+519906,Noah Allen\noah-allen-1,G,2014-11-16,UCLA,,Coastal Carolina,W,0,14,1,3,.333,0,1,.000,1,2,.500,0,0,,0,3,3,3,0,0,0,1,3,3.9
+519907,Damarcus Croaker\damarcus-croaker-1,G,2014-11-16,Texas,,Alcorn State,W,0,10,1,1,1.000,0,0,,1,1,1.000,0,0,,1,0,1,0,0,0,1,0,3,2.4
+519908,Eric Robertson\eric-robertson-2,F,2014-11-16,South Dakota,@,Stanford,L,0,18,1,3,.333,0,1,.000,1,2,.500,0,0,,1,3,4,0,0,0,0,4,3,1.3
+519909,Jestin Lewis\jestin-lewis-1,G,2014-11-16,Mercer,@,Seton Hall,L,0,11,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,1,0,1,0,3,2.7
+519910,Riley Barker\riley-barker-1,C,2014-11-16,Portland,@,San Jose State,W,0,30,1,6,.167,1,6,.167,0,0,,1,2,.500,3,4,7,0,4,1,2,4,3,3.2
+519911,Uche Ofoegbu\uche-ofoegbu-1,F,2014-11-16,San Francisco,,South Carolina State,W,0,4,1,3,.333,1,3,.333,0,0,,1,1,1.000,1,0,1,0,0,0,0,0,3,2.0
+519912,Patrick Kirksey\patrick-kirksey-1,F,2014-11-16,South Carolina State,@,San Francisco,L,1,9,1,1,1.000,1,1,1.000,0,0,,1,4,.250,1,0,1,0,0,0,2,3,3,-1.0
+519913,David Irby\david-irby-1,G,2014-11-16,San Francisco,,South Carolina State,W,0,1,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+519914,Matt Harris\matt-harris-1,G,2014-11-16,Massachusetts-Lowell,@,Rhode Island,L,0,23,1,3,.333,0,1,.000,1,2,.500,0,0,,0,3,3,0,0,0,2,2,3,-0.6
+519915,Brad Schaub\brad-schaub-1,G,2014-11-16,Massachusetts-Lowell,@,Rhode Island,L,0,19,1,2,.500,0,0,,1,2,.500,0,0,,0,0,0,0,0,0,1,1,3,0.6
+519916,Manny Suarez\manny-suarez-1,F,2014-11-16,Fordham,@,Penn State,L,0,8,1,5,.200,0,2,.000,1,3,.333,0,0,,0,0,0,0,0,2,0,4,3,-0.3
+519917,Jordan Dickerson\jordan-dickerson-2,C,2014-11-16,Penn State,,Fordham,W,0,13,0,2,.000,0,2,.000,0,0,,3,4,.750,1,2,3,0,0,0,0,4,3,0.9
+519918,John Brisco\john-brisco-1,G,2014-11-16,Prairie View,@,Oklahoma State,L,0,19,1,4,.250,0,1,.000,1,3,.333,0,0,,0,2,2,2,0,0,2,3,3,-0.6
+519919,Joe Burton\joe-burton-2,G,2014-11-16,Oklahoma State,,Prairie View,W,0,4,1,3,.333,1,1,1.000,0,2,.000,1,2,.500,1,0,1,0,0,0,0,0,3,1.6
+519920,Frank Booker\frank-booker-1,G,2014-11-16,Oklahoma,,Southeastern Louisiana,W,0,12,1,4,.250,0,0,,1,4,.250,0,0,,0,2,2,0,0,0,0,3,3,0.0
+519921,Daniel Noe\daniel-noe-1,G,2014-11-16,Navy,@,Notre Dame,L,0,5,1,4,.250,1,2,.500,0,2,.000,1,1,1.000,0,1,1,0,0,0,0,0,3,0.9
+519922,Desmond Hubert\desmond-hubert-1,F,2014-11-16,North Carolina,,Robert Morris,W,0,13,1,3,.333,1,3,.333,0,0,,1,2,.500,1,0,1,0,0,0,0,2,3,0.8
+519923,Steve McClellan\steven-mcclellan-1,F,2014-11-16,Cal State Fullerton,@,New Mexico,L,0,24,1,2,.500,1,2,.500,0,0,,1,2,.500,1,5,6,1,1,0,0,4,3,3.9
+519924,Sam Logwood\sam-logwood-1,G,2014-11-16,New Mexico,,Cal State Fullerton,W,0,12,0,1,.000,0,1,.000,0,0,,3,4,.750,2,1,3,0,0,0,1,1,3,2.2
+519925,Boo Milligan\michael-milligan-1,F,2014-11-16,Central Arkansas,@,Nebraska-Omaha,L,0,27,1,4,.250,0,2,.000,1,2,.500,0,0,,0,0,0,0,0,0,3,2,3,-3.2
+519926,Walter Pitchford\walter-pitchford-1,F,2014-11-16,Nebraska,,Northern Kentucky,W,1,26,1,6,.167,0,1,.000,1,5,.200,0,0,,0,4,4,1,1,3,2,4,3,0.6
+519927,Jubril Adekoya\jubril-adekoya-1,G,2014-11-16,Valparaiso,@,Missouri,L,1,31,1,8,.125,1,8,.125,0,0,,1,3,.333,1,7,8,1,0,0,2,4,3,-3.1
+519928,L.J. Livingston\lj-livingston-1,F,2014-11-16,Miami (OH),,Southern Utah,W,1,19,1,2,.500,1,2,.500,0,0,,1,3,.333,1,4,5,0,0,0,0,2,3,2.3
+519929,John Marshall\john-marshall-1,G,2014-11-16,Southern Utah,@,Miami (OH),L,1,26,1,1,1.000,1,1,1.000,0,0,,1,2,.500,0,1,1,1,0,0,4,3,3,-1.9
+519930,Chris Thompson\christian-thompson-1,F,2014-11-16,Southern Utah,@,Miami (OH),L,0,5,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,2,2,0,0,0,2,1,3,0.2
+519931,David Onuorah\david-onuorah-1,C,2014-11-16,Cornell,@,Loyola (MD),L,1,36,1,3,.333,1,3,.333,0,0,,1,2,.500,5,3,8,1,1,4,0,2,3,9.0
+519932,Karl-Anthony Towns\karl-anthony-towns-1,F,2014-11-16,Kentucky,,Buffalo,W,1,10,1,6,.167,1,5,.200,0,1,.000,1,2,.500,2,3,5,0,0,0,1,5,3,-1.9
+519933,Raheem Johnson\raheem-johnson-1,F,2014-11-16,Buffalo,@,Kentucky,L,0,18,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,1,2,0,2,1,0,3,3,4.8
+519934,Shomari Triggs\shomari-triggs-1,G,2014-11-16,Coppin State,@,Illinois,L,0,9,1,6,.167,0,3,.000,1,3,.333,0,0,,1,1,2,1,0,0,1,1,3,-0.5
+519935,Lawrence Fejokwu\lawrence-fejokwu-1,C,2014-11-16,Coppin State,@,Illinois,L,0,19,1,2,.500,1,2,.500,0,0,,1,2,.500,2,5,7,0,0,3,1,3,3,4.4
+519936,Tyler Stone\tyler-stone-2,F,2014-11-16,Howard,,Goucher,W,0,13,1,1,1.000,1,1,1.000,0,0,,1,3,.333,2,3,5,0,0,1,0,0,3,4.9
+519937,Malachi Alexander\malachi-alexander-1,F,2014-11-16,Holy Cross,,Harvard,W,0,26,1,3,.333,1,3,.333,0,0,,1,2,.500,2,6,8,2,2,0,2,2,3,4.7
+519938,Kevin Vannatta\kevin-vannatta-1,G,2014-11-16,North Carolina-Asheville,@,East Carolina,W,0,20,1,4,.250,1,2,.500,0,2,.000,1,2,.500,0,3,3,1,1,0,0,0,3,2.8
+519939,Jawad Adekoya\jawad-adekova-1,G,2014-11-16,Chicago State,@,Creighton,L,0,16,1,5,.200,0,0,,1,5,.200,0,0,,0,3,3,1,0,0,1,2,3,-0.3
+519940,Geoffrey Groselle\geoff-groselle-1,C,2014-11-16,Creighton,,Chicago State,W,0,9,1,2,.500,1,2,.500,0,0,,1,2,.500,1,1,2,0,0,0,0,1,3,2.2
+519941,Cameron Harvey\cameron-harvey-1,G,2014-11-16,Stetson,@,Central Florida,L,0,11,1,3,.333,0,1,.000,1,2,.500,0,0,,0,1,1,1,0,0,0,0,3,2.3
+519942,Travis Souza\travis-souza-1,G,2014-11-16,UC-Irvine,,Pacific,W,1,23,1,3,.333,0,0,,1,3,.333,0,0,,1,0,1,1,0,0,0,0,3,2.7
+519943,Ray Bowles\ray-bowles-1,G,2014-11-16,Pacific,@,UC-Irvine,L,1,19,0,3,.000,0,1,.000,0,2,.000,3,4,.750,3,1,4,3,0,0,2,1,3,2.6
+519944,Haroldas Saprykinas\haroldas-saprykinas-1,G,2014-11-16,UC-Irvine,,Pacific,W,0,1,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+519945,Justin Diecker\justin-diecker-1,F,2014-11-16,Kennesaw State,@,University of California,L,0,6,1,2,.500,1,2,.500,0,0,,1,2,.500,1,1,2,1,0,1,0,1,3,3.6
+519946,Alex Dragicevich\alex-dragicevich-1,G,2014-11-16,Boston College,,Massachusetts,L,0,10,1,1,1.000,0,0,,1,1,1.000,0,0,,1,0,1,2,0,1,0,0,3,5.5
+519947,Tre' Ivory\tre-ivory-1,G,2014-11-16,Austin Peay,,Berea,W,0,16,1,5,.200,0,3,.000,1,2,.500,0,1,.000,2,2,4,1,0,0,0,0,3,2.2
+519948,Chidozie Omile\chidozie-omile-1,G,2014-11-16,Alabama State,@,Arkansas,L,0,8,1,2,.500,0,0,,1,2,.500,0,0,,0,0,0,0,0,0,0,0,3,2.0
+519949,Dusan Ristic\dusan-ristic-1,C,2014-11-16,Arizona,,Cal State Northridge,W,0,9,0,1,.000,0,1,.000,0,0,,3,4,.750,0,2,2,0,0,0,0,1,3,2.1
+519950,Kellen Blake\kellen-blake-1,G,2014-11-15,Winthrop,,Pfeiffer,W,0,2,0,0,,0,0,,0,0,,3,3,1.000,0,0,0,0,0,0,0,0,3,3.0
+519951,Tre' Ivory\tre-ivory-1,G,2014-11-15,Austin Peay,@,Western Kentucky,L,0,17,1,3,.333,0,2,.000,1,1,1.000,0,0,,0,4,4,0,0,0,1,1,3,1.1
+519952,Tristan Thomas\tristan-thomas-1,G,2014-11-15,South Carolina Upstate,,Florida A&M,W,0,1,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+519953,T.J. Thomas\tj-thomas-1,F,2014-11-15,Southeast Missouri State,,San Diego,L,0,10,1,1,1.000,1,1,1.000,0,0,,1,2,.500,1,2,3,1,0,0,0,0,3,4.3
+519954,Deontae North\deontae-north-1,G,2014-11-15,Long Beach State,,San Francisco State,W,0,27,1,4,.250,1,4,.250,0,0,,1,1,1.000,1,1,2,1,0,1,3,2,3,-0.8
+519955,D.J. Peterson\dj-peterson-1,G,2014-11-15,La Salle,,Colgate,W,1,29,1,1,1.000,0,0,,1,1,1.000,0,0,,0,6,6,4,1,1,0,2,3,8.2
+519956,Mike Thomas\mike-thomas-2,F,2014-11-15,Hawaii,,Cal State Bakersfield,W,1,16,1,3,.333,1,2,.500,0,1,.000,1,2,.500,0,1,1,2,0,1,0,0,3,3.3
+519957,Turner Botz\turner-botz-1,G,2014-11-15,Green Bay,,Illinois-Springfield,W,0,18,1,2,.500,0,0,,1,2,.500,0,0,,1,1,2,0,0,0,0,1,3,2.6
+519958,Dayshawn Watkins\dayshawn-watkins-1,G,2014-11-15,Florida State,,Manhattan,W,0,20,0,0,,0,0,,0,0,,3,5,.600,0,2,2,1,3,0,2,3,3,3.3
+519959,Brian Greene\brian-greene-3,G,2014-11-15,Florida Gulf Coast,,Nova Southeastern,W,0,24,1,5,.200,1,3,.333,0,2,.000,1,2,.500,0,1,1,1,1,0,1,2,3,-0.3
+519960,Taylor Stafford\taylor-stafford-1,G,2014-11-15,Evansville,,Earlham (IN),W,0,22,1,3,.333,0,2,.000,1,1,1.000,0,0,,0,2,2,5,0,0,0,0,3,5.4
+519961,Jeremiah Jones\jeremiah-jones-1,G,2014-11-15,Duquesne,,Bluefield State,W,1,17,1,4,.250,1,4,.250,0,0,,1,4,.250,2,1,3,2,0,1,2,1,3,0.8
+519962,Trevor Berkeley\trevor-berkeley-1,F,2014-11-15,Drake,,Bowling Green State,L,0,17,1,1,1.000,0,0,,1,1,1.000,0,0,,0,3,3,0,0,0,1,1,3,2.2
+519963,Ore Arogundade\ore-arogundade-1,G,2014-11-15,Drake,,Bowling Green State,L,1,29,0,5,.000,0,3,.000,0,2,.000,3,5,.600,0,5,5,1,0,0,2,1,3,-1.5
+519964,David Joseph\david-joseph-1,G,2014-11-15,Bowling Green State,@,Drake,W,1,18,1,5,.200,0,4,.000,1,1,1.000,0,0,,0,1,1,3,1,0,1,2,3,1.5
+519965,Garrett Mayleben\garrett-mayleben-1,F,2014-11-15,Bowling Green State,@,Drake,W,0,16,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,3,1.3
+519966,Chauncey Orr\chauncey-orr-1,G,2014-11-15,Bowling Green State,@,Drake,W,1,13,1,2,.500,0,0,,1,2,.500,0,0,,0,1,1,1,0,1,0,0,3,3.7
+519967,Joe De Ciman\joe-de-ciman-1,G,2014-11-15,Colorado State,,Montana,W,1,23,1,5,.200,1,2,.500,0,3,.000,1,2,.500,0,3,3,4,0,1,4,1,3,-0.5
+519968,Dantiel Daniels\dantiel-daniels-1,F,2014-11-15,Colorado State,,Montana,W,1,30,1,1,1.000,1,1,1.000,0,0,,1,4,.250,3,3,6,2,0,2,3,3,3,3.1
+519969,Brandon Gfeller\brandon-gfeller-1,G,2014-11-15,Montana,@,Colorado State,L,0,15,1,2,.500,0,0,,1,2,.500,0,0,,0,2,2,0,0,0,1,3,3,0.4
+519970,Ryan Pierson\ryan-pierson-1,F,2014-11-15,Vermont,@,Canisius,L,0,13,1,4,.250,1,4,.250,0,0,,1,1,1.000,1,1,2,0,0,0,1,2,3,-0.2
+519971,Jermaine Crumpton\jermaine-crumpton-1,F,2014-11-15,Canisius,,Vermont,W,0,11,1,2,.500,0,0,,1,2,.500,0,1,.000,0,1,1,0,0,1,1,1,3,1.2
+519972,Garvey Melmed\garvey-melmed-1,G,2014-11-15,Maine,@,Butler,L,0,15,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,1,1,3,1.3
+519973,Lewis Sullivan\lewis-sullivan-1,F,2014-11-15,Alabama-Birmingham,,Louisiana-Monroe,L,0,14,1,4,.250,0,1,.000,1,3,.333,0,0,,0,6,6,1,0,0,1,1,3,1.7
+519974,Jamaal Samuel\jamaal-samuel-1,F,2014-11-15,Louisiana-Monroe,@,Alabama-Birmingham,W,0,17,1,4,.250,0,1,.000,1,3,.333,0,0,,0,2,2,2,1,0,2,3,3,0.4
+519975,Denzell Watts\denzell-watts-1,G,2014-11-15,Alabama-Birmingham,,Louisiana-Monroe,L,0,13,1,2,.500,0,1,.000,1,1,1.000,0,0,,0,0,0,2,0,0,2,0,3,1.4
+519976,Zach Kocur\zach-kocur-1,G,2014-11-15,Air Force,,Citadel,W,0,11,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,1,0,0,2,1,3,1.0
+519977,Sean O'Mara\sean-omara-1,F,2014-11-14,Xavier,,Northern Arizona,W,0,6,1,1,1.000,1,1,1.000,0,0,,1,1,1.000,0,0,0,0,0,0,0,5,3,0.7
+519978,Steven Davis\steven-davis-2,F,2014-11-14,Wright State,,Belmont,W,1,16,1,4,.250,1,3,.333,0,1,.000,1,4,.250,3,1,4,1,1,0,0,4,3,1.9
+519979,Amanze Egekeze\amanze-egekeze-1,F,2014-11-14,Belmont,@,Wright State,L,0,6,1,3,.333,1,3,.333,0,0,,1,2,.500,1,0,1,0,1,0,1,3,3,0.4
+519980,Jordan Garnett\jordan-garnett-1,F,2014-11-14,Northern Kentucky,@,Wisconsin,L,0,2,1,2,.500,1,2,.500,0,0,,1,1,1.000,2,0,2,0,0,0,0,0,3,3.4
+519981,Deontae Cole\deontae-cole-1,F,2014-11-14,Northern Kentucky,@,Wisconsin,L,0,3,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7
+519982,Mohamed Conde\mohamed-conde-1,F,2014-11-14,Western Illinois,,Pacific,L,0,24,1,4,.250,1,4,.250,0,0,,1,5,.200,2,3,5,0,1,1,0,4,3,1.4
+519983,Nathan Adrian\nathan-adrian-1,F,2014-11-14,West Virginia,,Monmouth,W,0,14,1,3,.333,0,0,,1,3,.333,0,2,.000,3,1,4,1,1,0,0,4,3,3.0
+519984,Daxter Miles\daxter-miles-1,G,2014-11-14,West Virginia,,Monmouth,W,1,10,1,7,.143,0,1,.000,1,6,.167,0,0,,1,0,1,0,1,0,0,1,3,-0.2
+519985,Miles Overton\miles-overton-1,G,2014-11-14,Wake Forest,,North Carolina-Asheville,W,0,12,1,2,.500,0,0,,1,2,.500,0,0,,0,1,1,1,0,0,1,3,3,0.8
+519986,Mitchell Wilbekin\mitchell-wilbekin-1,G,2014-11-14,Wake Forest,,North Carolina-Asheville,W,0,15,1,2,.500,0,0,,1,2,.500,0,0,,0,1,1,2,0,0,2,2,3,0.9
+519987,Marcus Neely\marcus-neely-1,G,2014-11-14,North Carolina-Asheville,@,Wake Forest,L,0,6,1,4,.250,1,3,.333,0,1,.000,1,2,.500,2,2,4,0,0,0,0,1,3,1.8
+519988,Will Johnston\will-johnston-1,G,2014-11-14,Virginia Tech,,Maryland-Eastern Shore,W,0,7,1,1,1.000,0,0,,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0
+519989,Shane Henry\shane-henry-1,F,2014-11-14,Virginia Tech,,Maryland-Eastern Shore,W,0,13,1,6,.167,1,6,.167,0,0,,1,2,.500,1,7,8,0,0,3,0,2,3,2.9
+519990,Issac Smith\issac-smith-1,G,2014-11-14,Maryland-Eastern Shore,@,Virginia Tech,L,1,34,1,5,.200,1,4,.250,0,1,.000,1,2,.500,0,3,3,4,1,0,5,2,3,-1.6
+519991,Keith Carter\keith-carter-2,G,2014-11-14,Valparaiso,,East Tennessee State,W,1,26,1,3,.333,1,2,.500,0,1,.000,1,2,.500,0,2,2,4,0,1,1,5,3,2.0
+519992,Jaro Moravek\jaro-moravek-1,F,2014-11-14,Troy,,Brewton-Parker,W,0,7,1,2,.500,0,0,,1,2,.500,0,0,,1,3,4,0,0,0,1,0,3,2.6
+519993,Lucas O'Brien\lucas-obrien-1,C,2014-11-14,Texas-San Antonio,,Huston-Tillotson,W,0,8,1,2,.500,0,1,.000,1,1,1.000,0,0,,1,2,3,1,1,0,2,3,3,1.8
+519994,JeQuan Lewis\jequan-lewis-1,G,2014-11-14,Virginia Commonwealth,,Tennessee,W,1,5,1,3,.333,0,2,.000,1,1,1.000,0,0,,0,1,1,2,1,0,3,2,3,0.2
+519995,Jimmy McDonnell\jimmy-mcdonnell-1,F,2014-11-14,Temple,,American,W,0,20,1,3,.333,0,2,.000,1,1,1.000,0,0,,1,0,1,0,2,1,4,4,3,-0.9
+519996,Yonel Brown\yonel-brown-1,G,2014-11-14,Kennesaw State,@,Syracuse,L,1,29,1,6,.167,1,3,.333,0,3,.000,1,1,1.000,0,1,1,3,1,0,2,2,3,-0.2
+519997,Jeff Coby\jeff-coby-1,F,2014-11-14,Columbia,@,Stony Brook,L,0,9,1,2,.500,1,2,.500,0,0,,1,2,.500,0,2,2,0,1,0,0,1,3,2.8
+519998,Corey Mendez\corey-mendez-1,G,2014-11-14,Stetson,,Edward Waters,W,0,16,1,4,.250,0,0,,1,4,.250,0,0,,0,0,0,4,0,0,1,1,3,2.0
+519999,Kevin Holland\kevin-holland-1,G,2014-11-14,Southern Mississippi,,William Carey,W,0,20,1,2,.500,0,0,,1,2,.500,0,0,,0,2,2,1,0,0,0,2,3,2.5
+520000,Ajon Efferson\ajon-efferson-1,G,2014-11-14,Cal State Northridge,@,San Diego State,L,0,5,1,1,1.000,0,0,,1,1,1.000,0,0,,0,0,0,0,0,0,2,0,3,0.7
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=519900&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

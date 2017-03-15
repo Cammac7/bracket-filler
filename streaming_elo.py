@@ -3,7 +3,8 @@ import math
 import pandas as pd
 import argparse
 import sys
-from jtutils import to_years, threewise
+import jtutils
+from jtutils.jtfunctions import to_years, threewise
 
 def readCL():
     parser = argparse.ArgumentParser()
@@ -44,8 +45,9 @@ def elo_dfs(infile):
         p2_elo = elo_dict.get(p2,starting_elo)
         elo_dict[p1] = elo_update(p1_elo, p2_elo, 1)
         elo_dict[p2] = elo_update(p2_elo, p1_elo, 0)
+        #added list wrapping to elo_dict.items(). .items is a list in python2 but a VIEW in python3
         if nex_yr != cur_yr:
-            elo_df = pd.DataFrame(elo_dict.items(),columns=["name","elo"])
+            elo_df = pd.DataFrame(list(elo_dict.items()),columns=["name","elo"])
             elo_df["year"] = cur_yr
             sys.stderr.write(cur_yr + "\n")
             yield elo_df

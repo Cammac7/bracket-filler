@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+90001,Devin Booker\devin-booker-1,F,2010-11-12,Clemson,,Western Carolina,W,1,25,6,8,.750,5,6,.833,1,2,.500,3,3,1.000,3,4,7,2,0,0,0,0,16,17.5
+90002,Trey Sumler\trey-sumler-1,G,2010-11-12,Western Carolina,@,Clemson,L,0,16,4,4,1.000,1,1,1.000,3,3,1.000,5,7,.714,1,1,2,0,0,0,2,2,16,12.2
+90003,Alex Francis\alex-francis-1,F,2010-11-12,Bryant,@,Cleveland State,L,1,37,7,10,.700,7,10,.700,0,0,,2,3,.667,4,6,10,2,1,1,5,2,16,13.3
+90004,Cory Higgins\cory-higgins-1,G,2010-11-12,Colorado,,Idaho State,W,1,33,4,15,.267,3,10,.300,1,5,.200,7,10,.700,1,2,3,4,4,0,0,2,16,13.2
+90005,Levi Knutson\levi-knutson-1,G,2010-11-12,Colorado,,Idaho State,W,0,20,6,7,.857,5,6,.833,1,1,1.000,3,3,1.000,1,4,5,2,0,0,0,3,16,15.6
+90006,Doug McDermott\doug-mcdermott-1,F,2010-11-12,Creighton,,Alabama State,W,1,32,7,13,.538,5,9,.556,2,4,.500,0,0,,4,3,7,0,1,0,2,1,16,12.0
+90007,Jamar Abrams\jamar-abrams-1,G,2010-11-12,East Carolina,,Erskine,W,1,24,4,8,.500,1,1,1.000,3,7,.429,5,6,.833,3,4,7,1,0,0,1,3,16,13.4
+90008,Dale Moss\dale-moss-1,G,2010-11-12,South Dakota State,@,Eastern Illinois,W,1,31,6,10,.600,5,9,.556,1,1,1.000,3,3,1.000,3,2,5,2,1,1,0,1,16,16.8
+90009,Jeremy Granger\jeremy-granger-1,G,2010-11-12,Eastern Illinois,,South Dakota State,L,1,39,5,13,.385,5,13,.385,0,0,,6,7,.857,3,6,9,4,1,0,1,3,16,14.0
+90010,Eric Frederick\eric-frederick-1,F,2010-11-12,Florida International,,Florida Memorial,W,1,24,8,14,.571,8,13,.615,0,1,.000,0,1,.000,2,8,10,1,0,0,0,2,16,12.7
+90011,Parker Smith\parker-smith-2,G,2010-11-12,North Florida,@,Florida State,L,0,24,3,11,.273,0,3,.000,3,8,.375,7,7,1.000,1,3,4,0,0,0,1,1,16,9.7
+90012,Chandler Parsons\chandler-parsons-1,F,2010-11-12,Florida,,North Carolina-Wilmington,W,1,27,7,13,.538,6,9,.667,1,4,.250,1,1,1.000,2,3,5,4,2,0,4,1,16,12.4
+90013,D'Angelo Jackson\dangelo-jackson-1,G,2010-11-12,Mississippi Valley State,@,Georgia,L,1,28,5,9,.556,1,4,.250,4,5,.800,2,2,1.000,2,3,5,2,0,0,3,5,16,10.4
+90014,Travis Leslie\travis-leslie-1,G,2010-11-12,Georgia,,Mississippi Valley State,W,1,37,6,14,.429,6,11,.545,0,3,.000,4,4,1.000,3,8,11,2,0,4,5,1,16,11.9
+90015,Anthony Banks\anthony-banks-1,F,2010-11-12,Florida Gulf Coast,@,Indiana,L,1,26,4,7,.571,4,7,.571,0,0,,8,10,.800,5,1,6,0,1,1,5,2,16,11.6
+90016,Michael Glover\michael-glover-1,F,2010-11-12,Iona,,Kent State,L,1,27,4,8,.500,4,8,.500,0,0,,8,15,.533,0,3,3,0,0,0,2,5,16,6.1
+90017,Thomas Robinson\thomas-robinson-2,F,2010-11-12,Kansas,,Longwood,W,0,19,5,8,.625,5,8,.625,0,0,,6,7,.857,4,3,7,0,2,0,2,1,16,15.3
+90018,David Perez\david-perez-1,G,2010-11-12,Louisiana-Lafayette,,New Mexico State,L,0,23,6,9,.667,2,4,.500,4,5,.800,0,0,,0,2,2,1,0,0,1,2,16,11.6
+90019,Josh Brown\josh-brown-2,G,2010-11-12,Louisiana-Lafayette,,New Mexico State,L,1,35,8,21,.381,8,17,.471,0,4,.000,0,2,.000,1,3,4,1,2,0,3,1,16,4.6
+90020,Devon Baker\devon-baker-1,G,2010-11-12,Northwestern State,@,Louisiana State,L,0,32,6,14,.429,3,7,.429,3,7,.429,1,2,.500,2,0,2,1,3,0,0,4,16,11.7
+90021,Chris Crawford\chris-crawford-3,G,2010-11-12,Memphis,,Centenary (LA),W,0,13,6,6,1.000,2,2,1.000,4,4,1.000,0,0,,0,3,3,0,2,0,1,2,16,15.3
+90022,Kyle Weems\kyle-weems-1,F,2010-11-12,Missouri State,,Oral Roberts,W,1,30,6,11,.545,5,8,.625,1,3,.333,3,3,1.000,2,4,6,2,3,1,4,4,16,12.8
+90023,Anthony Marshall\anthony-marshall-2,G,2010-11-12,Nevada-Las Vegas,,UC-Riverside,W,1,30,4,9,.444,3,5,.600,1,4,.250,7,8,.875,0,4,4,7,2,1,2,1,16,17.3
+90024,Ryan Harrow\ryan-harrow-1,G,2010-11-12,North Carolina State,,Tennessee Tech,W,0,24,4,12,.333,4,10,.400,0,2,.000,8,8,1.000,1,0,1,4,0,0,2,0,16,10.7
+90025,Elliott Lloyd\elliott-lloyd-1,G,2010-11-12,Northern Colorado,,Tabor College,W,1,29,5,9,.556,1,2,.500,4,7,.571,2,4,.500,1,0,1,3,3,1,0,4,16,15.8
+90026,E.J. Singler\ej-singler-1,F,2010-11-12,Oregon,,North Dakota State,W,1,38,6,11,.545,2,5,.400,4,6,.667,0,0,,7,4,11,1,1,3,1,3,16,18.4
+90027,Chris Harriel\chris-harriel-1,F,2010-11-12,Portland State,,Pepperdine,W,1,37,4,11,.364,3,7,.429,1,4,.250,7,8,.875,1,5,6,0,2,1,4,2,16,9.6
+90028,Doug Davis\doug-davis-3,G,2010-11-12,Princeton,,Rutgers,W,1,42,4,11,.364,2,2,1.000,2,9,.222,6,6,1.000,0,1,1,4,0,0,0,1,16,12.6
+90029,Kyle Cassity\kyle-cassity-1,G,2010-11-12,Saint Louis,,Austin Peay,L,1,34,7,10,.700,6,7,.857,1,3,.333,1,1,1.000,0,0,0,5,1,1,3,2,16,13.2
+90030,Preston Blackmon\preston-blackmon-1,G,2010-11-12,Savannah State,,Brewton-Parker,W,1,33,4,8,.500,2,5,.400,2,3,.667,6,6,1.000,0,3,3,4,2,0,5,0,16,12.7
+90031,Augustine Rubit\augustine-rubit-1,F,2010-11-12,South Alabama,,Spring Hill,W,1,27,5,8,.625,5,8,.625,0,0,,6,11,.545,3,12,15,1,0,1,4,1,16,13.1
+90032,Martino Brock\martino-brock-1,G,2010-11-12,South Alabama,,Spring Hill,W,1,29,6,11,.545,6,8,.750,0,3,.000,4,7,.571,3,0,3,0,4,0,0,1,16,15.2
+90033,Frank Gaines\frank-gaines-1,G,2010-11-12,IPFW,@,Southern Illinois-Edwardsville,W,1,22,4,8,.500,3,4,.750,1,4,.250,7,8,.875,1,7,8,3,0,0,2,3,16,13.3
+90034,Zach Plackemeier\zach-plackemeier-1,G,2010-11-12,IPFW,@,Southern Illinois-Edwardsville,W,1,39,4,12,.333,1,6,.167,3,6,.500,5,6,.833,1,6,7,1,0,0,5,0,16,7.0
+90035,Jeromie Hill\jeromie-hill-1,F,2010-11-12,Texas-San Antonio,,Huston-Tillotson,W,1,23,7,10,.700,7,9,.778,0,1,.000,2,6,.333,4,6,10,0,1,0,2,1,16,13.4
+90036,Stephen Franklin\stephen-franklin-1,F,2010-11-12,Texas-San Antonio,,Huston-Tillotson,W,1,25,5,9,.556,3,5,.600,2,4,.500,4,4,1.000,1,3,4,3,4,0,0,3,16,18.2
+90037,Tyler Honeycutt\tyler-honeycutt-1,F,2010-11-12,UCLA,,Cal State Northridge,W,1,25,5,10,.500,4,6,.667,1,4,.250,5,6,.833,1,5,6,3,1,1,7,1,16,9.2
+90038,Ben Aird\ben-aird-1,C,2010-11-12,Utah Valley,,Maine,L,1,39,5,11,.455,5,11,.455,0,0,,6,7,.857,2,4,6,0,3,1,2,3,16,13.0
+90039,Jordan Swarbrick\jordan-swarbrick-1,G,2010-11-12,Utah Valley,,Maine,L,1,41,5,9,.556,4,5,.800,1,4,.250,5,5,1.000,1,4,5,3,1,0,0,4,16,15.1
+90040,Troy Barnies\troy-barnies-1,F,2010-11-12,Maine,@,Utah Valley,W,1,33,7,8,.875,7,7,1.000,0,1,.000,2,2,1.000,2,5,7,0,1,1,0,4,16,16.2
+90041,Nick Gore\nick-gore-1,F,2010-11-12,Virginia Military Institute,,Randolph,W,0,26,6,10,.600,5,5,1.000,1,5,.200,3,3,1.000,1,4,5,5,3,0,2,3,16,16.6
+90042,Quinn McDowell\quinn-mcdowell-1,G,2010-11-12,William & Mary,@,Virginia,L,1,35,4,11,.364,1,5,.200,3,6,.500,5,8,.625,1,4,5,1,1,0,0,1,16,11.9
+90043,Chris Martin\chris-martin-2,G,2010-11-12,Wagner,,Lafayette,W,1,27,4,8,.500,0,3,.000,4,5,.800,4,4,1.000,0,1,1,1,1,0,2,4,16,10.4
+90044,Joel Naburgs\joel-naburgs-1,G,2010-11-12,Stetson,@,Wake Forest,W,1,27,5,11,.455,3,7,.429,2,4,.500,4,4,1.000,2,7,9,1,2,0,3,1,16,13.1
+90045,John Flowers\john-flowers-1,F,2010-11-12,West Virginia,,Oakland,W,1,30,4,9,.444,2,3,.667,2,6,.333,6,9,.667,1,4,5,3,1,7,2,3,16,16.8
+90046,Will Hudson\will-hudson-1,F,2010-11-12,Oakland,@,West Virginia,L,1,34,5,8,.625,5,8,.625,0,0,,6,7,.857,6,3,9,1,1,0,1,3,16,16.6
+90047,Ovie Soko\ovie-soko-1,F,2010-11-13,Alabama-Birmingham,,Southeast Missouri State,W,1,34,5,11,.455,4,7,.571,1,4,.250,5,8,.625,2,5,7,2,1,1,0,3,16,13.9
+90048,Robert Arnold\robert-arnold-1,F,2010-11-13,Boise State,,Western State,W,1,32,4,9,.444,4,7,.571,0,2,.000,8,9,.889,2,0,2,3,1,0,3,2,16,11.6
+90049,Byron Mulkey\byron-mulkey-1,G,2010-11-13,Buffalo,,Navy,W,1,32,6,11,.545,2,4,.500,4,7,.571,0,0,,0,7,7,10,7,0,4,2,16,22.0
+90050,Trevon Harmon\trevon-harmon-1,G,2010-11-13,Cleveland State,,Iona,W,1,39,5,12,.417,3,7,.429,2,5,.400,4,4,1.000,3,7,10,1,1,0,3,1,16,12.1
+90051,Stefon Johnson\stefon-johnson-1,F,2010-11-13,Gardner-Webb,,Mary Washington,W,1,28,6,10,.600,6,10,.600,0,0,,4,11,.364,4,5,9,2,4,3,3,2,16,16.6
+90052,Rahmon Fletcher\rahmon-fletcher-1,G,2010-11-13,Green Bay,,Minnesota-Duluth,W,1,24,6,9,.667,5,7,.714,1,2,.500,3,4,.750,1,3,4,3,1,0,1,1,16,15.0
+90053,Shemik Thompson\shemik-thompson-1,G,2010-11-13,Central Connecticut State,,Hartford,W,1,28,5,7,.714,2,2,1.000,3,5,.600,3,6,.500,1,5,6,2,3,0,3,3,16,14.3
+90054,Shemiye McLendon\shemiye-mclendon-1,G,2010-11-13,Hofstra,,Farmingdale State,W,0,23,6,10,.600,2,3,.667,4,7,.571,0,0,,1,3,4,2,0,0,1,1,16,13.0
+90055,Mike Cavataio\mike-cavataio-1,G,2010-11-13,Holy Cross,,College of Charleston,L,1,23,7,10,.700,5,8,.625,2,2,1.000,0,1,.000,4,3,7,0,1,0,2,5,16,12.1
+90056,R.J. Evans\rj-evans-1,G,2010-11-13,Holy Cross,,College of Charleston,L,1,29,7,14,.500,7,12,.583,0,2,.000,2,4,.500,1,1,2,5,3,0,2,2,16,12.9
+90057,D.J. Richardson\dj-richardson-1,G,2010-11-13,Illinois,,Southern Illinois,W,1,29,6,9,.667,2,4,.500,4,5,.800,0,0,,0,1,1,3,1,0,2,3,16,12.3
+90058,Tone Boyle\tone-boyle-1,G,2010-11-13,Milwaukee,,Florida Atlantic,L,1,26,5,13,.385,1,5,.200,4,8,.500,2,4,.500,2,3,5,1,0,0,1,2,16,9.3
+90059,Malik Story\malik-story-1,G,2010-11-13,Nevada,,Montana,W,1,28,5,11,.455,1,4,.250,4,7,.571,2,2,1.000,0,3,3,3,2,0,1,0,16,14.3
+90060,Jean-Paul Olukemi\jean-paul-olukemi-1,G,2010-11-13,Oklahoma State,,Houston Baptist,W,0,19,6,9,.667,6,8,.750,0,1,.000,4,9,.444,4,3,7,1,2,0,1,2,16,14.7
+90061,Zack Rosen\zack-rosen-1,G,2010-11-13,Pennsylvania,,Davidson,W,1,23,5,9,.556,3,5,.600,2,4,.500,4,6,.667,1,4,5,2,1,0,4,3,16,10.0
+90062,Garland Judkins\garland-judkins-1,G,2010-11-13,Texas A&M-Corpus Christi,,Northeastern State,W,1,20,5,7,.714,4,4,1.000,1,3,.333,5,5,1.000,0,1,1,0,1,0,3,4,16,9.8
+90063,DeAngelo Casto\deangelo-casto-1,F,2010-11-13,Washington State,,Southern,W,0,16,4,5,.800,4,5,.800,0,0,,8,11,.727,1,4,5,0,0,1,3,4,16,10.9
+90064,Quinton Doggett\quinton-doggett-1,F,2010-11-13,Southern,@,Washington State,L,1,25,8,17,.471,8,16,.500,0,1,.000,0,2,.000,3,8,11,0,1,1,3,3,16,8.5
+90065,Deontay Twyman\deontay-twyman-1,G,2010-11-13,Quinnipiac,,Yale,W,1,27,5,13,.385,3,7,.429,2,6,.333,4,5,.800,0,0,0,2,2,0,2,3,16,8.7
+90066,James Johnson\james-johnson-1,G,2010-11-13,Quinnipiac,,Yale,W,1,33,5,10,.500,3,4,.750,2,6,.333,4,4,1.000,0,6,6,5,0,0,1,3,16,14.1
+90067,Deividas Busma\deividas-busma-1,C,2010-11-14,Idaho State,@,Arizona,L,1,28,8,14,.571,8,14,.571,0,0,,0,2,.000,5,3,8,0,0,0,1,4,16,10.4
+90068,Derrick Williams\derrick-williams-2,F,2010-11-14,Arizona,,Idaho State,W,1,20,6,7,.857,6,7,.857,0,0,,4,5,.800,1,4,5,0,1,1,0,1,16,16.3
+90069,Lonnie Boga\lonnie-boga-1,G,2010-11-14,Milwaukee,,UC-Davis,W,1,24,7,12,.583,6,10,.600,1,2,.500,1,3,.333,3,10,13,2,1,0,1,2,16,15.3
+90070,Dan Mavraides\dan-mavraides-1,G,2010-11-14,Princeton,@,Duke,L,1,33,6,8,.750,2,3,.667,4,5,.800,0,0,,0,1,1,0,0,0,5,1,16,7.7
+90071,Kyle Singler\kyle-singler-1,F,2010-11-14,Duke,,Princeton,W,1,26,7,10,.700,5,7,.714,2,3,.667,0,0,,2,2,4,2,2,2,0,4,16,17.0
+90072,Alex Young\alex-young-1,G,2010-11-14,IUPUI,@,Gonzaga,L,1,32,5,12,.417,5,8,.625,0,4,.000,6,7,.857,1,3,4,0,1,0,4,4,16,6.2
+90073,Dwayne Lathan\dwayne-lathan-1,G,2010-11-14,Indiana State,,Eastern Kentucky,L,0,34,6,14,.429,5,10,.500,1,4,.250,3,4,.750,3,3,6,1,1,0,2,4,16,9.3
+90074,Scott Machado\scott-machado-1,G,2010-11-14,Iona,,Bryant,L,1,39,7,15,.467,5,9,.556,2,6,.333,0,0,,3,4,7,6,3,0,5,2,16,13.0
+90075,Clint Sargent\clint-sargent-1,G,2010-11-14,South Dakota State,@,Iowa,W,1,36,7,17,.412,5,9,.556,2,8,.250,0,0,,0,2,2,1,2,0,1,0,16,9.2
+90076,Laurence Jolicoeur\laurence-jolicoeur-1,F,2010-11-14,Maryland-Baltimore County,,Virginia Military Institute,L,1,32,5,13,.385,4,8,.500,1,5,.200,5,7,.714,0,10,10,1,0,0,2,3,16,8.6
+90077,Cliff Tucker\cliff-tucker-1,G,2010-11-14,Maryland,,Maine,W,1,25,6,10,.600,2,4,.500,4,6,.667,0,0,,0,4,4,2,4,0,4,0,16,14.0
+90078,Troy Barnies\troy-barnies-1,F,2010-11-14,Maine,@,Maryland,L,1,33,4,11,.364,3,9,.333,1,2,.500,7,12,.583,3,8,11,2,1,0,2,1,16,12.4
+90079,David Williams\david-williams-1,F,2010-11-14,North Carolina-Greensboro,,Florida State,L,1,26,7,13,.538,6,11,.545,1,2,.500,1,2,.500,4,1,5,1,1,0,3,4,16,9.5
+90080,Michael Snaer\michael-snaer-1,G,2010-11-14,Florida State,@,North Carolina-Greensboro,W,1,25,7,9,.778,5,6,.833,2,3,.667,0,0,,2,1,3,1,1,1,2,2,16,13.8
+90081,Okaro White\okaro-white-1,F,2010-11-14,Florida State,@,North Carolina-Greensboro,W,0,21,6,10,.600,6,9,.667,0,1,.000,4,4,1.000,4,0,4,0,1,0,1,1,16,13.8
+90082,Tyrone Nash\tyrone-nash-1,G,2010-11-14,Notre Dame,,Liberty,W,1,28,2,4,.500,2,4,.500,0,0,,12,15,.800,4,5,9,1,0,0,1,0,16,16.8
+90083,Kramer Knutson\kramer-knutson-1,F,2010-11-14,Portland,,Florida Atlantic,W,1,34,6,7,.857,6,7,.857,0,0,,4,6,.667,1,6,7,1,0,1,2,1,16,14.2
+90084,E'Twaun Moore\etwaun-moore-1,G,2010-11-14,Purdue,,Howard,W,1,26,5,11,.455,3,6,.500,2,5,.400,4,7,.571,2,4,6,3,0,0,0,0,16,13.8
+90085,Alpha N'Diaye\alpha-ndiaye-1,C,2010-11-14,Sacramento State,,Cal State Bakersfield,L,1,32,6,9,.667,6,9,.667,0,0,,4,8,.500,2,6,8,0,2,0,0,5,16,13.7
+90086,Will Donahue\will-donahue-1,C,2010-11-14,Cal Poly,@,Seattle,W,1,30,6,7,.857,6,7,.857,0,0,,4,8,.500,4,6,10,0,0,0,3,2,16,12.7
+90087,Jeff Robinson\jeff-robinson-2,F,2010-11-14,Seton Hall,,Cornell,W,1,22,5,8,.625,3,6,.500,2,2,1.000,4,4,1.000,3,7,10,1,0,0,1,2,16,15.5
+90088,Brandon Triche\brandon-triche-1,G,2010-11-14,Syracuse,,Canisius,W,1,29,6,13,.462,2,5,.400,4,8,.500,0,0,,2,1,3,3,1,0,1,1,16,12.7
+90089,Elton Frazier\elton-frazier-1,F,2010-11-14,Canisius,@,Syracuse,L,1,30,6,12,.500,6,11,.545,0,1,.000,4,6,.667,5,7,12,1,1,2,1,2,16,16.1
+90090,Senario Hillman\senario-hillman-1,G,2010-11-15,Alabama,,Troy,W,1,21,6,13,.462,5,9,.556,1,4,.250,3,3,1.000,2,3,5,0,2,0,1,2,16,11.8
+90091,Robby Ptacek\robby-ptacek-1,G,2010-11-15,Central Connecticut State,@,Army,W,1,36,4,15,.267,2,8,.250,2,7,.286,6,6,1.000,2,8,10,4,2,0,3,2,16,11.9
+90092,Casper Ware\casper-ware-1,G,2010-11-15,Long Beach State,,San Francisco State,W,1,28,7,11,.636,5,8,.625,2,3,.667,0,0,,1,3,4,6,6,1,0,1,16,23.2
+90093,Travis Bureau\travis-bureau-1,G,2010-11-15,Louisiana-Lafayette,,Louisiana College,W,1,33,7,12,.583,6,9,.667,1,3,.333,1,1,1.000,3,11,14,1,4,3,5,1,16,17.2
+90094,Johnny Thomas\johnny-thomas-1,F,2010-11-15,Marshall,,Glenville State,W,0,25,8,10,.800,8,9,.889,0,1,.000,0,0,,0,3,3,1,1,2,0,2,16,15.4
+90095,Blake Hoffarber\blake-hoffarber-1,G,2010-11-15,Minnesota,,Siena,W,1,36,4,13,.308,0,2,.000,4,11,.364,4,4,1.000,1,5,6,7,3,0,2,2,16,15.8
+90096,C.J. Wilkerson\cj-wilkerson-1,G,2010-11-15,North Carolina Central,@,Oklahoma,L,1,45,5,15,.333,4,11,.364,1,4,.250,5,10,.500,1,1,2,2,2,0,5,3,16,3.7
+90097,Austin Morgan\austin-morgan-1,G,2010-11-15,Yale,@,Providence,L,1,32,5,12,.417,2,6,.333,3,6,.500,3,5,.600,0,1,1,2,1,0,3,5,16,6.5
+90098,Marcus Kitts\marcus-kitts-1,F,2010-11-15,William & Mary,@,Richmond,L,1,25,7,16,.438,7,16,.438,0,0,,2,7,.286,6,7,13,0,1,0,3,2,16,9.1
+90099,Will Felder\will-felder-1,F,2010-11-15,Saint Francis (PA),,Colgate,W,1,32,6,13,.462,6,10,.600,0,3,.000,4,4,1.000,3,6,9,0,0,3,0,1,16,14.9
+90100,Rob Loe\rob-loe-1,F,2010-11-15,Saint Louis,,Rockhurst,W,1,21,6,9,.667,4,6,.667,2,3,.667,2,2,1.000,5,4,9,1,1,0,2,2,16,15.7
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=90000&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/14/2017.

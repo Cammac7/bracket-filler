@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+450801,Phillip Lawrence-Ricks\phillip-lawrence-1,F,2013-12-20,Marist,,Bucknell,W,0,19,2,4,.500,2,3,.667,0,1,.000,0,0,,1,1,2,0,0,1,0,1,4,3.3
+450802,Brian Fitzpatrick\brian-fitzpatrick-1,F,2013-12-20,Bucknell,@,Marist,L,1,24,2,5,.400,2,5,.400,0,0,,0,0,,1,1,2,0,1,0,2,1,4,0.9
+450803,Russell Wilson\russell-wilson-2,G,2013-12-20,Samford,@,Jacksonville,W,0,32,1,3,.333,1,3,.333,0,0,,2,4,.500,3,2,5,5,1,0,2,1,4,6.3
+450804,Liam Thomas\liam-thomas-1,F,2013-12-20,Nicholls State,@,Indiana,L,1,14,2,7,.286,2,5,.400,0,2,.000,0,0,,1,2,3,2,1,4,2,4,4,2.8
+450805,Jeremy Smith\jeremy-smith-2,G,2013-12-20,Nicholls State,@,Indiana,L,1,35,2,8,.250,2,7,.286,0,1,.000,0,0,,0,2,2,4,0,0,3,3,4,-1.6
+450806,Scotty Tyler\scotty-tyler-1,F,2013-12-20,Idaho State,,Idaho,L,0,23,1,3,.333,1,3,.333,0,0,,2,2,1.000,2,5,7,1,2,0,0,3,4,6.7
+450807,Jeffrey Solarin\jeffrey-solarin-1,F,2013-12-20,Idaho State,,Idaho,L,1,25,2,5,.400,2,5,.400,0,0,,0,0,,4,2,6,1,1,0,2,4,4,2.8
+450808,Markus Crider\markus-crider-1,F,2013-12-20,Georgia State,,Georgia Southern,W,0,25,2,4,.500,2,4,.500,0,0,,0,0,,1,3,4,1,2,2,1,1,4,6.3
+450809,Marvin Baynham\marvin-baynham-1,F,2013-12-20,Georgia Southern,@,Georgia State,L,1,32,2,2,1.000,2,2,1.000,0,0,,0,2,.000,2,4,6,0,0,0,1,4,4,2.6
+450810,Taariq Cephas\taariq-cephas-1,G,2013-12-20,Coppin State,,Southern Mississippi,L,1,21,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,0,1,1,4,0,0,3,1,4,2.7
+450811,Brandon St. Louis\brandon-st-louis-1,F,2013-12-20,Coppin State,,Southern Mississippi,L,1,22,1,3,.333,1,3,.333,0,0,,2,2,1.000,2,5,7,0,0,0,0,3,4,4.0
+450812,Arnold Fripp\arnold-fripp-1,F,2013-12-20,Coppin State,,Southern Mississippi,L,1,6,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,1,0,1,0,1,0,1,3,4,2.5
+450813,Undra Mitchem\undra-mitchem-1,G,2013-12-20,Jacksonville State,,Arkansas-Little Rock,L,1,17,2,4,.500,2,3,.667,0,1,.000,0,0,,0,1,1,0,1,0,0,2,4,2.5
+450814,D.J. Felder\dj-felder-1,F,2013-12-20,Jacksonville State,,Arkansas-Little Rock,L,0,8,2,4,.500,2,4,.500,0,0,,0,1,.000,0,3,3,1,0,0,0,3,4,2.0
+450815,DeVonte Smith\devonte-smith-1,G,2013-12-20,Arkansas-Little Rock,,Jacksonville State,W,1,27,2,2,1.000,2,2,1.000,0,0,,0,0,,0,2,2,4,1,0,3,4,4,3.2
+450816,Matt Townsend\matt-townsend-1,F,2013-12-20,Yale,@,Albany (NY),L,0,19,2,3,.667,2,3,.667,0,0,,0,0,,5,1,6,0,0,0,0,2,4,5.7
+450817,Marcel Davis\marcel-davis-1,G,2013-12-19,Utah State,,Western Illinois,W,1,24,1,3,.333,1,3,.333,0,0,,2,2,1.000,0,3,3,5,0,0,1,0,4,5.7
+450818,Mohamed Conde\mohamed-conde-1,F,2013-12-19,Western Illinois,@,Utah State,L,0,31,2,4,.500,2,4,.500,0,0,,0,0,,1,0,1,1,3,1,0,4,4,5.5
+450819,Jordan Stone\jordan-stone-1,C,2013-12-19,Utah State,,Western Illinois,W,1,17,2,2,1.000,2,2,1.000,0,0,,0,0,,1,3,4,0,1,2,3,2,4,3.6
+450820,Ben Clifford\ben-clifford-1,F,2013-12-19,Utah State,,Western Illinois,W,0,14,0,2,.000,0,2,.000,0,0,,4,4,1.000,0,0,0,1,0,2,3,3,4,0.5
+450821,Kendell Ramlal\kendall-ramlal-1,F,2013-12-19,Texas State,@,Utah,L,0,14,1,2,.500,1,2,.500,0,0,,2,2,1.000,2,0,2,0,0,0,0,1,4,4.0
+450822,Dallin Bachynski\dallin-bachynski-1,C,2013-12-19,Utah,,Texas State,W,0,15,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,3,2,5,0,1,1,0,4,4,6.5
+450823,Ahmad Fields\ahmad-fields-1,G,2013-12-19,Utah,,Texas State,W,0,7,1,3,.333,1,2,.500,0,1,.000,2,2,1.000,0,2,2,0,0,1,1,2,4,1.8
+450824,C.J. Cooper\cj-cooper-1,G,2013-12-19,Texas-El Paso,,Northwestern State,W,1,26,2,4,.500,2,3,.667,0,1,.000,0,0,,0,0,0,2,3,0,0,1,4,6.0
+450825,Clyde Smith\clyde-smith-1,G,2013-12-19,Texas Christian,,Grambling,W,0,6,1,2,.500,0,1,.000,1,1,1.000,1,2,.500,0,0,0,1,0,0,1,2,4,1.5
+450826,Charles Hill\charles-hill-1,G,2013-12-19,Texas Christian,,Grambling,W,0,9,1,5,.200,1,4,.250,0,1,.000,2,2,1.000,1,1,2,0,0,0,1,3,4,-0.3
+450827,Chandler Thomas\chandler-thomas-1,F,2013-12-19,Grambling,@,Texas Christian,L,1,24,2,6,.333,2,5,.400,0,1,.000,0,1,.000,1,4,5,0,1,0,0,3,4,1.9
+450828,Dwan Caldwell\dwan-caldwell-1,C,2013-12-19,Tennessee Tech,,Hillsdale Baptist/Randall (Ok.),W,1,19,2,5,.400,2,4,.500,0,1,.000,0,2,.000,0,3,3,0,1,1,0,0,4,3.1
+450829,Wayne Martin\wayne-martin-3,F,2013-12-19,St. Francis (NY),,Lafayette,W,0,11,1,5,.200,1,5,.200,0,0,,2,5,.400,3,1,4,0,0,1,0,1,4,2.4
+450830,Michael Hoffman\michael-hoffman-1,F,2013-12-19,Lafayette,@,St. Francis (NY),L,1,13,2,3,.667,2,3,.667,0,0,,0,0,,1,0,1,0,0,0,4,4,4,-2.2
+450831,Amdy Fall\amdy-fall-1,F,2013-12-19,St. Francis (NY),,Lafayette,W,0,22,1,2,.500,1,2,.500,0,0,,2,6,.333,0,4,4,1,0,1,2,3,4,0.8
+450832,Walter Davis\walter-davis-3,G,2013-12-19,Florida A&M,@,South Florida,L,1,20,2,2,1.000,2,2,1.000,0,0,,0,0,,2,3,5,3,1,1,1,2,4,7.7
+450833,Demetrius Henry\demetrius-henry-1,F,2013-12-19,South Carolina,,South Carolina Upstate,L,1,16,2,7,.286,2,7,.286,0,0,,0,2,.000,4,3,7,0,1,1,0,5,4,2.5
+450834,Jodd Maxey\jodd-maxey-1,F,2013-12-19,South Carolina Upstate,@,South Carolina,W,1,22,1,4,.250,1,4,.250,0,0,,2,4,.500,1,6,7,1,1,0,4,1,4,0.6
+450835,Tonye Jekiri\tonye-jekiri-1,C,2013-12-19,Miami (FL),@,Savannah State,W,0,14,2,2,1.000,2,2,1.000,0,0,,0,0,,0,1,1,1,1,1,3,2,4,2.3
+450836,Matt Hodgson\matt-hodgson-1,C,2013-12-19,Saint Mary's (CA),,American,W,0,8,2,2,1.000,2,2,1.000,0,0,,0,1,.000,0,0,0,0,0,1,2,2,4,0.9
+450837,Jack Crook\jack-crook-1,C,2013-12-19,Seattle,,Norfolk State,W,1,15,2,3,.667,2,3,.667,0,0,,0,0,,1,0,1,0,0,0,1,1,4,2.0
+450838,D'Vonne Pickett\dvonne-pickett-1,G,2013-12-19,Seattle,,Norfolk State,W,0,15,2,2,1.000,2,2,1.000,0,0,,0,0,,1,0,1,3,1,0,2,2,4,4.4
+450839,Tyler Flack\tyler-flack-1,F,2013-12-19,South Dakota,@,Morehead State,L,1,17,2,4,.500,2,4,.500,0,0,,0,0,,0,3,3,0,0,1,2,2,4,0.8
+450840,Marcus Colbert\marcus-colbert-1,G,2013-12-19,Montana State,,Southwestern Christian,W,1,16,1,6,.167,0,2,.000,1,4,.250,1,2,.500,0,3,3,5,0,0,2,1,4,1.8
+450841,Nate Hicks\nate-hicks-1,F,2013-12-19,Florida Gulf Coast,@,Mississippi State,L,1,18,2,2,1.000,2,2,1.000,0,0,,0,0,,0,4,4,0,0,1,2,5,4,1.3
+450842,Tyler Hubbard\tyler-hubbard-1,G,2013-12-19,Loyola (MD),,Stony Brook,L,0,19,1,4,.250,0,0,,1,4,.250,1,2,.500,0,2,2,1,0,0,1,4,4,-0.1
+450843,Eric McAlister\eric-mcalister-1,F,2013-12-19,Stony Brook,@,Loyola (MD),W,1,15,1,4,.250,1,4,.250,0,0,,2,2,1.000,2,1,3,1,0,0,0,3,4,2.8
+450844,Anthony Mayo\anthony-mayo-1,F,2013-12-19,Stony Brook,@,Loyola (MD),W,0,8,1,1,1.000,1,1,1.000,0,0,,2,2,1.000,0,2,2,0,0,0,0,2,4,3.5
+450845,Christian Griggs-Williams\christian-griggs-williams-1,F,2013-12-19,Long Beach State,,Southern California,W,0,9,2,3,.667,2,3,.667,0,0,,0,0,,0,1,1,0,0,0,1,0,4,2.0
+450846,A.J. Spencer\aj-spencer-2,G,2013-12-19,Long Beach State,,Southern California,W,1,29,2,7,.286,2,4,.500,0,3,.000,0,0,,0,2,2,3,2,0,2,2,4,1.8
+450847,Rohan Brown\rohan-brown-1,G,2013-12-19,La Salle,,Wagner,W,0,16,2,3,.667,2,3,.667,0,0,,0,2,.000,1,1,2,1,0,1,0,1,4,3.9
+450848,Treshawn Bolden\treshawn-bolden-1,F,2013-12-19,Jackson State,,Louisiana-Lafayette,W,1,16,2,5,.400,2,5,.400,0,0,,0,1,.000,1,2,3,0,0,0,2,0,4,0.2
+450849,Jaleel Queary\jaleel-queary-1,G,2013-12-19,Tennessee State,@,Illinois State,L,1,17,2,4,.500,2,4,.500,0,0,,0,0,,0,2,2,1,0,0,1,4,4,0.7
+450850,Tony Sabato\tony-sabato-1,C,2013-12-19,Elon,,Central Pennsylvania College,W,0,8,2,3,.667,2,3,.667,0,0,,0,0,,2,2,4,0,0,0,1,2,4,2.9
+450851,Jack Isenbarger\jack-isenbarger-1,G,2013-12-19,Elon,,Central Pennsylvania College,W,0,15,2,6,.333,2,3,.667,0,3,.000,0,0,,0,2,2,2,1,0,3,0,4,0.6
+450852,Brian Dawkins\brian-dawkins-1,F,2013-12-19,Elon,,Central Pennsylvania College,W,0,9,2,6,.333,2,6,.333,0,0,,0,1,.000,5,3,8,0,1,0,1,0,4,4.6
+450853,Josh Hairston\josh-hairston-1,F,2013-12-19,Duke,,UCLA,W,1,17,2,2,1.000,2,2,1.000,0,0,,0,1,.000,2,1,3,1,0,0,1,2,4,3.6
+450854,Tavon Sledge\tavon-sledge-1,G,2013-12-19,Iona,@,Dayton,L,0,14,2,3,.667,2,3,.667,0,0,,0,1,.000,0,1,1,2,1,0,0,0,4,5.0
+450855,Devon Scott\devon-scott-1,F,2013-12-19,Dayton,,Iona,W,0,15,1,1,1.000,1,1,1.000,0,0,,2,4,.500,2,0,2,1,1,1,2,3,4,3.5
+450856,Devin Oliver\devin-oliver-1,F,2013-12-19,Dayton,,Iona,W,1,29,2,3,.667,2,2,1.000,0,1,.000,0,0,,2,6,8,3,0,0,3,1,4,4.6
+450857,Alex Gavrilovic\alex-gavrilovic-1,C,2013-12-19,Dayton,,Iona,W,0,8,2,4,.500,2,3,.667,0,1,.000,0,0,,0,3,3,1,0,0,0,2,4,2.8
+450858,Westley Hinton\westley-hinton-1,F,2013-12-19,Troy,,UC-Santa Barbara,L,1,26,2,6,.333,2,4,.500,0,2,.000,0,0,,0,2,2,1,1,3,0,2,4,4.2
+450859,Sam Beeler\sam-beeler-1,F,2013-12-19,UC-Santa Barbara,,Troy,W,0,10,2,4,.500,2,4,.500,0,0,,0,0,,2,0,2,0,0,1,0,2,4,3.3
+450860,Eric Childress\eric-childress-1,G,2013-12-19,UC-Santa Barbara,,Troy,W,0,20,2,4,.500,2,3,.667,0,1,.000,0,0,,1,2,3,2,1,0,1,3,4,3.5
+450861,Sidy Djitte\sidy-djitte-1,C,2013-12-19,Clemson,@,Auburn,L,0,8,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,0,3,4,3.2
+450862,Asauhn Dixon-Tatum\asauhn-dixon-tatum-1,C,2013-12-19,Auburn,,Clemson,W,1,25,2,3,.667,2,3,.667,0,0,,0,1,.000,4,1,5,0,0,2,3,4,4,2.2
+450863,Jacorey Williams\jacorey-williams-1,F,2013-12-19,Arkansas,,Tennessee-Martin,W,0,8,2,4,.500,2,4,.500,0,0,,0,0,,0,2,2,0,0,1,1,1,4,1.9
+450864,Marshun Newell\marshun-newell-1,G,2013-12-19,Tennessee-Martin,@,Arkansas,L,1,22,0,10,.000,0,7,.000,0,3,.000,4,6,.667,0,0,0,3,1,0,1,0,4,-1.7
+450865,Dee Oldham\dee-oldham-1,G,2013-12-19,Tennessee-Martin,@,Arkansas,L,0,22,1,6,.167,0,3,.000,1,3,.333,1,2,.500,1,2,3,0,0,0,1,0,4,0.1
+450866,Alandise Harris\alandise-harris-1,F,2013-12-19,Arkansas,,Tennessee-Martin,W,0,17,2,5,.400,2,5,.400,0,0,,0,0,,0,5,5,3,0,0,1,2,4,3.1
+450867,Javan Mitchell\javan-mitchell-2,C,2013-12-19,Southern,@,Arizona,L,1,30,2,7,.286,2,7,.286,0,0,,0,0,,2,4,6,0,0,0,2,3,4,-0.7
+450868,Payton Hulsey\payton-hulsey-1,G,2013-12-18,Western Kentucky,,Southern Mississippi,W,0,19,0,0,,0,0,,0,0,,4,4,1.000,0,2,2,5,2,2,0,1,4,11.1
+450869,Daveon Boardingham\daveon-boardingham-1,F,2013-12-18,Southern Mississippi,@,Western Kentucky,L,1,13,2,3,.667,2,3,.667,0,0,,0,0,,1,1,2,0,1,0,1,3,4,2.5
+450870,Paul Gombwer\paul-gombwer-1,F,2013-12-18,Charleston Southern,@,Western Carolina,L,1,20,2,3,.667,2,2,1.000,0,1,.000,0,0,,1,1,2,0,0,1,2,2,4,1.6
+450871,Justin Browning\justin-browning-1,F,2013-12-18,Western Carolina,,Charleston Southern,W,0,17,2,3,.667,2,3,.667,0,0,,0,0,,1,1,2,1,2,1,1,2,4,5.3
+450872,D'Andre Wright\dandre-wright-1,F,2013-12-18,Tulsa,,Grand Canyon,W,0,11,1,4,.250,1,4,.250,0,0,,2,2,1.000,1,0,1,0,0,0,2,3,4,-0.9
+450873,Justin Foreman\justin-foreman-1,G,2013-12-18,Grand Canyon,@,Tulsa,L,0,19,0,1,.000,0,1,.000,0,0,,4,6,.667,0,3,3,1,0,0,0,2,4,3.3
+450874,Jordan Tolbert\jordan-tolbert-1,F,2013-12-18,Texas Tech,,Louisiana State,L,1,33,1,4,.250,1,4,.250,0,0,,2,4,.500,1,5,6,0,2,1,3,2,4,1.9
+450875,John Odo\john-odo-1,F,2013-12-18,Louisiana State,@,Texas Tech,W,0,21,2,2,1.000,2,2,1.000,0,0,,0,0,,0,6,6,0,0,0,1,3,4,3.0
+450876,Tyler Wood\tyler-wood-1,F,2013-12-18,Texas-San Antonio,,Cal State Bakersfield,L,0,19,1,5,.200,0,2,.000,1,3,.333,1,2,.500,1,2,3,0,1,0,0,0,4,2.8
+450877,Brandon Barnes\brandon-barnes-1,G,2013-12-18,Cal State Bakersfield,@,Texas-San Antonio,W,1,24,1,4,.250,1,4,.250,0,0,,2,2,1.000,0,4,4,4,1,0,1,3,4,4.4
+450878,Robert Hubbs\robert-hubbs-1,G,2013-12-18,Tennessee,,North Carolina State,L,0,20,2,7,.286,2,3,.667,0,4,.000,0,0,,0,0,0,0,1,2,1,2,4,0.5
+450879,Cole Dickerson\cole-dickerson-1,F,2013-12-18,San Francisco,@,St. John's (NY),L,1,15,2,4,.500,2,3,.667,0,1,.000,0,0,,1,1,2,0,0,0,1,5,4,0.0
+450880,Shawn Williams\shawn-williams-2,F,2013-12-18,Southern Methodist,,Texas-Rio Grande Valley,W,1,18,2,3,.667,2,3,.667,0,0,,0,0,,2,3,5,1,0,0,0,1,4,5.3
+450881,Yannick Atanga\yannick-atanga-1,F,2013-12-18,Santa Clara,,Sacred Heart,W,0,12,2,3,.667,2,3,.667,0,0,,0,0,,2,3,5,0,1,1,0,4,4,5.1
+450882,Jalen Richard\jalen-richard-1,G,2013-12-18,Santa Clara,,Sacred Heart,W,0,16,1,2,.500,1,1,1.000,0,1,.000,2,2,1.000,1,3,4,0,1,0,1,3,4,3.4
+450883,Clint Bozner\clint-bozner-1,F,2013-12-18,UC-Davis,@,San Jose State,L,0,8,2,3,.667,2,3,.667,0,0,,0,2,.000,1,0,1,0,1,0,1,2,4,1.8
+450884,Jordan Railey\jordan-railey-1,C,2013-12-18,Washington State,,San Francisco State,W,1,21,2,3,.667,2,3,.667,0,0,,0,1,.000,1,4,5,2,1,1,3,2,4,3.5
+450885,Skylar Spencer\skylar-spencer-1,F,2013-12-18,San Diego State,,Southern Utah,W,1,21,2,4,.500,2,4,.500,0,0,,0,1,.000,0,2,2,0,0,2,1,2,4,1.8
+450886,Juwan Major\juwan-major-1,G,2013-12-18,Southern Utah,@,San Diego State,L,0,15,2,4,.500,2,4,.500,0,0,,0,0,,0,5,5,0,0,0,3,1,4,0.1
+450887,Jaren Jeffery\jaren-jeffery-1,F,2013-12-18,Southern Utah,@,San Diego State,L,1,21,2,3,.667,2,3,.667,0,0,,0,0,,0,3,3,0,2,0,0,3,4,4.4
+450888,James Johnson\james-johnson-5,F,2013-12-18,San Diego State,,Southern Utah,W,0,20,1,3,.333,1,3,.333,0,0,,2,4,.500,2,3,5,1,1,0,0,3,4,4.3
+450889,Dawon Cummings\dawon-cummings-1,G,2013-12-18,Indiana State,@,Saint Louis,L,1,22,1,4,.250,1,3,.333,0,1,.000,2,2,1.000,0,0,0,1,0,0,2,1,4,-0.1
+450890,Kazembe Abif\kazembe-abif-1,F,2013-12-18,Drexel,@,Saint Joseph's,L,1,11,2,2,1.000,2,2,1.000,0,0,,0,0,,1,1,2,0,0,0,0,5,4,2.4
+450891,Marvelle Harris\marvelle-harris-1,F,2013-12-18,Campbell,@,Robert Morris,L,0,9,0,3,.000,0,3,.000,0,0,,4,6,.667,0,1,1,0,1,0,0,2,4,1.6
+450892,Kyre' Hamer\kyre-hamer-1,G,2013-12-18,Campbell,@,Robert Morris,L,0,21,1,3,.333,1,2,.500,0,1,.000,2,2,1.000,0,0,0,2,1,0,3,2,4,0.9
+450893,Roberto Nelson\roberto-nelson-1,G,2013-12-18,Oregon State,,Towson,W,1,8,2,3,.667,2,2,1.000,0,1,.000,0,0,,0,0,0,1,0,0,0,2,4,2.6
+450894,Malcolm Duvivier\malcolm-duvivier-1,G,2013-12-18,Oregon State,,Towson,W,0,16,2,5,.400,2,4,.500,0,1,.000,0,0,,0,0,0,0,0,0,0,1,4,0.9
+450895,Marvin King-Davis\marvin-king-davis-1,F,2013-12-18,Delaware,@,Ohio State,L,1,25,2,4,.500,2,4,.500,0,0,,0,2,.000,1,1,2,0,0,0,1,2,4,0.4
+450896,Treg Setty\treg-setty-1,F,2013-12-18,Ohio,,Massachusetts,L,0,7,1,2,.500,1,2,.500,0,0,,2,3,.667,1,0,1,0,1,0,0,1,4,3.9
+450897,Dwight Meikle\dwight-meikle-1,G,2013-12-18,Hampton,@,Northern Kentucky,L,0,12,2,5,.400,2,5,.400,0,0,,0,0,,2,1,3,0,0,0,0,2,4,2.2
+450898,Jarad Scott\jarad-scott-1,F,2013-12-18,Winthrop,@,North Carolina Central,L,0,7,2,2,1.000,2,2,1.000,0,0,,0,0,,0,0,0,0,0,0,1,2,4,1.6
+450899,Jay Copeland\jay-copeland-1,F,2013-12-18,North Carolina Central,,Winthrop,W,1,10,1,6,.167,1,6,.167,0,0,,2,3,.667,3,1,4,0,0,2,2,3,4,0.4
+450900,Andrey Semenov\andrey-semenov-1,F,2013-12-18,James Madison,@,North Carolina-Greensboro,L,1,18,1,8,.125,1,3,.333,0,5,.000,2,2,1.000,0,3,3,0,0,0,0,0,4,-0.3
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=450800&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

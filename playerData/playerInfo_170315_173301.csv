@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+559901,Drake LaMont\drake-lamont-1,C,2015-02-10,Western Michigan,@,Bowling Green State,L,1,18,1,3,.333,1,3,.333,0,0,,0,0,,2,3,5,0,0,2,0,0,2,4.0
+559902,David Joseph\david-joseph-1,G,2015-02-10,Bowling Green State,,Western Michigan,W,1,21,1,5,.200,1,4,.250,0,1,.000,0,0,,1,4,5,5,2,0,2,1,2,3.9
+559903,Richard Peters\richard-peters-1,C,2015-02-10,Albany (NY),@,Binghamton,W,1,21,1,1,1.000,1,1,1.000,0,0,,0,0,,2,2,4,0,0,0,2,1,2,1.3
+559904,Reece Williams\reece-williams-1,G,2015-02-10,Albany (NY),@,Binghamton,W,0,1,0,0,,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,2,2.0
+559905,Mike Rowley\michael-rowley-1,F,2015-02-10,Albany (NY),@,Binghamton,W,0,10,1,2,.500,1,2,.500,0,0,,0,0,,2,1,3,1,0,0,0,5,2,1.4
+559906,Moses Kingsley\moses-kingsley-1,C,2015-02-10,Arkansas,@,Auburn,W,0,8,1,1,1.000,1,1,1.000,0,0,,0,0,,2,1,3,0,0,2,1,3,2,2.6
+559907,Manuale Watkins\manuale-watkins-1,G,2015-02-10,Arkansas,@,Auburn,W,0,24,1,1,1.000,1,1,1.000,0,0,,0,0,,0,1,1,2,1,0,2,1,2,2.0
+559908,Keaton Miles\keaton-miles-1,F,2015-02-10,Arkansas,@,Auburn,W,0,6,1,1,1.000,1,1,1.000,0,0,,0,0,,0,1,1,0,0,0,0,3,2,0.8
+559909,Raasean Davis\raasean-davis-1,F,2015-02-10,Kent State,@,Akron,L,0,8,1,1,1.000,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,3,2,1.2
+559910,Nyles Evans\nyles-evans-1,G,2015-02-10,Akron,,Kent State,W,1,19,1,2,.500,1,2,.500,0,0,,0,1,.000,0,2,2,2,1,0,0,2,2,2.8
+559911,Marquiez Lawrence\marquiez-lawrence-1,F,2015-02-10,Kent State,@,Akron,L,1,20,1,1,1.000,1,1,1.000,0,0,,0,0,,2,2,4,0,0,0,1,4,2,1.1
+559912,Devin Wilson\devin-wilson-2,G,2015-02-09,Virginia Tech,,Georgia Tech,W,0,23,1,3,.333,1,3,.333,0,0,,0,0,,0,2,2,2,0,0,2,3,2,-0.9
+559913,Demarco Cox\demarco-cox-1,C,2015-02-09,Georgia Tech,@,Virginia Tech,L,1,20,1,5,.200,1,5,.200,0,0,,0,1,.000,2,4,6,0,0,0,2,2,2,-1.7
+559914,Keith Davis\keith-davis-1,F,2015-02-09,Southern,,Jackson State,L,1,22,1,2,.500,1,2,.500,0,0,,0,2,.000,1,1,2,0,0,2,2,2,2,-0.2
+559915,Jonathan Thomas\justin-thomas-3,G,2015-02-09,Jackson State,@,Southern,W,0,9,1,1,1.000,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,1,3,2,0.2
+559916,Paul Baxter\paul-baxter-1,G,2015-02-09,Sam Houston State,,Texas College,W,1,17,0,3,.000,0,2,.000,0,1,.000,2,2,1.000,1,0,1,3,0,0,1,2,2,0.9
+559917,Mitch McCormick\mitch-mccormick-1,G,2015-02-09,Sam Houston State,,Texas College,W,0,6,0,3,.000,0,0,,0,3,.000,2,2,1.000,0,0,0,0,1,0,0,1,2,0.5
+559918,Willem Brandwijk\willem-brandwijk-1,F,2015-02-09,Siena,@,Saint Peter's,L,0,11,1,1,1.000,1,1,1.000,0,0,,0,0,,0,2,2,0,0,0,0,3,2,1.1
+559919,Ryan Oliver\ryan-oliver-1,G,2015-02-09,Siena,@,Saint Peter's,L,0,25,1,3,.333,1,1,1.000,0,2,.000,0,0,,1,2,3,3,2,0,0,3,2,4.5
+559920,Rodney Hawkins\rodney-hawkins-1,F,2015-02-09,Saint Peter's,,Siena,W,0,5,1,3,.333,1,3,.333,0,0,,0,0,,0,0,0,0,0,0,0,5,2,-1.7
+559921,Jimmy Paige\jimmy-paige-1,G,2015-02-09,Siena,@,Saint Peter's,L,1,15,0,1,.000,0,1,.000,0,0,,2,2,1.000,1,4,5,0,0,0,0,2,2,2.4
+559922,Elisha Boone\elisha-boone-1,G,2015-02-09,Saint Peter's,,Siena,W,0,8,1,4,.250,1,4,.250,0,0,,0,0,,2,0,2,0,0,1,2,0,2,-0.3
+559923,Matt Thomas\matt-thomas-2,G,2015-02-09,Iowa State,@,Oklahoma,L,0,8,0,3,.000,0,0,,0,3,.000,2,2,1.000,1,0,1,1,0,0,0,1,2,0.9
+559924,Ryan King\ryan-king-1,F,2015-02-09,Northwestern State,,Stephen F. Austin,L,0,10,0,0,,0,0,,0,0,,2,2,1.000,1,1,2,1,0,1,1,3,2,2.2
+559925,Connor Brooks\connor-brooks-1,G,2015-02-09,Stephen F. Austin,@,Northwestern State,W,0,8,1,3,.333,1,3,.333,0,0,,0,0,,0,0,0,3,0,0,0,0,2,2.4
+559926,Zaynah Robinson\zaynah-robinson-1,G,2015-02-09,Norfolk State,,Maryland-Eastern Shore,L,0,11,1,3,.333,1,1,1.000,0,2,.000,0,0,,0,0,0,0,1,0,0,1,2,0.9
+559927,Travis Trim\travis-trim-1,G,2015-02-09,Maryland-Eastern Shore,@,Norfolk State,W,0,15,1,1,1.000,1,1,1.000,0,0,,0,0,,1,2,3,4,1,0,3,2,2,3.0
+559928,LaTre'e Russell\latree-russell-1,F,2015-02-09,Norfolk State,,Maryland-Eastern Shore,L,1,16,1,1,1.000,1,1,1.000,0,0,,0,0,,0,3,3,0,0,2,0,1,2,3.6
+559929,Jordan Butler\jordan-butler-1,F,2015-02-09,Norfolk State,,Maryland-Eastern Shore,L,0,10,1,2,.500,1,2,.500,0,0,,0,0,,2,0,2,0,0,1,1,2,2,1.3
+559930,Matthew Moss\matthew-moss-1,C,2015-02-09,McNeese State,@,New Orleans,L,0,16,1,3,.333,1,2,.500,0,1,.000,0,0,,2,2,4,0,1,0,1,5,2,0.3
+559931,Jamaya Burr\jamaya-burr-1,G,2015-02-09,McNeese State,@,New Orleans,L,1,25,1,5,.200,1,3,.333,0,2,.000,0,0,,0,0,0,2,2,0,4,1,2,-2.1
+559932,Zech Smith\zech-smith-1,C,2015-02-09,Morgan State,,South Carolina State,W,1,16,1,1,1.000,1,1,1.000,0,0,,0,2,.000,3,7,10,0,0,0,0,2,2,4.3
+559933,Greg Mortimer\greg-mortimer-1,G,2015-02-09,South Carolina State,@,Morgan State,L,1,29,0,3,.000,0,3,.000,0,0,,2,3,.667,1,1,2,1,0,0,4,3,2,-4.0
+559934,Edward Stephens\edward-stephens-1,G,2015-02-09,South Carolina State,@,Morgan State,L,1,12,1,4,.250,1,3,.333,0,1,.000,0,0,,0,1,1,1,0,0,0,1,2,0.2
+559935,Ehab Amin\ehab-amin-1,G,2015-02-09,Texas A&M-Corpus Christi,@,Houston Baptist,L,0,10,1,3,.333,1,2,.500,0,1,.000,0,0,,0,0,0,0,1,0,0,1,2,0.9
+559936,Emmanuel Okoroba\emmanuel-okoroba-1,C,2015-02-09,Hampton,,Howard,W,0,19,1,4,.250,1,4,.250,0,0,,0,0,,1,5,6,1,3,1,3,2,2,2.4
+559937,Grayson Allen\grayson-allen-1,G,2015-02-09,Duke,@,Florida State,W,0,11,1,4,.250,1,3,.333,0,1,.000,0,0,,0,0,0,0,0,0,0,1,2,-0.8
+559938,Amile Jefferson\amile-jefferson-1,F,2015-02-09,Duke,@,Florida State,W,1,21,0,1,.000,0,1,.000,0,0,,2,2,1.000,1,4,5,0,0,1,0,2,2,3.1
+559939,Jerran Foster\jerran-foster-1,G,2015-02-09,Florida A&M,@,Delaware State,L,0,13,1,4,.250,1,3,.333,0,1,.000,0,0,,0,1,1,3,1,0,1,2,2,1.2
+559940,Jayson Snearl\jayson-snearl-1,F,2015-02-09,Florida A&M,@,Delaware State,L,0,10,1,3,.333,1,3,.333,0,0,,0,0,,0,3,3,0,0,0,0,1,2,0.8
+559941,Jason Owens\jason-owens-1,F,2015-02-09,Delaware State,,Florida A&M,W,0,8,1,2,.500,1,2,.500,0,0,,0,0,,0,2,2,0,0,0,1,1,2,0.2
+559942,Lawrence Fejokwu\lawrence-fejokwu-1,C,2015-02-09,Coppin State,,Savannah State,L,0,10,1,2,.500,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,1,2,2,-0.1
+559943,Ishmail Wainright\ish-wainright-1,G,2015-02-09,Baylor,,Oklahoma State,L,0,9,1,2,.500,1,1,1.000,0,1,.000,0,0,,1,0,1,0,0,0,1,1,2,0.3
+559944,Travis Gibson\travis-gibson-1,G,2015-02-09,Alcorn State,,Grambling,W,0,6,0,2,.000,0,0,,0,2,.000,2,2,1.000,0,1,1,0,1,0,1,0,2,0.9
+559945,Robert Wiley\robert-wiley-1,G,2015-02-09,Grambling,@,Alcorn State,L,0,9,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,1.3
+559946,Lonnie McElwain\lonnie-mcelwain-1,F,2015-02-09,Grambling,@,Alcorn State,L,0,16,1,2,.500,1,2,.500,0,0,,0,0,,0,2,2,0,0,1,0,3,2,1.1
+559947,Jefkins Agyeman-Budu\jefkin-agyeman-budu-1,G,2015-02-09,Grambling,@,Alcorn State,L,0,10,1,1,1.000,1,1,1.000,0,0,,0,1,.000,1,0,1,0,0,0,1,0,2,1.0
+559948,Vacha Vaughn\vacha-vaughn-1,F,2015-02-09,Mississippi Valley State,@,Alabama State,L,1,27,1,4,.250,1,4,.250,0,0,,0,2,.000,3,2,5,0,2,0,0,4,2,1.9
+559949,Rakwan Kelly\rakwan-kelly-1,F,2015-02-09,Mississippi Valley State,@,Alabama State,L,0,13,0,1,.000,0,1,.000,0,0,,2,4,.500,2,2,4,2,0,0,1,0,2,2.9
+559950,Latrell Love\latrell-love-1,F,2015-02-09,Mississippi Valley State,@,Alabama State,L,0,12,1,2,.500,1,2,.500,0,0,,0,0,,1,0,1,0,0,0,2,0,2,-0.3
+559951,Tyler Davis\tyler-davis-3,G,2015-02-09,Alabama A&M,,Arkansas-Pine Bluff,L,1,32,1,5,.200,1,1,1.000,0,4,.000,0,2,.000,0,2,2,2,1,0,5,0,2,-3.9
+559952,Trent Whiting\trent-whiting-2,F,2015-02-09,Arkansas-Pine Bluff,@,Alabama A&M,W,0,18,1,2,.500,1,1,1.000,0,1,.000,0,0,,0,0,0,2,1,0,0,2,2,2.6
+559953,Jordan Brown\jordan-brown-1,G,2015-02-09,Arkansas-Pine Bluff,@,Alabama A&M,W,0,11,1,1,1.000,1,1,1.000,0,0,,0,1,.000,0,0,0,1,0,1,1,1,2,1.3
+559954,Devin Berry\devin-berry-1,F,2015-02-09,Arkansas-Pine Bluff,@,Alabama A&M,W,0,17,1,1,1.000,1,1,1.000,0,0,,0,0,,1,2,3,1,1,0,0,2,2,3.9
+559955,Adrian Edwards\adrian-edwards-1,F,2015-02-09,Alabama A&M,,Arkansas-Pine Bluff,L,0,12,1,3,.333,1,3,.333,0,0,,0,0,,0,2,2,0,0,0,3,2,2,-2.9
+559956,Riley Payne\riley-payne-1,F,2015-02-09,Abilene Christian,,Lamar,L,1,15,1,3,.333,1,3,.333,0,0,,0,0,,3,1,4,0,0,0,1,3,2,0.5
+559957,Michael Grant\michael-grant-2,G,2015-02-09,Abilene Christian,,Lamar,L,0,9,0,1,.000,0,1,.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,2,2,0.5
+559958,LeMon Gregory\lemon-gregory-1,C,2015-02-09,Lamar,,Abilene Christian,W,0,9,1,1,1.000,1,1,1.000,0,0,,0,0,,0,4,4,0,0,1,0,1,2,3.2
+559959,Max Joseph\max-joseph-1,G,2015-02-08,Valparaiso,,Oakland,W,0,11,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,2,0,0,1,0,2,2.1
+559960,Michael Humphrey\michael-humphrey-1,F,2015-02-08,Stanford,,Southern California,W,0,7,1,3,.333,1,3,.333,0,0,,0,0,,1,0,1,0,0,2,0,1,2,2.0
+559961,Elijah Stewart\elijah-stewart-1,G,2015-02-08,Southern California,@,Stanford,L,0,27,1,5,.200,1,2,.500,0,3,.000,0,0,,0,1,1,2,2,3,0,5,2,2.7
+559962,Shaquille Doorson\shaquille-doorson-1,C,2015-02-08,Rutgers,,Ohio State,L,0,11,1,5,.200,1,5,.200,0,0,,0,1,.000,6,1,7,0,0,0,0,0,2,3.0
+559963,Anthony Lee\anthony-lee-1,F,2015-02-08,Ohio State,@,Rutgers,W,1,9,1,3,.333,1,3,.333,0,0,,0,0,,2,2,4,1,0,0,2,4,2,-0.6
+559964,Tyler Wilson\tyler-wilson-1,G,2015-02-08,Manhattan,@,Rider,L,0,27,0,1,.000,0,1,.000,0,0,,2,4,.500,0,2,2,4,1,0,2,1,2,2.5
+559965,Anthony D'Orazio\anthony-dorazio-1,G,2015-02-08,Rider,,Manhattan,W,1,24,1,4,.250,1,3,.333,0,1,.000,0,0,,0,3,3,5,1,0,1,3,2,2.8
+559966,Earl Watson\earl-watson-2,C,2015-02-08,Rhode Island,@,Richmond,W,0,16,1,2,.500,1,2,.500,0,0,,0,2,.000,2,1,3,1,0,0,0,2,2,1.8
+559967,Samuel Dingba\samuel-dingba-1,F,2015-02-08,Quinnipiac,,Niagara,W,0,18,1,1,1.000,1,1,1.000,0,0,,0,0,,1,3,4,1,0,1,1,4,2,2.1
+559968,DayJar Dickson\dayjar-dickson-1,F,2015-02-08,Niagara,@,Quinnipiac,L,0,21,1,3,.333,1,3,.333,0,0,,0,1,.000,2,1,3,1,1,2,0,1,2,4.3
+559969,Olaf Schaftenaar\olaf-schaftenaar-1,F,2015-02-08,Oregon State,,Washington,W,1,33,0,2,.000,0,1,.000,0,1,.000,2,2,1.000,1,2,3,2,1,1,4,1,2,0.6
+559970,Daniel Gomis\daniel-gomis-1,F,2015-02-08,Oregon State,,Washington,W,1,17,1,3,.333,1,3,.333,0,0,,0,0,,0,3,3,0,2,0,1,5,2,0.2
+559971,Jordan Railey\jordan-railey-1,C,2015-02-08,Washington State,@,Oregon,L,1,16,1,4,.250,1,4,.250,0,0,,0,0,,2,1,3,0,0,0,1,1,2,-0.1
+559972,Brett Boese\brett-boese-1,F,2015-02-08,Washington State,@,Oregon,L,0,13,1,6,.167,1,2,.500,0,4,.000,0,0,,0,1,1,2,0,0,1,2,2,-1.9
+559973,Jeremiah Williams\jeremiah-williams-2,G,2015-02-08,Canisius,@,Monmouth,L,0,25,1,6,.167,1,5,.200,0,1,.000,0,0,,1,0,1,1,2,0,0,3,2,0.4
+559974,Landry Nnoko\landry-nnoko-1,C,2015-02-08,Clemson,@,Miami (FL),L,1,27,1,8,.125,1,8,.125,0,0,,0,0,,3,1,4,2,0,1,1,2,2,-0.5
+559975,James Palmer\james-palmer-1,G,2015-02-08,Miami (FL),,Clemson,W,0,11,1,5,.200,1,3,.333,0,2,.000,0,0,,1,2,3,0,0,0,0,0,2,0.2
+559976,Zach Coleman\zach-coleman-1,F,2015-02-08,Massachusetts,,La Salle,W,0,9,0,2,.000,0,1,.000,0,1,.000,2,2,1.000,0,1,1,1,0,0,2,2,2,-1.2
+559977,Jonathan Graham\jonathan-graham-1,F,2015-02-08,Maryland,@,Iowa,L,0,20,1,3,.333,1,3,.333,0,0,,0,0,,2,2,4,0,0,1,0,1,2,2.6
+559978,Phillip Lawrence-Ricks\phillip-lawrence-1,F,2015-02-08,Marist,@,Iona,L,1,19,1,3,.333,1,3,.333,0,0,,0,0,,1,2,3,1,0,2,0,1,2,3.3
+559979,Obi Momah\obi-momah-1,F,2015-02-08,Marist,@,Iona,L,0,3,0,2,.000,0,1,.000,0,1,.000,2,2,1.000,0,0,0,0,2,0,0,0,2,2.6
+559980,Muhammad-Ali Abdur-Rahkman\muhammad-ali-abdur-rahkman-1,G,2015-02-08,Michigan,@,Indiana,L,1,34,1,7,.143,1,5,.200,0,2,.000,0,0,,0,2,2,3,3,0,4,2,2,-1.6
+559981,Matthew Grant\matthew-grant-1,G,2015-02-08,Detroit Mercy,,Illinois-Chicago,L,1,20,1,3,.333,1,1,1.000,0,2,.000,0,0,,2,0,2,1,0,0,0,0,2,2.4
+559982,Jake Wiegand\jake-wiegand-1,F,2015-02-08,Illinois-Chicago,@,Detroit Mercy,W,0,6,1,1,1.000,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,1,2,2,0.9
+559983,Brandan Kearney\brandan-kearney-1,F,2015-02-08,Detroit Mercy,,Illinois-Chicago,L,0,12,1,3,.333,1,2,.500,0,1,.000,0,0,,0,2,2,1,0,0,2,1,2,-0.8
+559984,Ahman Fells\ahman-fells-1,F,2015-02-08,Illinois-Chicago,@,Detroit Mercy,W,1,26,0,3,.000,0,0,,0,3,.000,2,2,1.000,1,1,2,0,1,0,0,2,2,1.1
+559985,Steven Kaspar\steven-kaspar-1,G,2015-02-08,Bucknell,,Holy Cross,W,0,16,0,0,,0,0,,0,0,,2,2,1.000,0,2,2,4,0,0,1,3,2,3.2
+559986,Matt Husek\matt-husek-1,C,2015-02-08,Holy Cross,@,Bucknell,L,0,5,1,3,.333,1,2,.500,0,1,.000,0,1,.000,1,0,1,0,0,1,0,0,2,1.3
+559987,J.C. Show\jc-show-1,G,2015-02-08,Bucknell,,Holy Cross,W,0,14,1,3,.333,1,1,1.000,0,2,.000,0,0,,0,2,2,1,0,0,0,1,2,1.2
+559988,Ben Oberfeld\ben-oberfeld-1,C,2015-02-08,Bucknell,,Holy Cross,W,0,5,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9
+559989,Trey Kell\trey-kell-1,G,2015-02-08,San Diego State,@,Boise State,L,0,16,1,3,.333,1,2,.500,0,1,.000,0,0,,0,2,2,1,0,1,2,0,2,0.3
+559990,Malik Pope\malik-pope-1,F,2015-02-08,San Diego State,@,Boise State,L,0,23,1,3,.333,1,2,.500,0,1,.000,0,1,.000,3,3,6,1,0,0,2,2,2,0.8
+559991,Jonah Travis\jonah-travis-1,F,2015-02-07,Harvard,@,Yale,W,0,14,1,3,.333,1,3,.333,0,0,,0,0,,1,3,4,0,2,0,0,1,2,3.5
+559992,Vitto Brown\vitto-brown-1,F,2015-02-07,Wisconsin,,Northwestern,W,0,7,1,1,1.000,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,2,2,0.9
+559993,Sanjay Lumpkin\sanjay-lumpkin-1,G,2015-02-07,Northwestern,@,Wisconsin,L,0,20,1,2,.500,1,2,.500,0,0,,0,0,,0,2,2,1,0,0,0,4,2,0.7
+559994,Tyler McCullough\tyler-mccullough-1,C,2015-02-07,Missouri State,@,Wichita State,L,1,27,1,6,.167,1,6,.167,0,0,,0,0,,3,3,6,1,0,1,0,2,2,1.8
+559995,Bush Wamukota\tom-bush-wamukota-1,C,2015-02-07,Wichita State,,Missouri State,W,0,8,1,1,1.000,1,1,1.000,0,0,,0,0,,2,1,3,0,1,0,0,1,2,4.0
+559996,Tekele Cotton\tekele-cotton-1,G,2015-02-07,Wichita State,,Missouri State,W,1,21,1,6,.167,1,5,.200,0,1,.000,0,0,,1,6,7,1,1,0,0,0,2,2.4
+559997,Van Green\van-green-1,G,2015-02-07,Rice,@,Western Kentucky,W,0,12,0,0,,0,0,,0,0,,2,2,1.000,0,4,4,0,0,0,0,1,2,2.8
+559998,Jeremy Jones\jeremy-jones-4,F,2015-02-07,Rice,@,Western Kentucky,W,0,15,1,1,1.000,1,1,1.000,0,0,,0,0,,0,3,3,0,1,2,0,1,2,4.6
+559999,Jonathan Holton\jonathan-holton-1,F,2015-02-07,West Virginia,,Baylor,L,1,12,1,7,.143,1,6,.167,0,1,.000,0,0,,3,3,6,1,0,1,2,1,2,-0.5
+560000,Ishmail Wainright\ish-wainright-1,G,2015-02-07,Baylor,@,West Virginia,W,0,16,1,3,.333,1,3,.333,0,0,,0,0,,1,4,5,1,0,0,1,1,2,1.5
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=559900&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.

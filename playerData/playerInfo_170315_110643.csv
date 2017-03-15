@@ -1,0 +1,104 @@
+﻿Rk,Player,Pos,Date,Schl,,Opp,,GS,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc
+418001,Derrell Conner\derrell-conner-1,G,2010-11-13,Nevada,,Montana,W,0,9,2,3,.667,1,2,.500,1,1,1.000,0,0,,0,0,0,2,0,0,1,0,5,4.1
+418002,Illiwa Baldwin\illiwa-baldwin-1,C,2010-11-13,Nevada,,Montana,W,0,16,2,2,1.000,2,2,1.000,0,0,,1,2,.500,0,3,3,1,0,0,1,3,5,3.4
+418003,Kevin Panzer\kevin-panzer-1,F,2010-11-13,Nevada,,Montana,W,0,17,2,5,.400,1,3,.333,1,2,.500,0,1,.000,0,0,0,1,1,0,1,2,5,1.8
+418004,Brian Benson\brian-benson-1,F,2010-11-13,New Hampshire,,Lesley,W,0,17,2,6,.333,2,6,.333,0,0,,1,2,.500,3,5,8,0,0,1,1,1,5,4.1
+418005,Tyrone Conley\tyrone-conley-1,G,2010-11-13,New Hampshire,,Lesley,W,0,23,1,5,.200,0,1,.000,1,4,.250,2,4,.500,2,1,3,3,4,0,1,4,5,6.3
+418006,Chase Simon\chase-simon-1,G,2010-11-13,Detroit Mercy,@,New Mexico,L,1,36,0,10,.000,0,6,.000,0,4,.000,5,6,.833,0,5,5,2,1,0,3,2,5,-2.3
+418007,Lamar Kearse\lamar-kearse-1,G,2010-11-13,NJIT,,Manhattan,L,0,20,2,4,.500,1,1,1.000,1,3,.333,0,0,,1,0,1,5,0,0,0,4,5,5.6
+418008,Freddy Coleman\freddy-coleman-1,G,2010-11-13,North Dakota State,,UC-Santa Barbara,W,0,16,2,5,.400,2,4,.500,0,1,.000,1,2,.500,0,1,1,2,0,0,0,0,5,3.6
+418009,Jordan Weiner\jordan-weiner-1,G,2010-11-13,UC-Santa Barbara,,North Dakota State,L,1,19,2,6,.333,1,2,.500,1,4,.250,0,0,,0,1,1,1,1,0,0,3,5,2.4
+418010,Nate Zastrow\nate-zastrow-1,G,2010-11-13,North Dakota State,,UC-Santa Barbara,W,0,20,1,2,.500,0,0,,1,2,.500,2,2,1.000,0,3,3,1,0,0,3,2,5,1.8
+418011,Hakim McCullar\hakim-mccullar-1,F,2010-11-13,Delaware,@,Ohio,L,1,22,1,4,.250,1,4,.250,0,0,,3,4,.750,1,2,3,1,0,0,2,4,5,0.6
+418012,Lamar Thomas\lamar-thomas-2,F,2010-11-13,Houston Baptist,@,Oklahoma State,L,1,15,2,2,1.000,2,2,1.000,0,0,,1,2,.500,0,0,0,0,0,0,1,3,5,1.8
+418013,Ray Penn\ray-penn-1,G,2010-11-13,Oklahoma State,,Houston Baptist,W,0,22,0,3,.000,0,0,,0,3,.000,5,6,.833,0,0,0,2,2,0,3,1,5,2.5
+418014,Chris Udofia\chris-udofia-1,F,2010-11-13,Denver,@,Oregon,L,0,13,1,2,.500,1,2,.500,0,0,,3,4,.750,1,4,5,0,0,2,0,4,5,5.3
+418015,Teondre Williams\teondre-williams-1,G,2010-11-13,Oregon,,Denver,W,1,17,2,4,.500,2,3,.667,0,1,.000,1,1,1.000,1,0,1,0,2,0,1,3,5,3.5
+418016,Travis Hallam\travis-hallam-1,G,2010-11-13,Denver,@,Oregon,L,1,38,1,6,.167,1,5,.200,0,1,.000,3,4,.750,0,3,3,2,0,0,2,2,5,0.3
+418017,Parker Smith\parker-smith-2,G,2010-11-13,North Florida,@,Pittsburgh,L,0,24,2,6,.333,1,2,.500,1,4,.250,0,0,,0,1,1,1,0,0,3,4,5,-2.0
+418018,Luke Sikma\luke-sikma-1,F,2010-11-13,Portland,,UC-Davis,W,1,24,2,3,.667,1,2,.500,1,1,1.000,0,0,,1,7,8,1,2,1,1,0,5,8.9
+418019,Duke Mondy\duke-mondy-1,G,2010-11-13,Providence,,Dartmouth,W,0,6,2,3,.667,1,1,1.000,1,2,.500,0,0,,0,1,1,0,1,0,0,0,5,5.0
+418020,Kadeem Batts\kadeem-batts-1,F,2010-11-13,Providence,,Dartmouth,W,1,16,2,3,.667,1,2,.500,1,1,1.000,0,0,,1,3,4,1,0,0,2,1,5,3.6
+418021,Blake Smith\blake-smith-1,G,2010-11-13,Radford,,Emory & Henry,W,0,31,1,9,.111,1,7,.143,0,2,.000,3,4,.750,0,2,2,1,4,1,1,1,5,3.3
+418022,Drae Murray\drae-murray-1,G,2010-11-13,Sam Houston State,,Mary Hardin-Baylor,W,1,23,1,7,.143,0,3,.000,1,4,.250,2,4,.500,0,1,1,4,2,0,1,3,5,2.6
+418023,Nafis Richardson\nafis-richardson-1,G,2010-11-13,Sam Houston State,,Mary Hardin-Baylor,W,0,25,2,5,.400,1,3,.333,1,2,.500,0,0,,0,1,1,4,1,0,2,4,5,2.8
+418024,Matt Glass\matt-glass-1,F,2010-11-13,Vermont,@,Siena,W,1,17,2,9,.222,1,6,.167,1,3,.333,0,0,,0,3,3,2,0,0,2,5,5,-2.2
+418025,Terence Jones\terence-jones-1,G,2010-11-13,Texas A&M-Corpus Christi,,Northeastern State,W,1,28,1,7,.143,0,2,.000,1,5,.200,2,2,1.000,0,6,6,3,3,0,4,1,5,3.0
+418026,Francisco Cruz\francisco-cruz-1,G,2010-11-13,Wyoming,,Kean,W,1,25,2,7,.286,1,4,.250,1,3,.333,0,0,,0,3,3,4,1,0,0,3,5,4.4
+418027,Raheem May-Thompson\raheem-may-thompson-1,F,2010-11-13,Quinnipiac,,Yale,W,1,14,2,2,1.000,2,2,1.000,0,0,,1,2,.500,1,2,3,1,0,1,1,4,5,4.1
+418028,Jamelle Horne\jamelle-horne-1,F,2010-11-14,Arizona,,Idaho State,W,1,18,2,5,.400,1,2,.500,1,3,.333,0,0,,1,4,5,1,1,1,1,2,5,4.8
+418029,Kyryl Natyazhko\kyryl-natyazhko-1,C,2010-11-14,Arizona,,Idaho State,W,0,15,2,4,.500,1,3,.333,1,1,1.000,0,0,,0,4,4,0,0,1,0,2,5,4.1
+418030,Michael Lacey\michael-lacey-1,G,2010-11-14,Idaho State,@,Arizona,L,1,26,1,4,.250,1,4,.250,0,0,,3,6,.500,0,1,1,0,0,0,2,1,5,-0.7
+418031,James Hollowell\james-hollowell-1,F,2010-11-14,Eastern Illinois,@,Ball State,L,1,23,1,5,.200,0,3,.000,1,2,.500,2,2,1.000,1,5,6,0,1,2,3,4,5,1.9
+418032,Josh Ritchart\josh-ritchart-1,G,2010-11-14,UC-Davis,,Milwaukee,L,0,16,2,6,.333,1,2,.500,1,4,.250,0,0,,0,2,2,0,0,0,0,3,5,1.0
+418033,Ryan Allen\ryan-allen-2,G,2010-11-14,Milwaukee,,UC-Davis,W,0,13,0,3,.000,0,3,.000,0,0,,5,6,.833,0,1,1,1,2,0,1,4,5,2.9
+418034,Ryan Sypkens\ryan-sypkens-1,G,2010-11-14,UC-Davis,,Milwaukee,L,0,18,2,6,.333,1,3,.333,1,3,.333,0,0,,0,2,2,2,0,0,1,2,5,1.8
+418035,Derek Jackson\derek-jackson-1,G,2010-11-14,Central Michigan,,Montana State,L,0,22,2,5,.400,1,2,.500,1,3,.333,0,0,,0,0,0,1,2,0,1,3,5,2.8
+418036,Trevon Harmon\trevon-harmon-1,G,2010-11-14,Cleveland State,,Kent State,W,1,28,2,6,.333,1,5,.200,1,1,1.000,0,2,.000,1,6,7,1,1,0,0,1,5,4.6
+418037,DeAngelo Jones\deangelo-jones-2,G,2010-11-14,Northern Arizona,@,Creighton,L,0,12,2,4,.500,1,2,.500,1,2,.500,0,0,,0,1,1,0,0,0,0,1,5,2.9
+418038,Josh Jones\josh-jones-1,G,2010-11-14,Creighton,,Northern Arizona,W,1,18,1,9,.111,1,6,.167,0,3,.000,3,4,.750,1,3,4,2,1,0,0,4,5,1.1
+418039,Stallon Saldivar\stallon-saldivar-1,G,2010-11-14,Northern Arizona,@,Creighton,L,1,19,2,4,.500,1,2,.500,1,2,.500,0,0,,0,4,4,8,0,0,2,3,5,6.6
+418040,Andrew Hooper\andrew-hooper-1,F,2010-11-14,Denver,,North Dakota State,L,0,26,2,6,.333,1,1,1.000,1,5,.200,0,0,,0,3,3,1,0,0,1,0,5,2.2
+418041,Mason Plumlee\mason-plumlee-1,F,2010-11-14,Duke,,Princeton,W,1,20,2,4,.500,2,4,.500,0,0,,1,1,1.000,1,3,4,4,0,2,2,3,5,5.6
+418042,T.J. Bray\tj-bray-1,G,2010-11-14,Princeton,@,Duke,L,0,19,2,4,.500,1,2,.500,1,2,.500,0,0,,0,3,3,2,0,0,4,2,5,0.5
+418043,LeShaun Murphy\leshaun-murphy-1,G,2010-11-14,Southern Illinois-Edwardsville,@,Illinois State,L,0,21,2,6,.333,2,5,.400,0,1,.000,1,2,.500,3,1,4,0,1,1,3,2,5,1.5
+418044,Michael Messer\michael-messer-1,G,2010-11-14,Southern Illinois-Edwardsville,@,Illinois State,L,1,25,2,5,.400,2,4,.500,0,1,.000,1,3,.333,1,3,4,3,0,0,3,4,5,0.6
+418045,Aaron Carter\aaron-carter-1,G,2010-11-14,Indiana State,,Eastern Kentucky,L,0,12,2,2,1.000,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,1,5,4.0
+418046,Armond Battle\armond-battle-1,F,2010-11-14,Wright State,@,Indiana,L,0,25,2,4,.500,2,4,.500,0,0,,1,3,.333,0,1,1,1,3,1,1,4,5,4.3
+418047,Sean Armand\sean-armand-1,G,2010-11-14,Iona,,Bryant,L,0,10,2,5,.400,1,2,.500,1,3,.333,0,0,,1,0,1,0,0,1,1,1,5,2.3
+418048,Bubu Palo\bubu-palo-1,G,2010-11-14,Iowa State,,Alabama State,W,0,14,1,4,.250,1,3,.333,0,1,.000,3,4,.750,0,1,1,2,0,0,0,1,5,3.5
+418049,Patrick Davis\patrick-davis-1,C,2010-11-14,Alabama State,@,Iowa State,L,1,22,2,6,.333,1,4,.250,1,2,.500,0,0,,0,3,3,0,0,0,2,3,5,-0.7
+418050,Dale Moss\dale-moss-1,G,2010-11-14,South Dakota State,@,Iowa,W,1,18,2,6,.333,2,5,.400,0,1,.000,1,2,.500,1,0,1,1,0,0,0,2,5,1.8
+418051,Jordan Dykstra\jordan-dykstra-1,F,2010-11-14,South Dakota State,@,Iowa,W,1,27,2,6,.333,1,5,.200,1,1,1.000,0,0,,0,6,6,2,2,3,2,4,5,5.3
+418052,Tony Fiegen\tony-fiegen-1,F,2010-11-14,South Dakota State,@,Iowa,W,0,21,2,6,.333,2,6,.333,0,0,,1,3,.333,2,7,9,2,0,1,1,4,5,3.8
+418053,Courtney Stanley\courtney-stanley-1,G,2010-11-14,Loyola (IL),,Texas-Rio Grande Valley,W,1,27,2,3,.667,2,2,1.000,0,1,.000,1,1,1.000,3,4,7,5,1,0,4,2,5,6.7
+418054,Godwin Okonji\godwin-okonji-1,F,2010-11-14,Loyola Marymount,,La Sierra,W,0,15,2,6,.333,2,6,.333,0,0,,1,2,.500,6,4,10,0,0,0,1,3,5,4.4
+418055,Gerald McLemore\gerald-mclemore-1,G,2010-11-14,Maine,@,Maryland,L,1,26,2,15,.133,2,6,.333,0,9,.000,1,1,1.000,0,0,0,3,0,1,3,3,5,-6.1
+418056,James Padgett\james-padgett-1,F,2010-11-14,Maryland,,Maine,W,0,16,1,2,.500,1,2,.500,0,0,,3,6,.500,2,1,3,0,0,0,0,2,5,3.7
+418057,Pe'Shon Howard\peshon-howard-1,G,2010-11-14,Maryland,,Maine,W,0,17,2,5,.400,1,2,.500,1,3,.333,0,0,,0,0,0,0,0,0,2,3,5,-0.9
+418058,Jeremy Underwood\jeremy-underwood-1,G,2010-11-14,North Carolina A&T,@,Morehead State,L,0,17,2,5,.400,1,3,.333,1,2,.500,0,0,,0,1,1,1,1,0,3,4,5,-0.3
+418059,Nic Simpson\nic-simpson-1,G,2010-11-14,North Carolina A&T,@,Morehead State,L,1,27,1,9,.111,0,2,.000,1,7,.143,2,2,1.000,0,2,2,3,0,0,3,3,5,-2.4
+418060,Bernard James\bernard-james--1,F,2010-11-14,Florida State,@,North Carolina-Greensboro,W,0,19,2,4,.500,2,4,.500,0,0,,1,2,.500,3,4,7,0,2,4,2,1,5,8.3
+418061,Brandon Evans\brandon-evans-3,G,2010-11-14,North Carolina-Greensboro,,Florida State,L,1,25,2,4,.500,1,2,.500,1,2,.500,0,0,,1,0,1,1,1,1,3,2,5,2.3
+418062,Deividas Dulkys\deividas-dulkys-1,G,2010-11-14,Florida State,@,North Carolina-Greensboro,W,0,21,2,5,.400,1,1,1.000,1,4,.250,0,1,.000,1,1,2,1,0,2,2,0,5,3.0
+418063,Chene Phillips\chene-phillips-1,G,2010-11-14,Liberty,@,Notre Dame,L,0,12,2,3,.667,1,2,.500,1,1,1.000,0,0,,1,0,1,1,0,0,1,1,5,3.7
+418064,Bradley Gay\bradley-gay-1,G,2010-11-14,Texas-Arlington,@,Oregon State,L,0,13,2,3,.667,1,2,.500,1,1,1.000,0,0,,0,2,2,0,1,0,3,0,5,2.3
+418065,Joe Burton\joe-burton-1,F,2010-11-14,Oregon State,,Texas-Arlington,W,1,24,1,3,.333,1,3,.333,0,0,,3,4,.750,3,4,7,3,2,0,2,4,5,6.7
+418066,Jordan McCoy\jordan-mccoy-1,F,2010-11-14,Florida Atlantic,@,Portland,L,0,25,1,3,.333,1,3,.333,0,0,,3,3,1.000,1,1,2,0,1,1,0,3,5,4.8
+418067,Daniel Mitchell\daniel-mitchell-1,G,2010-11-14,Radford,,Methodist,W,0,15,1,2,.500,0,1,.000,1,1,1.000,2,4,.500,0,3,3,1,0,0,0,0,5,4.8
+418068,Yondarius Johnson\yondarius-johnson-2,G,2010-11-14,Grambling,@,Rice,L,0,12,2,5,.400,1,2,.500,1,3,.333,0,0,,1,0,1,0,0,0,0,0,5,3.0
+418069,James Albright\james-albright-1,F,2010-11-14,Cal State Bakersfield,@,Sacramento State,W,0,13,2,4,.500,1,2,.500,1,2,.500,0,3,.000,2,2,4,0,0,0,2,5,5,-0.2
+418070,Richard Connor\richard-connor-1,G,2010-11-14,Savannah State,,Western Illinois,L,0,20,2,3,.667,1,2,.500,1,1,1.000,0,0,,1,3,4,2,0,0,1,2,5,4.9
+418071,Demitrius Conger\demitrius-conger-1,F,2010-11-14,St. Bonaventure,,Arkansas-Little Rock,W,1,27,1,5,.200,1,2,.500,0,3,.000,3,3,1.000,2,3,5,3,1,0,2,5,5,3.3
+418072,Gabby Belardo\gabby-belardo-1,G,2010-11-14,Canisius,@,Syracuse,L,1,26,2,8,.250,2,4,.500,0,4,.000,1,2,.500,1,2,3,6,2,0,3,1,5,3.9
+418073,Julius Coles\julius-coles-1,G,2010-11-14,Canisius,@,Syracuse,L,1,30,2,12,.167,2,6,.333,0,6,.000,1,1,1.000,0,5,5,1,0,0,3,1,5,-3.8
+418074,Aaron Brown\aaron-brown-1,G,2010-11-14,Temple,,Toledo,W,0,10,2,4,.500,2,3,.667,0,1,.000,1,1,1.000,0,2,2,1,0,0,0,1,5,3.9
+418075,Delino Dear\delino-dear-1,F,2010-11-14,Toledo,@,Temple,L,0,22,2,4,.500,2,4,.500,0,0,,1,2,.500,0,6,6,2,0,0,3,2,5,2.0
+418076,Brian Mills\brian-mills-1,F,2010-11-14,Mercer,@,Texas-El Paso,L,1,16,1,5,.200,1,3,.333,0,2,.000,3,4,.750,1,0,1,0,0,0,1,5,5,-0.8
+418077,Jake Gollon\jake-gollon-1,F,2010-11-14,Mercer,@,Texas-El Paso,L,0,17,1,2,.500,1,1,1.000,0,1,.000,3,4,.750,0,5,5,0,1,0,3,3,5,1.9
+418078,Jeff Wherry\jeff-wherry-1,G,2010-11-14,Prairie View,@,Wisconsin,L,0,21,2,4,.500,1,2,.500,1,2,.500,0,0,,1,1,2,1,1,0,0,1,5,5.3
+418079,Charles Hankerson\charles-hankerson-jr-1,G,2010-11-15,Alabama,,Troy,W,0,14,2,4,.500,1,1,1.000,1,3,.333,0,1,.000,0,1,1,0,1,0,1,1,5,2.5
+418080,Daniel Munoz\daniel-munoz-1,G,2010-11-15,American,@,Albany (NY),W,0,21,2,4,.500,1,1,1.000,1,3,.333,0,0,,0,1,1,3,0,0,0,0,5,5.4
+418081,Mike Bersch\mike-bersch-1,F,2010-11-15,American,@,Albany (NY),W,0,11,2,4,.500,1,1,1.000,1,3,.333,0,0,,0,1,1,0,0,0,0,0,5,3.3
+418082,Nick Hendra\nick-hendra-1,G,2010-11-15,American,@,Albany (NY),W,1,28,2,4,.500,1,2,.500,1,2,.500,0,1,.000,0,2,2,1,0,0,0,3,5,2.7
+418083,Steve Luptak\steve-luptak-1,G,2010-11-15,American,@,Albany (NY),W,1,19,2,4,.500,1,2,.500,1,2,.500,0,1,.000,0,1,1,3,0,0,0,1,5,4.6
+418084,Chris McCall\chris-mccall-1,G,2010-11-15,Montana State,,Cal State Fullerton,W,0,13,1,2,.500,1,2,.500,0,0,,3,4,.750,1,0,1,0,2,0,1,1,5,4.9
+418085,Jeff Budinich\jeff-budinich-1,F,2010-11-15,Montana State,,Cal State Fullerton,W,1,16,1,3,.333,0,0,,1,3,.333,2,2,1.000,0,1,1,0,0,0,0,0,5,3.6
+418086,Christian Williams\christian-williams-2,G,2010-11-15,Jackson State,@,Central Florida,L,0,8,2,4,.500,1,3,.333,1,1,1.000,0,0,,1,0,1,0,0,0,0,1,5,3.3
+418087,Troy Cage\troy-cage-1,F,2010-11-15,Chattanooga,,Austin Peay,L,0,10,2,4,.500,1,3,.333,1,1,1.000,0,0,,0,1,1,1,0,1,0,0,5,4.7
+418088,Louis Bell\louis-bell-1,G,2010-11-15,Maryland-Eastern Shore,@,Columbia,L,0,14,1,1,1.000,0,0,,1,1,1.000,2,2,1.000,0,0,0,1,0,0,1,1,5,4.0
+418089,Avery Moore\avery-moore-1,G,2010-11-15,Florida A&M,,Southeastern,W,0,18,2,7,.286,1,1,1.000,1,6,.167,0,0,,3,1,4,0,2,0,3,2,5,1.5
+418090,Evan Kelley\evan-kelley-1,G,2010-11-15,Sacred Heart,@,Fordham,L,0,25,2,4,.500,1,1,1.000,1,3,.333,0,0,,0,3,3,0,1,0,1,4,5,2.3
+418091,Marvin Dominique\marvin-dominique-1,F,2010-11-15,Fordham,,Sacred Heart,W,0,17,1,2,.500,1,2,.500,0,0,,3,6,.500,1,2,3,0,0,0,0,3,5,2.9
+418092,Kendall Timmons\kendall-timmons-1,G,2010-11-15,Tulane,@,Georgetown,L,1,34,1,7,.143,1,7,.143,0,0,,3,4,.750,2,4,6,3,2,0,2,1,5,4.4
+418093,Marvin Baynham\marvin-baynham-1,F,2010-11-15,Georgia Southern,,Carver Bible,W,1,25,2,4,.500,2,4,.500,0,0,,1,2,.500,5,3,8,2,0,0,1,4,5,5.8
+418094,Dipanjot Singh\dipanjot-singh-1,G,2010-11-15,Illinois-Chicago,,Roosevelt,W,0,5,2,2,1.000,1,1,1.000,1,1,1.000,0,0,,1,0,1,0,0,0,0,0,5,5.1
+418095,Travis Releford\travis-releford-1,G,2010-11-15,Kansas,,Valparaiso,W,0,15,2,2,1.000,1,1,1.000,1,1,1.000,0,0,,1,0,1,0,1,1,2,3,5,3.6
+418096,Mfon Udofia\mfon-udofia-1,G,2010-11-15,Georgia Tech,@,Kennesaw State,L,1,27,2,6,.333,2,6,.333,0,0,,1,2,.500,2,2,4,1,0,0,2,3,5,0.7
+418097,John Adams\john-adams-1,F,2010-11-15,Lehigh,,Wagner,W,1,23,2,5,.400,2,4,.500,0,1,.000,1,3,.333,1,3,4,0,1,0,3,1,5,0.7
+418098,Prentice Small\prentice-small-1,G,2010-11-15,Lehigh,,Wagner,W,0,19,1,1,1.000,1,1,1.000,0,0,,3,4,.750,0,0,0,2,0,0,3,2,5,1.9
+418099,Jordan Burgason\jordan-burgason-1,G,2010-11-15,Lipscomb,,Stillman,W,1,20,1,6,.167,0,2,.000,1,4,.250,2,2,1.000,1,1,2,4,0,0,2,1,5,2.6
+418100,Garrius Adams\garrius-adams-1,G,2010-11-15,Miami (FL),@,Memphis,L,0,30,2,7,.286,2,3,.667,0,4,.000,1,2,.500,3,4,7,0,1,0,3,4,5,0.2
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/pgl_finder.cgi?request=1&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&person_id=&is_range=N&game_type=A&game_month=&game_location=&game_result=&game_num_min=&game_num_max=&is_starter=&pos_is_g=Y&pos_is_gf=Y&pos_is_f=Y&pos_is_fg=Y&pos_is_fc=Y&pos_is_c=Y&pos_is_cf=Y&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&is_dbl_dbl=&is_trp_dbl=&order_by=pts&order_by_asc=&offset=418000&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/15/2017.
