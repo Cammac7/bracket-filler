@@ -1,0 +1,53 @@
+﻿,,,,,,,School,,,,,,,,,,,,
+,Date,Schl,,Opp,Result,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,PTS
+79101,2014-12-31,Mississippi Valley State,@,Iowa State,L 33-83,201,14,58,.241,13,41,.317,1,17,.059,4,5,.800,33
+79102,2014-12-31,San Jose State,@,Utah State,L 33-61,200,12,60,.200,6,32,.188,6,28,.214,3,8,.375,33
+79103,2015-02-07,Utah Valley,@,Seattle,L 33-53,200,12,44,.273,12,27,.444,0,17,.000,9,13,.692,33
+79104,2015-02-21,Grambling,@,Jackson State,L 33-72,200,13,44,.295,9,30,.300,4,14,.286,3,6,.500,33
+79105,2015-03-05,Fairfield,N,Saint Peter's,L 33-63,200,10,44,.227,7,24,.292,3,20,.150,10,15,.667,33
+79106,2015-11-14,Santa Clara,,Denver,L 33-55,200,11,48,.229,7,24,.292,4,24,.167,7,10,.700,33
+79107,2015-12-05,Binghamton,@,Michigan State,L 33-76,200,10,60,.167,8,43,.186,2,17,.118,11,15,.733,33
+79108,2015-12-12,Delaware State,@,Michigan,L 33-80,200,12,50,.240,8,29,.276,4,21,.190,5,10,.500,33
+79109,2016-02-20,San Diego,@,Brigham Young,L 33-91,200,14,57,.246,14,37,.378,0,20,.000,5,11,.455,33
+79110,2017-01-12,Portland,,Saint Mary's (CA),L 33-74,200,12,48,.250,10,39,.256,2,9,.222,7,12,.583,33
+79111,2013-12-04,Eastern Illinois,@,Western Illinois,L 32-60,200,12,50,.240,10,34,.294,2,16,.125,6,9,.667,32
+79112,2014-01-07,Navy,@,Boston University,L 32-55,200,11,53,.208,7,26,.269,4,27,.148,6,13,.462,32
+79113,2014-01-26,Massachusetts-Lowell,,New Hampshire,L 32-61,200,6,49,.122,6,29,.207,0,20,.000,20,25,.800,32
+79114,2014-03-06,Northwestern,,Penn State,L 32-59,200,10,43,.233,7,21,.333,3,22,.136,9,21,.429,32
+79115,2016-11-15,St. Francis (NY),@,Virginia,L 32-72,200,11,48,.229,6,22,.273,5,26,.192,5,7,.714,32
+79116,2011-02-26,San Diego,,Gonzaga,L 31-68,200,12,47,.255,8,28,.286,4,19,.211,3,7,.429,31
+79117,2011-03-05,Marist,@,Fairfield,L 31-55,200,12,41,.293,9,30,.300,3,11,.273,4,7,.571,31
+79118,2011-11-12,Kennesaw State,@,Wisconsin,L 31-85,200,10,43,.233,8,33,.242,2,10,.200,9,16,.563,31
+79119,2011-11-22,Missouri-Kansas City,@,Wisconsin,L 31-77,200,11,53,.208,6,40,.150,5,13,.385,4,5,.800,31
+79120,2012-11-23,Texas Christian,N,Northwestern,L 31-55,200,13,49,.265,13,43,.302,0,6,.000,5,12,.417,31
+79121,2013-02-02,Grambling,@,Southern,L 31-59,200,11,56,.196,9,39,.231,2,17,.118,7,10,.700,31
+79122,2013-02-23,Mississippi State,,Vanderbilt,L 31-72,200,7,40,.175,5,21,.238,2,19,.105,15,18,.833,31
+79123,2013-03-01,Fairfield,@,Manhattan,L 31-34,200,12,45,.267,6,26,.231,6,19,.316,1,2,.500,31
+79124,2013-12-27,Louisiana-Monroe,@,Ohio State,L 31-71,200,10,54,.185,7,36,.194,3,18,.167,8,9,.889,31
+79125,2014-03-13,Rutgers,N,Louisville,L 31-92,200,12,50,.240,9,34,.265,3,16,.188,4,8,.500,31
+79126,2014-11-14,Northern Kentucky,@,Wisconsin,L 31-62,200,14,53,.264,12,37,.324,2,16,.125,1,5,.200,31
+79127,2015-02-21,Chicago State,@,Seattle,L 31-57,200,10,48,.208,5,23,.217,5,25,.200,6,11,.545,31
+79128,2010-11-13,Saint Peter's,@,Robert Morris,L 30-55,200,6,36,.167,4,20,.200,2,16,.125,16,32,.500,30
+79129,2011-03-05,Louisiana Tech,,Utah State,L 30-72,200,10,56,.179,10,42,.238,0,14,.000,10,16,.625,30
+79130,2012-01-05,Louisiana-Monroe,@,Florida Atlantic,L 30-58,200,8,41,.195,5,28,.179,3,13,.231,11,14,.786,30
+79131,2012-11-14,UC-Riverside,,Fresno State,L 30-39,200,12,49,.245,10,30,.333,2,19,.105,4,12,.333,30
+79132,2014-11-20,Grambling,@,Purdue,L 30-82,200,11,41,.268,7,26,.269,4,15,.267,4,12,.333,30
+79133,2012-02-15,Southern Methodist,,Alabama-Birmingham,L 28-47,200,8,46,.174,5,17,.294,3,29,.103,9,14,.643,28
+79134,2014-11-23,Montana State,@,Kentucky,L 28-86,200,12,61,.197,10,38,.263,2,23,.087,2,2,1.000,28
+79135,2015-01-22,Georgia Tech,@,Virginia,L 28-57,200,12,49,.245,12,37,.324,0,12,.000,4,8,.500,28
+79136,2011-11-22,Arkansas State,@,Louisville,L 27-54,200,10,41,.244,9,31,.290,1,10,.100,6,18,.333,27
+79137,2012-01-04,Towson,@,Drexel,L 27-60,200,8,37,.216,5,24,.208,3,13,.231,8,12,.667,27
+79138,2014-11-20,Cal State Bakersfield,@,San Diego State,L 27-51,200,12,56,.214,11,36,.306,1,20,.050,2,5,.400,27
+79139,2014-12-13,Texas State,@,Texas,L 27-59,200,11,51,.216,9,39,.231,2,12,.167,3,10,.300,27
+79140,2014-12-21,Harvard,@,Virginia,L 27-76,200,8,50,.160,6,39,.154,2,11,.182,9,22,.409,27
+79141,2015-03-07,Abilene Christian,@,Texas A&M-Corpus Christi,L 27-58,200,9,48,.188,7,28,.250,2,20,.100,7,9,.778,27
+79142,2017-02-04,San Diego,,Saint Mary's (CA),L 27-71,200,9,46,.196,3,20,.150,6,26,.231,3,5,.600,27
+79143,2012-12-15,UC-Riverside,@,Southern California,L 26-70,200,11,58,.190,10,44,.227,1,14,.071,3,10,.300,26
+79144,2014-11-24,Savannah State,@,Louisville,L 26-87,200,10,51,.196,10,35,.286,0,16,.000,6,12,.500,26
+79145,2014-11-29,Rutgers,N,Virginia,L 26-45,200,12,48,.250,12,35,.343,0,13,.000,2,3,.667,26
+79146,2013-01-26,Northern Illinois,@,Eastern Michigan,L 25-42,200,8,61,.131,7,28,.250,1,33,.030,8,15,.533,25
+79147,2014-01-02,Washington State,@,Arizona,L 25-60,200,9,45,.200,7,33,.212,2,12,.167,5,13,.385,25
+79148,2015-12-29,Arkansas-Pine Bluff,@,Missouri,L 25-78,200,8,52,.154,2,33,.061,6,19,.316,3,15,.200,25
+
+
+Provided by <a href="http://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">CBB at Sports Reference</a>: <a href="http://www.sports-reference.com/cbb/play-index/tgl_finder.cgi?request=1&player=&match=game&year_min=2011&year_max=2017&school_id=&opp_id=&game_type=A&is_range=N&best_of=&game_num_type=&game_num_min=&game_num_max=&game_month=&game_location=&game_result=&is_overtime=&comp_schl_rk=eq&comp_opp_rk=eq&val_schl_rk=ANY&val_opp_rk=ANY&c1stat=&c1comp=&c1val=&c2stat=&c2comp=&c2val=&c3stat=&c3comp=&c3val=&c4stat=&c4comp=&c4val=&order_by=pts&order_by_asc=&offset=79100&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#stats">View Original Table</a><br>Generated 3/14/2017.
