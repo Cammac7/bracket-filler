@@ -1,0 +1,2051 @@
+YEAR,ROUND,SEED,TEAM,OPP_SEED,OPPONENT,RESULT
+2016,1,2,Villanova,15,UNC Asheville,LOSS
+2016,1,7,Iowa,10,Temple,LOSS
+2016,1,3,Miami (Fla.),14,Buffalo,LOSS
+2016,0,11,Wichita State,11,Vanderbilt,WIN
+2016,1,4,California,13,Hawaii,WIN
+2016,1,5,Maryland,12,South Dakota State,WIN
+2016,1,8,Colorado,9,Connecticut,WIN
+2016,1,1,Kansas,16,Austin Peay,LOSS
+2016,1,2,Oklahoma,15,Cal State Bakersfied,WIN
+2016,1,7,Oregon State,10,Virginia Commonwealth,WIN
+2016,1,3,Texas A&M,14,Green Bay,LOSS
+2016,1,6,Texas,11,Northern Iowa,WIN
+2016,1,4,Duke,13,UNC Wilmington,LOSS
+2016,1,12,Yale,5,Baylor,WIN
+2016,1,8,St. Joseph's,9,Cincinnati,WIN
+2016,1,2,Xavier,15,Weber State,LOSS
+2016,1,10,Pittsburgh,7,Wisconsin,LOSS
+2016,1,3,West Virginia,14,Stephen F. Austin,LOSS
+2016,1,4,Kentucky,13,Stony Brook,WIN
+2016,1,5,Indiana,12,Chattanooga,WIN
+2016,1,8,Southern California,9,Providence,WIN
+2016,1,1,North Carolina,16,Florida Gulf Coast,WIN
+2016,1,1,Virginia,16,Hampton,LOSS
+2016,1,8,Texas Tech,9,Butler,LOSS
+2016,1,5,Purdue,12,Arkansas-Little Rock,WIN
+2016,1,4,Iowa State,13,Iona,WIN
+2016,1,6,Seton Hall,11,Gonzaga,WIN
+2016,1,3,Utah,14,Fresno State,WIN
+2016,1,7,Dayton,10,Syracuse,WIN
+2016,1,2,Michigan State,15,Middle Tennessee State,WIN
+2016,0,16,Fairleigh Dickinson,16,Florida Gulf Coast,WIN
+2016,0,16,Holy Cross,16,Southern,WIN
+2016,0,11,Tulsa,11,Michigan,LOSS
+2016,1,6,Arizona,11,Wichita State,WIN
+2016,1,1,Oregon,16,Holy Cross,WIN
+2016,1,6,Notre Dame,11,Michigan,WIN
+2016,2,1,Kansas,9,Connecticut,LOSS
+2016,2,11,Wichita State,3,Miami (Fla.),LOSS
+2016,2,12,Yale,4,Duke,WIN
+2016,2,1,North Carolina,9,Providence,LOSS
+2016,2,5,Indiana,4,Kentucky,WIN
+2016,2,1,Virginia,9,Butler,WIN
+2016,2,12,Arkansas-Little Rock,4,Iowa State,WIN
+2016,2,11,Gonzaga,3,Utah,WIN
+2016,2,2,Villanova,7,Iowa,WIN
+2016,2,6,Notre Dame,14,Stephen F. Austin,LOSS
+2016,2,2,Oklahoma,10,Virginia Commonwealth,WIN
+2016,2,10,Syracuse,15,Middle Tennessee State,WIN
+2016,2,5,Maryland,13,Hawaii,LOSS
+2016,2,3,Texas A&M,11,Northern Iowa,WIN
+2016,2,2,Xavier,7,Wisconsin,WIN
+2016,2,1,Oregon,8,St. Joseph's,WIN
+2016,3,1,Oregon,4,Duke,LOSS
+2016,3,3,Texas A&M,2,Oklahoma,LOSS
+2016,3,1,Virginia,4,Iowa State,WIN
+2016,3,11,Gonzaga,10,Syracuse,WIN
+2016,3,1,Kansas,5,Maryland,WIN
+2016,3,3,Miami (Fla.),2,Villanova,LOSS
+2016,3,1,North Carolina,5,Indiana,WIN
+2016,3,6,Notre Dame,7,Wisconsin,LOSS
+2016,4,1,Oregon,2,Oklahoma,LOSS
+2016,4,1,Kansas,2,Villanova,LOSS
+2016,4,1,Virginia,10,Syracuse,WIN
+2016,4,1,North Carolina,6,Notre Dame,WIN
+2016,5,2,Villanova,2,Oklahoma,LOSS
+2016,5,1,North Carolina,10,Syracuse,WIN
+2016,6,2,Villanova,1,North Carolina,WIN
+2015,0,16,Manhattan,16,Hampton,WIN
+2015,0,11,Mississippi,11,Brigham Young,LOSS
+2015,0,16,Robert Morris,16,North Florida,WIN
+2015,0,11,Dayton,11,Boise State,WIN
+2015,1,8,Cincinnati,9,Purdue,LOSS
+2015,1,12,Buffalo,5,West Virginia,WIN
+2015,1,4,Maryland,13,Valparaiso,WIN
+2015,1,6,Butler,11,Texas,WIN
+2015,1,3,Notre Dame,14,Northeastern,LOSS
+2015,1,7,Wichita State,10,Indiana,WIN
+2015,1,2,Kansas,15,New Mexico State,WIN
+2015,1,1,Villanova,16,Lafayette,WIN
+2015,1,8,North Carolina State,9,LSU,LOSS
+2015,1,5,Northern Iowa,12,Wyoming,LOSS
+2015,1,4,Louisville,13,UC Irvine,WIN
+2015,1,3,Oklahoma,14,Albany (N.Y.),LOSS
+2015,1,7,Michigan State,10,Georgia,LOSS
+2015,1,2,Virginia,15,Belmont,WIN
+2015,1,1,Wisconsin,16,Coastal Carolina,LOSS
+2015,1,8,Oregon,9,Oklahoma State,WIN
+2015,1,4,North Carolina,13,Harvard,WIN
+2015,1,3,Baylor,14,Georgia State,WIN
+2015,1,7,Virginia Commonwealth,10,Ohio State,WIN
+2015,1,2,Arizona,15,Texas Southern,LOSS
+2015,1,8,San Diego State,9,St. John's,WIN
+2015,1,5,Utah,12,Stephen F. Austin,WIN
+2015,1,4,Georgetown,13,Eastern Washington,WIN
+2015,1,6,Southern Methodist,11,UCLA,LOSS
+2015,1,3,Iowa State,14,Alabama-Birmingham,WIN
+2015,1,7,Iowa,10,Davidson,LOSS
+2015,1,2,Gonzaga,15,North Dakota State,WIN
+2015,1,1,Kentucky,16,Hampton,WIN
+2015,1,6,Xavier,11,Mississippi,WIN
+2015,1,6,Providence,11,Dayton,WIN
+2015,1,1,Duke,16,Robert Morris,WIN
+2015,2,6,Butler,3,Notre Dame,WIN
+2015,2,11,UCLA,14,Alabama-Birmingham,WIN
+2015,2,6,Xavier,14,Georgia State,WIN
+2015,2,10,Ohio State,2,Arizona,LOSS
+2015,2,1,Villanova,8,North Carolina State,WIN
+2015,2,5,Arkansas,4,North Carolina,WIN
+2015,2,1,Kentucky,8,Cincinnati,WIN
+2015,2,5,Utah,4,Georgetown,WIN
+2015,2,7,Wichita State,2,Kansas,WIN
+2015,2,7,Michigan State,2,Virginia,LOSS
+2015,2,5,Northern Iowa,4,Louisville,WIN
+2015,2,5,West Virginia,4,Maryland,WIN
+2015,2,1,Wisconsin,8,Oregon,LOSS
+2015,2,1,Duke,8,San Diego State,WIN
+2015,2,7,Iowa,2,Gonzaga,LOSS
+2015,2,11,Dayton,3,Oklahoma,WIN
+2015,3,11,UCLA,2,Gonzaga,LOSS
+2015,3,1,Kentucky,5,West Virginia,LOSS
+2015,3,6,Xavier,2,Arizona,LOSS
+2015,3,8,North Carolina State,4,Louisville,LOSS
+2015,3,1,Duke,5,Utah,LOSS
+2015,3,1,Wisconsin,4,North Carolina,WIN
+2015,3,3,Notre Dame,7,Wichita State,LOSS
+2015,3,3,Oklahoma,7,Michigan State,WIN
+2015,4,1,Wisconsin,2,Arizona,LOSS
+2015,4,1,Kentucky,3,Notre Dame,LOSS
+2015,5,1,Kentucky,1,Wisconsin,LOSS
+2015,4,7,Michigan State,4,Louisville,WIN
+2015,4,1,Duke,2,Gonzaga,LOSS
+2015,5,7,Michigan State,1,Duke,WIN
+2015,6,1,Wisconsin,1,Duke,LOSS
+2015,1,5,Arkansas,12,Wofford,LOSS
+2014,0,16,Albany (N.Y.),16,Mount St. Mary's,LOSS
+2014,1,1,Florida,16,Albany (N.Y.),LOSS
+2014,1,8,Gonzaga,9,Oklahoma State,LOSS
+2014,1,8,Colorado,9,Pittsburgh,LOSS
+2014,1,5,Oklahoma,12,North Dakota State,WIN
+2014,1,5,Virginia Commonwealth,12,Stephen F. Austin,LOSS
+2014,1,4,San Diego State,13,New Mexico State,WIN
+2014,1,4,UCLA,13,Tulsa,WIN
+2014,1,6,Baylor,11,Nebraska,LOSS
+2014,1,6,Ohio State,11,Dayton,WIN
+2014,1,3,Creighton,14,Louisiana-Lafayette,WIN
+2014,1,3,Syracuse,14,Western Michigan,LOSS
+2014,1,7,Oregon,10,Brigham Young,WIN
+2014,1,7,New Mexico,10,Stanford,LOSS
+2014,1,2,Kansas,15,Eastern Kentucky,LOSS
+2014,1,2,Wisconsin,15,American,WIN
+2014,0,16,Cal-Poly,16,Texas Southern,WIN
+2014,1,1,Virginia,16,Coastal Carolina,WIN
+2014,0,12,North Carolina State,12,Xavier,WIN
+2014,1,8,Memphis,9,George Washington,WIN
+2014,0,11,Iowa,11,Tennessee,LOSS
+2014,1,5,Cincinnati,12,Harvard,WIN
+2014,1,4,Michigan State,13,Delaware,WIN
+2014,1,6,North Carolina,11,Providence,WIN
+2014,1,1,Wichita State,16,Cal-Poly,WIN
+2014,1,8,Kentucky,9,Kansas State,WIN
+2014,1,3,Iowa State,14,North Carolina Central,LOSS
+2014,1,5,St. Louis,12,North Carolina State,WIN
+2014,1,7,Connecticut,10,St. Joseph's,LOSS
+2014,1,2,Villanova,15,Milwaukee,WIN
+2014,1,4,Louisville,13,Manhattan,LOSS
+2014,1,6,Massachusetts,11,Tennessee,WIN
+2014,1,3,Duke,14,Mercer,LOSS
+2014,1,7,Texas,10,Arizona State,WIN
+2014,1,2,Michigan,15,Wofford,WIN
+2014,1,1,Arizona,16,Weber State,WIN
+2014,2,11,Dayton,3,Syracuse,WIN
+2014,2,7,Oregon,2,Wisconsin,LOSS
+2014,2,1,Florida,9,Pittsburgh,WIN
+2014,2,12,Harvard,4,Michigan State,WIN
+2014,2,7,Texas,2,Michigan,WIN
+2014,2,7,Connecticut,2,Villanova,LOSS
+2014,2,5,St. Louis,4,Louisville,LOSS
+2014,2,12,North Dakota State,4,San Diego State,WIN
+2014,2,11,Tennessee,14,Mercer,LOSS
+2014,2,6,Baylor,3,Creighton,WIN
+2014,2,10,Stanford,2,Kansas,WIN
+2014,2,1,Arizona,8,Gonzaga,WIN
+2014,2,1,Virginia,8,Memphis,LOSS
+2014,2,6,North Carolina,10,Iowa State,WIN
+2014,2,1,Wichita State,8,Kentucky,LOSS
+2014,2,12,Stephen F. Austin,6,UCLA,WIN
+2014,3,1,Florida,4,UCLA,LOSS
+2014,3,8,Kentucky,4,Louisville,WIN
+2014,3,11,Tennessee,2,Michigan,LOSS
+2014,3,1,Arizona,4,San Diego State,WIN
+2014,3,11,Dayton,10,Stanford,LOSS
+2014,3,6,Baylor,2,Wisconsin,WIN
+2014,3,1,Virginia,4,Michigan State,WIN
+2014,3,3,Iowa State,7,Connecticut,LOSS
+2014,4,1,Florida,11,Dayton,WIN
+2014,4,1,Arizona,2,Wisconsin,LOSS
+2014,4,4,Michigan State,7,Connecticut,LOSS
+2014,4,8,Kentucky,2,Michigan,WIN
+2014,5,1,Florida,7,Connecticut,LOSS
+2014,5,2,Wisconsin,8,Kentucky,WIN
+2014,6,7,Connecticut,8,Kentucky,LOSS
+2013,0,16,North Carolina A&T,16,Liberty,WIN
+2013,1,1,Louisville,16,North Carolina A&T,LOSS
+2013,1,8,Colorado State,9,Missouri,WIN
+2013,1,5,Oklahoma State,12,Oregon,WIN
+2013,1,4,St. Louis,13,New Mexico State,LOSS
+2013,0,11,Middle Tennessee State,11,St. Mary's (Cal.),LOSS
+2013,1,6,Memphis,11,St. Mary's (Cal.),LOSS
+2013,1,3,Michigan State,14,Valparaiso,WIN
+2013,1,1,Kansas,16,Western Kentucky,LOSS
+2013,1,7,Creighton,10,Cincinnati,LOSS
+2013,1,2,Duke,15,Albany (N.Y.),LOSS
+2013,1,8,North Carolina,9,Villanova,WIN
+2013,1,5,Virginia Commonwealth,12,Akron,LOSS
+2013,1,4,Michigan,13,South Dakota State,WIN
+2013,1,6,UCLA,11,Minnesota,LOSS
+2013,1,3,Florida,14,Northwestern State,LOSS
+2013,1,7,San Diego State,10,Oklahoma,LOSS
+2013,1,2,Georgetown,15,Florida Gulf Coast,WIN
+2013,0,16,Long Island,16,James Madison,LOSS
+2013,1,1,Gonzaga,16,Southern,LOSS
+2013,1,1,Indiana,16,James Madison,LOSS
+2013,1,8,Pittsburgh,9,Wichita State,LOSS
+2013,1,8,North Carolina State,9,Temple,WIN
+2013,1,5,Wisconsin,12,Mississippi,LOSS
+2013,1,5,UNLV,12,California,WIN
+2013,1,4,Kansas State,13,La Salle,LOSS
+2013,1,4,Syracuse,13,Montana,WIN
+2013,1,6,Butler,11,Bucknell,LOSS
+2013,0,13,Boise State,13,La Salle,LOSS
+2013,1,3,Marquette,14,Davidson,WIN
+2013,1,7,Illinois,10,Colorado,LOSS
+2013,1,6,Arizona,11,Belmont,LOSS
+2013,1,2,Miami (Fla.),15,Pacific,LOSS
+2013,1,3,New Mexico,14,Harvard,LOSS
+2013,1,7,Notre Dame,10,Iowa State,WIN
+2013,1,2,Ohio State,15,Iona,LOSS
+2013,2,6,Memphis,3,Michigan State,WIN
+2013,2,6,Butler,3,Marquette,WIN
+2013,2,1,Gonzaga,9,Wichita State,WIN
+2013,2,12,Oregon,4,St. Louis,LOSS
+2013,2,1,Louisville,8,Colorado State,WIN
+2013,2,5,Virginia Commonwealth,4,Michigan,WIN
+2013,2,6,Arizona,14,Harvard,LOSS
+2013,2,12,California,4,Syracuse,LOSS
+2013,2,7,Creighton,2,Duke,WIN
+2013,2,12,Mississippi,13,La Salle,LOSS
+2013,2,1,Indiana,9,Temple,WIN
+2013,2,7,Illinois,2,Miami (Fla.),WIN
+2013,2,7,San Diego State,15,Florida Gulf Coast,WIN
+2013,2,10,Iowa State,2,Ohio State,WIN
+2013,2,1,Kansas,8,North Carolina,WIN
+2013,2,11,Minnesota,3,Florida,LOSS
+2013,3,1,Kansas,4,Michigan,WIN
+2013,3,3,Michigan State,2,Duke,WIN
+2013,3,1,Louisville,12,Oregon,LOSS
+2013,3,6,Arizona,2,Ohio State,WIN
+2013,3,3,Marquette,2,Miami (Fla.),WIN
+2013,3,9,Wichita State,13,La Salle,WIN
+2013,3,1,Indiana,4,Syracuse,WIN
+2013,3,3,Florida,15,Florida Gulf Coast,LOSS
+2013,4,4,Syracuse,3,Marquette,WIN
+2013,4,9,Wichita State,2,Ohio State,WIN
+2013,4,1,Louisville,2,Duke,WIN
+2013,4,4,Michigan,3,Florida,WIN
+2013,5,4,Michigan,4,Syracuse,LOSS
+2013,5,1,Louisville,9,Wichita State,WIN
+2013,6,1,Louisville,4,Michigan,WIN
+2012,6,1,Kentucky,2,Kansas,WIN
+2012,5,1,Kentucky,4,Louisville,WIN
+2012,5,2,Ohio State,2,Kansas,WIN
+2012,4,1,Kentucky,3,Baylor,WIN
+2012,4,1,North Carolina,2,Kansas,WIN
+2012,4,4,Louisville,7,Florida,WIN
+2012,4,1,Syracuse,2,Ohio State,WIN
+2012,3,3,Baylor,10,Xavier,WIN
+2012,3,1,North Carolina,13,Ohio,WIN
+2012,3,1,Kentucky,4,Indiana,WIN
+2012,3,11,North Carolina State,2,Kansas,WIN
+2012,3,1,Syracuse,4,Wisconsin,WIN
+2012,3,1,Michigan State,4,Louisville,WIN
+2012,3,6,Cincinnati,2,Ohio State,WIN
+2012,3,3,Marquette,7,Florida,WIN
+2012,2,11,North Carolina State,3,Georgetown,LOSS
+2012,2,1,Michigan State,9,St. Louis,WIN
+2012,2,1,North Carolina,8,Creighton,LOSS
+2012,2,7,Florida,15,Norfolk State,WIN
+2012,2,12,South Florida,13,Ohio,WIN
+2012,2,10,Purdue,2,Kansas,WIN
+2012,2,6,Cincinnati,3,Florida State,WIN
+2012,2,10,Xavier,15,Lehigh,WIN
+2012,2,1,Syracuse,8,Kansas State,LOSS
+2012,2,7,Gonzaga,2,Ohio State,LOSS
+2012,2,6,Murray St.,3,Marquette,WIN
+2012,2,5,Vanderbilt,4,Wisconsin,LOSS
+2012,2,12,Virginia Commonwealth,4,Indiana,WIN
+2012,2,1,Kentucky,8,Iowa State,WIN
+2012,2,11,Colorado,3,Baylor,WIN
+2012,2,5,New Mexico,4,Louisville,LOSS
+2012,1,6,Cincinnati,11,Texas,WIN
+2012,1,8,Creighton,9,Alabama,WIN
+2012,1,6,San Diego State,11,North Carolina State,WIN
+2012,1,7,Florida,10,Virginia,WIN
+2012,1,3,Florida State,14,St. Bonaventure,WIN
+2012,1,3,Georgetown,14,Belmont,LOSS
+2012,1,1,North Carolina,16,Vermont,WIN
+2012,1,2,Missouri,15,Norfolk State,WIN
+2012,1,4,Michigan,13,Ohio,WIN
+2012,1,7,St. Mary's (Cal.),10,Purdue,WIN
+2012,1,2,Duke,15,Lehigh,WIN
+2012,1,1,Michigan State,16,Long Island,WIN
+2012,1,7,Notre Dame,10,Xavier,WIN
+2012,1,2,Kansas,15,Detroit,WIN
+2012,1,5,Temple,12,South Florida,LOSS
+2012,1,8,Memphis,9,St. Louis,WIN
+2012,1,6,Murray St.,11,Colorado State,WIN
+2012,1,4,Louisville,13,Davidson,LOSS
+2012,1,8,Kansas State,9,Southern Mississippi,WIN
+2012,1,4,Wisconsin,13,Montana,WIN
+2012,1,3,Marquette,14,Brigham Young,LOSS
+2012,1,1,Syracuse,16,UNC Asheville,WIN
+2012,1,5,New Mexico,12,Long Beach State,WIN
+2012,1,5,Vanderbilt,12,Harvard,WIN
+2012,1,1,Kentucky,16,Western Kentucky,WIN
+2012,1,5,Wichita State,12,Virginia Commonwealth,LOSS
+2012,1,7,Gonzaga,10,West Virginia,WIN
+2012,1,2,Ohio State,15,Loyola (Md.),WIN
+2012,1,8,Iowa State,9,Connecticut,LOSS
+2012,1,4,Indiana,13,New Mexico State,WIN
+2012,1,6,UNLV,11,Colorado,WIN
+2012,1,3,Baylor,14,South Dakota State,LOSS
+2012,0,16,Lamar,16,Vermont,LOSS
+2012,0,12,California,12,South Florida,WIN
+2012,0,16,Mississippi Valley State,16,Western Kentucky,LOSS
+2012,0,14,Brigham Young,14,Iona,WIN
+2011,6,3,Connecticut,8,Butler,WIN
+2011,5,11,Virginia Commonwealth,8,Butler,WIN
+2011,5,4,Kentucky,3,Connecticut,WIN
+2011,4,4,Kentucky,2,North Carolina,WIN
+2011,4,1,Kansas,11,Virginia Commonwealth,WIN
+2011,4,8,Butler,2,Florida,WIN
+2011,4,5,Arizona,3,Connecticut,WIN
+2011,3,1,Kansas,12,Richmond,LOSS
+2011,3,11,Marquette,2,North Carolina,WIN
+2011,3,1,Ohio State,4,Kentucky,WIN
+2011,3,11,Virginia Commonwealth,10,Florida State,LOSS
+2011,3,3,Brigham Young,2,Florida,LOSS
+2011,3,3,Connecticut,2,San Diego State,WIN
+2011,3,1,Duke,5,Arizona,WIN
+2011,3,8,Butler,4,Wisconsin,WIN
+2011,2,1,Duke,8,Michigan,LOSS
+2011,2,7,Washington,2,North Carolina,WIN
+2011,2,1,Kansas,9,Illinois,WIN
+2011,2,11,Marquette,3,Syracuse,WIN
+2011,2,1,Ohio State,8,George Mason,WIN
+2011,2,11,Virginia Commonwealth,3,Purdue,WIN
+2011,2,5,Arizona,4,Texas,WIN
+2011,2,10,Florida State,2,Notre Dame,LOSS
+2011,2,5,West Virginia,4,Kentucky,WIN
+2011,2,7,UCLA,2,Florida,WIN
+2011,2,12,Richmond,13,Morehead State,LOSS
+2011,2,7,Temple,2,San Diego State,LOSS
+2011,2,11,Gonzaga,3,Brigham Young,LOSS
+2011,2,6,Cincinnati,3,Connecticut,LOSS
+2011,2,5,Kansas State,4,Wisconsin,WIN
+2011,2,1,Pittsburgh,8,Butler,LOSS
+2011,1,4,Texas,13,Oakland,LOSS
+2011,1,2,Notre Dame,15,Akron,LOSS
+2011,1,1,Duke,16,Hampton,LOSS
+2011,1,5,Arizona,12,Memphis,LOSS
+2011,1,7,Texas A&M,10,Florida State,WIN
+2011,1,8,George Mason,9,Villanova,WIN
+2011,1,8,Michigan,9,Tennessee,LOSS
+2011,1,3,Purdue,14,St. Peter's,WIN
+2011,1,2,North Carolina,15,Long Island,LOSS
+2011,1,6,Xavier,11,Marquette,LOSS
+2011,1,1,Kansas,16,Boston University,WIN
+2011,1,8,UNLV,9,Illinois,WIN
+2011,1,3,Syracuse,14,Indiana State,WIN
+2011,1,1,Ohio State,16,Texas-San Antonio,WIN
+2011,1,7,Washington,10,Georgia,LOSS
+2011,1,6,Georgetown,11,Virginia Commonwealth,LOSS
+2011,1,5,West Virginia,12,Clemson,WIN
+2011,1,4,Louisville,13,Morehead State,WIN
+2011,1,4,Kentucky,13,Princeton,LOSS
+2011,1,7,Temple,10,Penn State,WIN
+2011,1,5,Vanderbilt,12,Richmond,WIN
+2011,1,2,San Diego State,15,Northern Colorado,WIN
+2011,1,6,St. John's,11,Gonzaga,WIN
+2011,1,5,Kansas State,12,Utah State,WIN
+2011,1,4,Wisconsin,13,Belmont,LOSS
+2011,1,3,Brigham Young,14,Wofford,WIN
+2011,1,2,Florida,15,UC Santa Barbara,LOSS
+2011,1,7,UCLA,10,Michigan State,LOSS
+2011,1,8,Butler,9,Old Dominion,WIN
+2011,1,1,Pittsburgh,16,UNC Asheville,LOSS
+2011,1,3,Connecticut,14,Bucknell,LOSS
+2011,1,6,Cincinnati,11,Missouri,WIN
+2011,0,16,Texas-San Antonio,16,Alabama State,WIN
+2011,0,11,Southern California,11,Virginia Commonwealth,WIN
+2011,0,16,UNC Asheville,16,Arkansas-Little Rock,WIN
+2011,0,12,Alabama-Birmingham,12,Clemson,WIN
+2010,6,5,Butler,1,Duke,WIN
+2010,5,5,Michigan State,5,Butler,WIN
+2010,5,2,West Virginia,1,Duke,WIN
+2010,4,1,Duke,3,Baylor,WIN
+2010,4,5,Michigan State,6,Tennessee,WIN
+2010,4,1,Kentucky,2,West Virginia,WIN
+2010,4,5,Butler,2,Kansas State,WIN
+2010,3,9,Northern Iowa,5,Michigan State,WIN
+2010,3,1,Duke,4,Purdue,LOSS
+2010,3,3,Baylor,10,St. Mary's (Cal.),LOSS
+2010,3,6,Tennessee,2,Ohio State,WIN
+2010,3,11,Washington,2,West Virginia,WIN
+2010,3,1,Syracuse,5,Butler,WIN
+2010,3,1,Kentucky,12,Cornell,LOSS
+2010,3,6,Xavier,2,Kansas State,WIN
+2010,2,10,Missouri,2,West Virginia,WIN
+2010,2,12,Cornell,4,Wisconsin,WIN
+2010,2,6,Xavier,3,Pittsburgh,LOSS
+2010,2,1,Syracuse,8,Gonzaga,WIN
+2010,2,10,Georgia Tech,2,Ohio State,WIN
+2010,2,5,Michigan State,4,Maryland,WIN
+2010,2,5,Texas A&M,4,Purdue,LOSS
+2010,2,1,Duke,8,California,WIN
+2010,2,10,St. Mary's (Cal.),2,Villanova,WIN
+2010,2,7,Brigham Young,2,Kansas State,WIN
+2010,2,5,Butler,13,Murray St.,WIN
+2010,2,1,Kansas,9,Northern Iowa,LOSS
+2010,2,1,Kentucky,9,Wake Forest,WIN
+2010,2,11,Washington,3,New Mexico,WIN
+2010,2,11,Old Dominion,3,Baylor,LOSS
+2010,2,6,Tennessee,14,Ohio,WIN
+2010,1,5,Michigan State,12,New Mexico State,LOSS
+2010,1,4,Maryland,13,Houston,LOSS
+2010,1,1,Syracuse,16,Vermont,LOSS
+2010,1,2,Ohio State,15,UC Santa Barbara,WIN
+2010,1,7,Clemson,10,Missouri,LOSS
+2010,1,4,Purdue,13,Siena,WIN
+2010,1,7,Oklahoma State,10,Georgia Tech,WIN
+2010,1,8,Gonzaga,9,Florida State,LOSS
+2010,1,4,Wisconsin,13,Wofford,WIN
+2010,1,5,Texas A&M,12,Utah State,WIN
+2010,1,5,Temple,12,Cornell,WIN
+2010,1,8,California,9,Louisville,LOSS
+2010,1,3,Pittsburgh,14,Oakland,WIN
+2010,1,1,Duke,16,Arkansas-Pine Bluff,LOSS
+2010,1,6,Xavier,11,Minnesota,LOSS
+2010,1,2,West Virginia,15,Morgan State,LOSS
+2010,1,2,Kansas State,15,North Texas,WIN
+2010,1,4,Vanderbilt,13,Murray St.,WIN
+2010,1,7,Brigham Young,10,Florida,LOSS
+2010,1,5,Butler,12,UTEP,WIN
+2010,1,3,New Mexico,14,Montana,LOSS
+2010,1,1,Kentucky,16,East Tennessee State,LOSS
+2010,1,8,Texas,9,Wake Forest,WIN
+2010,1,6,Notre Dame,11,Old Dominion,WIN
+2010,1,3,Baylor,14,Sam Houston State,WIN
+2010,1,7,Richmond,10,St. Mary's (Cal.),LOSS
+2010,1,2,Villanova,15,Robert Morris,WIN
+2010,1,6,Marquette,11,Washington,WIN
+2010,1,1,Kansas,16,Lehigh,LOSS
+2010,1,8,UNLV,9,Northern Iowa,WIN
+2010,1,3,Georgetown,14,Ohio,WIN
+2010,1,6,Tennessee,11,San Diego State,LOSS
+2010,0,16,Arkansas-Pine Bluff,16,Winthrop,LOSS
+2009,6,2,Michigan State,1,North Carolina,WIN
+2009,5,2,Michigan State,1,Connecticut,LOSS
+2009,5,3,Villanova,1,North Carolina,WIN
+2009,4,1,North Carolina,2,Oklahoma,LOSS
+2009,4,1,Louisville,2,Michigan State,WIN
+2009,4,1,Connecticut,3,Missouri,LOSS
+2009,4,1,Pittsburgh,3,Villanova,WIN
+2009,3,1,Louisville,12,Arizona,WIN
+2009,3,3,Kansas,2,Michigan State,LOSS
+2009,3,1,North Carolina,4,Gonzaga,LOSS
+2009,3,3,Syracuse,2,Oklahoma,LOSS
+2009,3,1,Connecticut,5,Purdue,WIN
+2009,3,3,Missouri,2,Memphis,WIN
+2009,3,1,Pittsburgh,4,Xavier,LOSS
+2009,3,3,Villanova,2,Duke,WIN
+2009,2,1,Louisville,9,Siena,LOSS
+2009,2,10,Southern California,2,Michigan State,WIN
+2009,2,12,Arizona,13,Cleveland State,LOSS
+2009,2,12,Wisconsin,4,Xavier,WIN
+2009,2,6,Arizona State,3,Syracuse,LOSS
+2009,2,11,Dayton,3,Kansas,WIN
+2009,2,1,Pittsburgh,8,Oklahoma State,LOSS
+2009,2,6,Marquette,3,Missouri,WIN
+2009,2,6,UCLA,3,Villanova,LOSS
+2009,2,1,Connecticut,9,Texas A&M,WIN
+2009,2,1,North Carolina,8,LSU,WIN
+2009,2,5,Purdue,4,Washington,WIN
+2009,2,10,Michigan,2,Oklahoma,LOSS
+2009,2,12,Western Kentucky,4,Gonzaga,WIN
+2009,2,7,Texas,2,Duke,WIN
+2009,2,10,Maryland,2,Memphis,LOSS
+2009,1,5,Florida State,12,Wisconsin,LOSS
+2009,1,6,West Virginia,11,Dayton,LOSS
+2009,1,4,Wake Forest,13,Cleveland State,LOSS
+2009,1,7,Boston College,10,Southern California,LOSS
+2009,1,3,Missouri,14,Cornell,LOSS
+2009,1,3,Syracuse,14,Stephen F. Austin,LOSS
+2009,1,6,Arizona State,11,Temple,LOSS
+2009,1,4,Xavier,13,Portland State,LOSS
+2009,1,3,Kansas,14,North Dakota State,LOSS
+2009,1,1,Louisville,16,Morehead State,WIN
+2009,1,6,Marquette,11,Utah State,WIN
+2009,1,8,Ohio State,9,Siena,LOSS
+2009,1,5,Utah,12,Arizona,LOSS
+2009,1,1,Pittsburgh,16,East Tennessee State,LOSS
+2009,1,8,Oklahoma State,9,Tennessee,WIN
+2009,1,2,Michigan State,15,Robert Morris,LOSS
+2009,1,5,Illinois,12,Western Kentucky,LOSS
+2009,1,2,Oklahoma,15,Morgan State,WIN
+2009,1,4,Gonzaga,13,Akron,LOSS
+2009,1,8,LSU,9,Butler,WIN
+2009,1,1,North Carolina,16,Radford,LOSS
+2009,1,7,Clemson,10,Michigan,WIN
+2009,1,2,Duke,15,Binghamton,WIN
+2009,1,7,Texas,10,Minnesota,LOSS
+2009,1,6,UCLA,11,Virginia Commonwealth,WIN
+2009,1,2,Memphis,15,Cal State Northridge,WIN
+2009,1,7,California,10,Maryland,WIN
+2009,1,4,Washington,13,Mississippi State,LOSS
+2009,1,5,Purdue,12,Northern Iowa,LOSS
+2009,1,8,Brigham Young,9,Texas A&M,WIN
+2009,1,1,Connecticut,16,Chattanooga,LOSS
+2009,1,3,Villanova,14,American,WIN
+2009,0,16,Morehead State,16,Alabama State,LOSS
+2008,6,1,Kansas,1,Memphis,WIN
+2008,5,1,Memphis,1,UCLA,LOSS
+2008,5,1,North Carolina,1,Kansas,WIN
+2008,4,1,Memphis,2,Texas,WIN
+2008,4,1,Kansas,10,Davidson,LOSS
+2008,4,1,North Carolina,3,Louisville,LOSS
+2008,4,1,UCLA,3,Xavier,WIN
+2008,3,3,Stanford,2,Texas,WIN
+2008,3,1,Kansas,12,Villanova,LOSS
+2008,3,3,Wisconsin,10,Davidson,WIN
+2008,3,1,Memphis,5,Michigan State,LOSS
+2008,3,1,North Carolina,4,Washington State,WIN
+2008,3,3,Xavier,7,West Virginia,WIN
+2008,3,3,Louisville,2,Tennessee,WIN
+2008,3,1,UCLA,12,Western Kentucky,WIN
+2008,2,12,Villanova,13,Siena,LOSS
+2008,2,12,Western Kentucky,13,San Diego,WIN
+2008,2,6,Oklahoma,3,Louisville,WIN
+2008,2,7,Miami (Fla.),2,Texas,WIN
+2008,2,10,Davidson,2,Georgetown,WIN
+2008,2,1,North Carolina,9,Arkansas,WIN
+2008,2,1,Memphis,8,Mississippi State,WIN
+2008,2,7,Butler,2,Tennessee,WIN
+2008,2,6,Marquette,3,Stanford,WIN
+2008,2,11,Kansas State,3,Wisconsin,LOSS
+2008,2,5,Notre Dame,4,Washington State,WIN
+2008,2,1,Kansas,8,UNLV,LOSS
+2008,2,7,West Virginia,2,Duke,WIN
+2008,2,1,UCLA,9,Texas A&M,WIN
+2008,2,6,Purdue,3,Xavier,WIN
+2008,2,5,Michigan State,4,Pittsburgh,WIN
+2008,1,1,Memphis,16,Texas-Arlington,WIN
+2008,1,2,Tennessee,15,American,LOSS
+2008,1,2,Texas,15,Austin Peay,WIN
+2008,1,2,Georgetown,15,Maryland-Baltimore County,LOSS
+2008,1,3,Louisville,14,Boise State,WIN
+2008,1,1,North Carolina,16,Mount St. Mary's,WIN
+2008,1,4,Vanderbilt,13,Siena,WIN
+2008,1,4,Connecticut,13,San Diego,WIN
+2008,1,6,Oklahoma,11,St. Joseph's,LOSS
+2008,1,8,Mississippi State,9,Oregon,WIN
+2008,1,8,Indiana,9,Arkansas,WIN
+2008,1,7,Gonzaga,10,Davidson,LOSS
+2008,1,7,Butler,10,South Alabama,WIN
+2008,1,5,Drake,12,Western Kentucky,WIN
+2008,1,5,Clemson,12,Villanova,LOSS
+2008,1,7,Miami (Fla.),10,St. Mary's (Cal.),WIN
+2008,1,3,Stanford,14,Cornell,WIN
+2008,1,3,Wisconsin,14,Cal State Fullerton,WIN
+2008,1,8,Brigham Young,9,Texas A&M,LOSS
+2008,1,7,West Virginia,10,Arizona,WIN
+2008,1,4,Washington State,13,Winthrop,WIN
+2008,1,3,Xavier,14,Georgia,LOSS
+2008,1,4,Pittsburgh,13,Oral Roberts,WIN
+2008,1,2,Duke,15,Belmont,LOSS
+2008,1,1,Kansas,16,Portland State,WIN
+2008,1,5,Michigan State,12,Temple,LOSS
+2008,1,5,Notre Dame,12,George Mason,WIN
+2008,1,1,UCLA,16,Mississippi Valley State,LOSS
+2008,1,8,UNLV,9,Kent State,WIN
+2008,1,6,Marquette,11,Kentucky,WIN
+2008,1,6,Purdue,11,Baylor,LOSS
+2008,1,6,Southern California,11,Kansas State,WIN
+2008,0,16,Mount St. Mary's,16,Coppin State,WIN
+2007,6,1,Florida,1,Ohio State,WIN
+2007,5,2,Georgetown,1,Ohio State,WIN
+2007,5,1,Florida,2,UCLA,LOSS
+2007,4,1,North Carolina,2,Georgetown,WIN
+2007,4,1,Florida,3,Oregon,WIN
+2007,4,1,Ohio State,2,Memphis,WIN
+2007,4,1,Kansas,2,UCLA,WIN
+2007,3,6,Vanderbilt,2,Georgetown,WIN
+2007,3,1,North Carolina,5,Southern California,LOSS
+2007,3,3,Oregon,7,UNLV,WIN
+2007,3,1,Florida,5,Butler,WIN
+2007,3,1,Kansas,4,Southern Illinois,WIN
+2007,3,3,Texas A&M,2,Memphis,LOSS
+2007,3,1,Ohio State,5,Tennessee,LOSS
+2007,3,3,Pittsburgh,2,UCLA,LOSS
+2007,2,7,UNLV,2,Wisconsin,WIN
+2007,2,5,Southern California,4,Texas,WIN
+2007,2,5,Tennessee,4,Virginia,WIN
+2007,2,11,Winthrop,3,Oregon,WIN
+2007,2,1,Kansas,8,Kentucky,WIN
+2007,2,5,Virginia Tech,4,Southern Illinois,WIN
+2007,2,1,Florida,9,Purdue,WIN
+2007,2,7,Nevada,2,Memphis,WIN
+2007,2,5,Butler,4,Maryland,WIN
+2007,2,1,Ohio State,9,Xavier,LOSS
+2007,2,6,Louisville,3,Texas A&M,WIN
+2007,2,1,North Carolina,9,Michigan State,WIN
+2007,2,7,Indiana,2,UCLA,LOSS
+2007,2,6,Vanderbilt,3,Washington State,WIN
+2007,2,11,Virginia Commonwealth,3,Pittsburgh,LOSS
+2007,2,7,Boston College,2,Georgetown,WIN
+2007,1,1,Florida,16,Jackson State,WIN
+2007,1,5,Tennessee,12,Long Beach State,WIN
+2007,1,4,Texas,13,New Mexico State,LOSS
+2007,1,4,Virginia,13,Albany (N.Y.),WIN
+2007,1,7,Nevada,10,Creighton,WIN
+2007,1,2,Memphis,15,North Texas,WIN
+2007,1,3,Oregon,14,Miami (Ohio),WIN
+2007,1,7,UNLV,10,Georgia Tech,WIN
+2007,1,2,Wisconsin,15,Texas A&M-Corpus Christi,LOSS
+2007,1,8,Arizona,9,Purdue,WIN
+2007,1,6,Notre Dame,11,Winthrop,WIN
+2007,1,1,Kansas,16,Niagara,LOSS
+2007,1,8,Kentucky,9,Villanova,WIN
+2007,1,5,Virginia Tech,12,Illinois,LOSS
+2007,1,5,Southern California,12,Arkansas,WIN
+2007,1,4,Southern Illinois,13,Holy Cross,LOSS
+2007,1,2,UCLA,15,Weber State,WIN
+2007,1,3,Texas A&M,14,Penn,WIN
+2007,1,3,Pittsburgh,14,Wright State,WIN
+2007,1,6,Vanderbilt,11,George Washington,LOSS
+2007,1,1,North Carolina,16,Eastern Kentucky,WIN
+2007,1,2,Georgetown,15,Belmont,LOSS
+2007,1,6,Duke,11,Virginia Commonwealth,WIN
+2007,1,8,Brigham Young,9,Xavier,WIN
+2007,1,4,Maryland,13,Davidson,WIN
+2007,1,5,Butler,12,Old Dominion,LOSS
+2007,1,3,Washington State,14,Oral Roberts,LOSS
+2007,1,8,Marquette,9,Michigan State,LOSS
+2007,1,7,Boston College,10,Texas Tech,LOSS
+2007,1,1,Ohio State,16,Central Connecticut State,LOSS
+2007,1,7,Indiana,10,Gonzaga,WIN
+2007,1,6,Louisville,11,Stanford,LOSS
+2007,0,16,Niagara,16,Florida A&M,WIN
+2006,6,2,UCLA,3,Florida,WIN
+2006,5,4,LSU,2,UCLA,WIN
+2006,5,11,George Mason,3,Florida,LOSS
+2006,4,1,Villanova,3,Florida,WIN
+2006,4,1,Connecticut,11,George Mason,LOSS
+2006,4,1,Memphis,2,UCLA,WIN
+2006,4,4,LSU,2,Texas,LOSS
+2006,3,1,Villanova,4,Boston College,LOSS
+2006,3,3,Florida,7,Georgetown,LOSS
+2006,3,11,George Mason,7,Wichita State,LOSS
+2006,3,1,Connecticut,5,Washington,WIN
+2006,3,3,Gonzaga,2,UCLA,LOSS
+2006,3,1,Duke,4,LSU,WIN
+2006,3,6,West Virginia,2,Texas,WIN
+2006,3,1,Memphis,13,Bradley,WIN
+2006,2,1,Memphis,9,Bucknell,LOSS
+2006,2,6,West Virginia,14,Northwestern State,LOSS
+2006,2,7,Georgetown,2,Ohio State,LOSS
+2006,2,1,Villanova,8,Arizona,WIN
+2006,2,11,George Mason,3,North Carolina,WIN
+2006,2,1,Connecticut,8,Kentucky,LOSS
+2006,2,5,Pittsburgh,13,Bradley,WIN
+2006,2,10,North Carolina State,2,Texas,WIN
+2006,2,11,Milwaukee,3,Florida,WIN
+2006,2,12,Texas A&M,4,LSU,LOSS
+2006,2,1,Duke,8,George Washington,LOSS
+2006,2,12,Montana,4,Boston College,WIN
+2006,2,5,Washington,4,Illinois,WIN
+2006,2,7,Wichita State,2,Tennessee,LOSS
+2006,2,10,Alabama,2,UCLA,WIN
+2006,2,6,Indiana,3,Gonzaga,WIN
+2006,1,3,Iowa,14,Northwestern State,WIN
+2006,1,1,Connecticut,16,Albany (N.Y.),LOSS
+2006,1,7,Georgetown,10,Northern Iowa,WIN
+2006,1,2,Ohio State,15,Davidson,WIN
+2006,1,8,Arkansas,9,Bucknell,WIN
+2006,1,1,Memphis,16,Oral Roberts,WIN
+2006,1,2,Texas,15,Penn,LOSS
+2006,1,6,West Virginia,11,Southern Illinois,WIN
+2006,1,8,Kentucky,9,Alabama-Birmingham,LOSS
+2006,1,6,Michigan State,11,George Mason,WIN
+2006,1,3,North Carolina,14,Murray St.,WIN
+2006,1,4,Kansas,13,Bradley,WIN
+2006,1,5,Pittsburgh,12,Kent State,WIN
+2006,1,1,Villanova,16,Monmouth,WIN
+2006,1,8,Arizona,9,Wisconsin,WIN
+2006,1,7,California,10,North Carolina State,WIN
+2006,1,4,LSU,13,Iona,WIN
+2006,1,2,UCLA,15,Belmont,WIN
+2006,1,7,Marquette,10,Alabama,LOSS
+2006,1,4,Illinois,13,Air Force,WIN
+2006,1,5,Nevada,12,Montana,WIN
+2006,1,3,Gonzaga,14,Xavier,WIN
+2006,1,5,Syracuse,12,Texas A&M,WIN
+2006,1,8,George Washington,9,UNC Wilmington,WIN
+2006,1,1,Duke,16,Southern,WIN
+2006,1,5,Washington,12,Utah State,WIN
+2006,1,7,Wichita State,10,Seton Hall,WIN
+2006,1,2,Tennessee,15,Winthrop,WIN
+2006,1,4,Boston College,13,Pacific,WIN
+2006,1,6,Oklahoma,11,Milwaukee,WIN
+2006,1,3,Florida,14,South Alabama,LOSS
+2006,1,6,Indiana,11,San Diego State,WIN
+2006,0,16,Monmouth,16,Hampton,WIN
+2005,6,1,Illinois,1,North Carolina,WIN
+2005,5,1,North Carolina,5,Michigan State,LOSS
+2005,5,1,Illinois,4,Louisville,WIN
+2005,4,5,Michigan State,2,Kentucky,LOSS
+2005,4,1,North Carolina,6,Wisconsin,WIN
+2005,4,4,Louisville,7,West Virginia,WIN
+2005,4,1,Illinois,3,Arizona,LOSS
+2005,3,6,Utah,2,Kentucky,WIN
+2005,3,1,North Carolina,5,Villanova,WIN
+2005,3,6,Wisconsin,10,North Carolina State,LOSS
+2005,3,1,Duke,5,Michigan State,WIN
+2005,3,3,Arizona,2,Oklahoma State,WIN
+2005,3,6,Texas Tech,7,West Virginia,WIN
+2005,3,1,Illinois,12,Milwaukee,LOSS
+2005,3,1,Washington,4,Louisville,WIN
+2005,2,1,North Carolina,9,Iowa State,LOSS
+2005,2,5,Villanova,4,Florida,WIN
+2005,2,6,Wisconsin,14,Bucknell,WIN
+2005,2,5,Michigan State,13,Vermont,WIN
+2005,2,10,North Carolina State,2,Connecticut,LOSS
+2005,2,7,Southern Illinois,2,Oklahoma State,WIN
+2005,2,1,Duke,9,Mississippi State,LOSS
+2005,2,5,Georgia Tech,4,Louisville,WIN
+2005,2,11,Alabama-Birmingham,3,Arizona,LOSS
+2005,2,7,West Virginia,2,Wake Forest,LOSS
+2005,2,12,Milwaukee,4,Boston College,WIN
+2005,2,6,Texas Tech,3,Gonzaga,WIN
+2005,2,7,Cincinnati,2,Kentucky,WIN
+2005,2,6,Utah,3,Oklahoma,LOSS
+2005,2,1,Illinois,9,Nevada,WIN
+2005,2,1,Washington,8,Pacific,WIN
+2005,1,7,Southern Illinois,10,St. Mary's (Cal.),WIN
+2005,1,5,Michigan State,12,Old Dominion,WIN
+2005,1,8,Stanford,9,Mississippi State,WIN
+2005,1,1,Duke,16,Delaware State,WIN
+2005,1,2,Connecticut,15,Central Florida,WIN
+2005,1,7,Charlotte,10,North Carolina State,WIN
+2005,1,3,Kansas,14,Bucknell,WIN
+2005,1,4,Syracuse,13,Vermont,WIN
+2005,1,1,North Carolina,16,Oakland,LOSS
+2005,1,2,Wake Forest,15,Chattanooga,WIN
+2005,1,4,Louisville,13,Louisiana-Lafayette,WIN
+2005,1,6,Wisconsin,11,Northern Iowa,WIN
+2005,1,5,Georgia Tech,12,George Washington,WIN
+2005,1,4,Florida,13,Ohio,WIN
+2005,1,5,Villanova,12,New Mexico,LOSS
+2005,1,2,Oklahoma State,15,Southeastern Louisiana,WIN
+2005,1,8,Minnesota,9,Iowa State,WIN
+2005,1,8,Pacific,9,Pittsburgh,WIN
+2005,1,8,Texas,9,Nevada,WIN
+2005,1,6,Utah,11,UTEP,LOSS
+2005,1,1,Illinois,16,Fairleigh Dickinson,WIN
+2005,1,6,Texas Tech,11,UCLA,WIN
+2005,1,4,Boston College,13,Penn,WIN
+2005,1,3,Gonzaga,14,Winthrop,WIN
+2005,1,7,West Virginia,10,Creighton,WIN
+2005,1,5,Alabama,12,Milwaukee,WIN
+2005,1,1,Washington,16,Montana,WIN
+2005,1,2,Kentucky,15,Eastern Kentucky,LOSS
+2005,1,6,LSU,11,Alabama-Birmingham,WIN
+2005,1,3,Arizona,14,Utah State,WIN
+2005,1,7,Cincinnati,10,Iowa,LOSS
+2005,1,3,Oklahoma,14,Niagara,WIN
+2005,0,16,Oakland,16,Alabama A&M,WIN
+2004,6,3,Georgia Tech,2,Connecticut,LOSS
+2004,5,3,Georgia Tech,2,Oklahoma State,WIN
+2004,5,1,Duke,2,Connecticut,LOSS
+2004,4,1,Duke,7,Xavier,WIN
+2004,4,4,Kansas,3,Georgia Tech,LOSS
+2004,4,8,Alabama,2,Connecticut,WIN
+2004,4,1,St. Joseph's,2,Oklahoma State,WIN
+2004,3,9,Alabama-Birmingham,4,Kansas,LOSS
+2004,3,3,Texas,7,Xavier,WIN
+2004,3,1,Duke,5,Illinois,WIN
+2004,3,3,Georgia Tech,10,Nevada,LOSS
+2004,3,6,Vanderbilt,2,Connecticut,LOSS
+2004,3,8,Alabama,5,Syracuse,WIN
+2004,3,3,Pittsburgh,2,Oklahoma State,WIN
+2004,3,1,St. Joseph's,4,Wake Forest,LOSS
+2004,2,6,Boston College,3,Georgia Tech,WIN
+2004,2,6,Vanderbilt,3,North Carolina State,WIN
+2004,2,7,Xavier,2,Mississippi State,WIN
+2004,2,5,Illinois,4,Cincinnati,LOSS
+2004,2,7,Memphis,2,Oklahoma State,LOSS
+2004,2,6,Wisconsin,3,Pittsburgh,LOSS
+2004,2,12,Pacific,4,Kansas,WIN
+2004,2,1,Kentucky,9,Alabama-Birmingham,LOSS
+2004,2,10,Nevada,2,Gonzaga,LOSS
+2004,2,1,Duke,8,Seton Hall,WIN
+2004,2,7,DePaul,2,Connecticut,WIN
+2004,2,12,Manhattan,4,Wake Forest,WIN
+2004,2,5,Syracuse,4,Maryland,WIN
+2004,2,1,Stanford,8,Alabama,LOSS
+2004,2,1,St. Joseph's,8,Texas Tech,WIN
+2004,2,6,North Carolina,3,Texas,LOSS
+2004,1,6,Vanderbilt,11,Western Michigan,WIN
+2004,1,1,Kentucky,16,Florida A&M,WIN
+2004,1,2,Mississippi State,15,Monmouth,WIN
+2004,1,6,Wisconsin,11,Richmond,LOSS
+2004,1,5,Illinois,12,Murray St.,WIN
+2004,1,6,Boston College,11,Utah,WIN
+2004,1,4,Kansas,13,Illinois-Chicago,WIN
+2004,1,2,Oklahoma State,15,Eastern Washington,LOSS
+2004,1,5,Providence,12,Pacific,LOSS
+2004,1,8,Washington,9,Alabama-Birmingham,LOSS
+2004,1,3,Texas,14,Princeton,WIN
+2004,1,4,Cincinnati,13,East Tennessee State,WIN
+2004,1,7,Xavier,10,Louisville,WIN
+2004,1,3,Georgia Tech,14,Northern Iowa,WIN
+2004,1,7,Memphis,10,South Carolina,WIN
+2004,1,3,Pittsburgh,14,Central Florida,WIN
+2004,1,7,DePaul,10,Dayton,WIN
+2004,1,3,North Carolina State,14,Louisiana-Lafayette,WIN
+2004,1,6,North Carolina,11,Air Force,WIN
+2004,1,8,Seton Hall,9,Arizona,WIN
+2004,1,1,Stanford,16,Texas-San Antonio,LOSS
+2004,1,8,Alabama,9,Southern Illinois,WIN
+2004,1,5,Syracuse,12,Brigham Young,WIN
+2004,1,1,Duke,16,Alabama State,LOSS
+2004,1,4,Maryland,13,UTEP,WIN
+2004,1,4,Wake Forest,13,Virginia Commonwealth,WIN
+2004,1,5,Florida,12,Manhattan,WIN
+2004,1,8,Texas Tech,9,Charlotte,LOSS
+2004,1,1,St. Joseph's,16,Liberty,LOSS
+2004,1,2,Gonzaga,15,Valparaiso,WIN
+2004,1,7,Michigan State,10,Nevada,WIN
+2004,1,2,Connecticut,15,Vermont,LOSS
+2004,0,16,Florida A&M,16,Lehigh,WIN
+2003,6,2,Kansas,3,Syracuse,LOSS
+2003,5,1,Texas,3,Syracuse,LOSS
+2003,5,3,Marquette,2,Kansas,LOSS
+2003,4,1,Texas,7,Michigan State,WIN
+2003,4,1,Oklahoma,3,Syracuse,WIN
+2003,4,1,Arizona,2,Kansas,WIN
+2003,4,1,Kentucky,3,Marquette,WIN
+2003,3,6,Maryland,7,Michigan State,LOSS
+2003,3,3,Syracuse,10,Auburn,LOSS
+2003,3,1,Oklahoma,12,Butler,LOSS
+2003,3,1,Texas,5,Connecticut,WIN
+2003,3,1,Arizona,5,Notre Dame,LOSS
+2003,3,1,Kentucky,5,Wisconsin,WIN
+2003,3,3,Marquette,2,Pittsburgh,LOSS
+2003,3,3,Duke,2,Kansas,LOSS
+2003,2,5,Wisconsin,13,Tulsa,WIN
+2003,2,10,Auburn,2,Wake Forest,WIN
+2003,2,6,Oklahoma State,3,Syracuse,LOSS
+2003,2,12,Butler,4,Louisville,WIN
+2003,2,7,Michigan State,2,Florida,WIN
+2003,2,6,Maryland,3,Xavier,LOSS
+2003,2,1,Texas,9,Purdue,WIN
+2003,2,7,Indiana,2,Pittsburgh,WIN
+2003,2,11,Central Michigan,3,Duke,WIN
+2003,2,1,Kentucky,9,Utah,LOSS
+2003,2,1,Arizona,9,Gonzaga,WIN
+2003,2,5,Notre Dame,4,Illinois,WIN
+2003,2,10,Arizona State,2,Kansas,LOSS
+2003,2,5,Connecticut,4,Stanford,WIN
+2003,2,1,Oklahoma,8,California,LOSS
+2003,2,6,Missouri,3,Marquette,WIN
+2003,1,2,Pittsburgh,15,Wagner,LOSS
+2003,1,6,Maryland,11,UNC Wilmington,WIN
+2003,1,7,Michigan State,10,Colorado,WIN
+2003,1,8,Oregon,9,Utah,LOSS
+2003,1,1,Kentucky,16,IUPUI,WIN
+2003,1,7,Indiana,10,Alabama,WIN
+2003,1,8,LSU,9,Purdue,LOSS
+2003,1,5,Mississippi State,12,Butler,LOSS
+2003,1,1,Texas,16,UNC Asheville,LOSS
+2003,1,6,Oklahoma State,11,Penn,WIN
+2003,1,3,Syracuse,14,Manhattan,WIN
+2003,1,7,St. Joseph's,10,Auburn,LOSS
+2003,1,2,Wake Forest,15,East Tennessee State,WIN
+2003,1,3,Xavier,14,Troy,WIN
+2003,1,4,Louisville,13,Austin Peay,LOSS
+2003,1,2,Florida,15,Sam Houston State,WIN
+2003,1,8,California,9,North Carolina State,LOSS
+2003,1,1,Oklahoma,16,South Carolina State,WIN
+2003,1,1,Arizona,16,Vermont,WIN
+2003,1,8,Cincinnati,9,Gonzaga,WIN
+2003,1,5,Notre Dame,12,Milwaukee,WIN
+2003,1,4,Illinois,13,Western Kentucky,WIN
+2003,1,6,Creighton,11,Central Michigan,WIN
+2003,1,3,Duke,14,Colorado State,WIN
+2003,1,7,Memphis,10,Arizona State,WIN
+2003,1,2,Kansas,15,Utah State,WIN
+2003,1,5,Wisconsin,12,Weber State,WIN
+2003,1,4,Dayton,13,Tulsa,LOSS
+2003,1,6,Missouri,11,Southern Illinois,WIN
+2003,1,5,Connecticut,12,Brigham Young,WIN
+2003,1,3,Marquette,14,Holy Cross,LOSS
+2003,1,4,Stanford,13,San Diego,WIN
+2003,0,16,UNC Asheville,16,Texas Southern,LOSS
+2002,6,5,Indiana,1,Maryland,WIN
+2002,5,5,Indiana,2,Oklahoma,LOSS
+2002,5,1,Maryland,1,Kansas,WIN
+2002,4,1,Kansas,2,Oregon,LOSS
+2002,4,1,Maryland,2,Connecticut,WIN
+2002,4,5,Indiana,10,Kent State,LOSS
+2002,4,12,Missouri,2,Oklahoma,WIN
+2002,3,6,Texas,2,Oregon,LOSS
+2002,3,1,Kansas,4,Illinois,WIN
+2002,3,1,Maryland,4,Kentucky,WIN
+2002,3,11,Southern Illinois,2,Connecticut,LOSS
+2002,3,1,Duke,5,Indiana,LOSS
+2002,3,8,UCLA,12,Missouri,WIN
+2002,3,3,Arizona,2,Oklahoma,LOSS
+2002,3,3,Pittsburgh,10,Kent State,WIN
+2002,2,11,Wyoming,3,Arizona,WIN
+2002,2,12,Creighton,4,Illinois,LOSS
+2002,2,6,Texas,3,Mississippi State,LOSS
+2002,2,6,California,3,Pittsburgh,WIN
+2002,2,11,Southern Illinois,3,Georgia,LOSS
+2002,2,7,North Carolina State,2,Connecticut,WIN
+2002,2,10,Kent State,2,Alabama,WIN
+2002,2,1,Cincinnati,8,UCLA,LOSS
+2002,2,7,Xavier,2,Oklahoma,WIN
+2002,2,1,Maryland,8,Wisconsin,WIN
+2002,2,5,Indiana,13,UNC Wilmington,LOSS
+2002,2,12,Tulsa,4,Kentucky,WIN
+2002,2,12,Missouri,4,Ohio State,LOSS
+2002,2,1,Kansas,8,Stanford,WIN
+2002,2,7,Wake Forest,2,Oregon,LOSS
+2002,2,1,Duke,8,Notre Dame,WIN
+2002,1,7,North Carolina State,10,Michigan State,LOSS
+2002,1,4,Illinois,13,San Diego State,WIN
+2002,1,6,Texas,11,Boston College,WIN
+2002,1,1,Cincinnati,16,Boston University,WIN
+2002,1,3,Georgia,14,Murray St.,WIN
+2002,1,6,Texas Tech,11,Southern Illinois,WIN
+2002,1,1,Maryland,16,Siena,WIN
+2002,1,2,Oklahoma,15,Illinois-Chicago,WIN
+2002,1,6,California,11,Penn,WIN
+2002,1,7,Xavier,10,Hawaii,LOSS
+2002,1,3,Mississippi State,14,McNeese State,WIN
+2002,1,8,Wisconsin,9,St. John's,LOSS
+2002,1,2,Connecticut,15,Hampton,WIN
+2002,1,8,UCLA,9,Mississippi,WIN
+2002,1,5,Florida,12,Creighton,WIN
+2002,1,1,Duke,16,Winthrop,WIN
+2002,1,5,Indiana,12,Utah,WIN
+2002,1,7,Wake Forest,10,Pepperdine,LOSS
+2002,1,2,Oregon,15,Montana,WIN
+2002,1,1,Kansas,16,Holy Cross,WIN
+2002,1,4,Kentucky,13,Valparaiso,WIN
+2002,1,5,Marquette,12,Tulsa,WIN
+2002,1,3,Arizona,14,UC Santa Barbara,WIN
+2002,1,6,Gonzaga,11,Wyoming,LOSS
+2002,1,4,Ohio State,13,Davidson,WIN
+2002,1,5,Miami (Fla.),12,Missouri,WIN
+2002,1,8,Stanford,9,Western Kentucky,WIN
+2002,1,2,Alabama,15,Florida Atlantic,LOSS
+2002,1,7,Oklahoma State,10,Kent State,LOSS
+2002,1,3,Pittsburgh,14,Central Connecticut State,LOSS
+2002,1,4,Southern California,13,UNC Wilmington,WIN
+2002,1,8,Notre Dame,9,Charlotte,LOSS
+2002,0,16,Siena,16,Alcorn State,WIN
+2001,6,2,Arizona,1,Duke,LOSS
+2001,5,2,Arizona,1,Michigan State,WIN
+2001,5,1,Duke,3,Maryland,LOSS
+2001,4,1,Michigan State,11,Temple,LOSS
+2001,4,1,Illinois,2,Arizona,WIN
+2001,4,1,Stanford,3,Maryland,WIN
+2001,4,1,Duke,6,Southern California,WIN
+2001,3,1,Illinois,4,Kansas,WIN
+2001,3,3,Mississippi,2,Arizona,WIN
+2001,3,1,Michigan State,12,Gonzaga,LOSS
+2001,3,11,Temple,7,Penn State,WIN
+2001,3,6,Southern California,2,Kentucky,WIN
+2001,3,1,Stanford,5,Cincinnati,WIN
+2001,3,3,Maryland,10,Georgetown,LOSS
+2001,3,1,Duke,4,UCLA,WIN
+2001,2,7,Penn State,2,North Carolina,LOSS
+2001,2,11,Temple,3,Florida,LOSS
+2001,2,12,Gonzaga,13,Indiana State,WIN
+2001,2,1,Michigan State,9,Fresno State,WIN
+2001,2,10,Butler,2,Arizona,LOSS
+2001,2,6,Notre Dame,3,Mississippi,WIN
+2001,2,5,Syracuse,4,Kansas,WIN
+2001,2,1,Illinois,9,Charlotte,LOSS
+2001,2,5,Cincinnati,13,Kent State,WIN
+2001,2,11,Georgia State,3,Maryland,LOSS
+2001,2,1,Stanford,9,St. Joseph's,WIN
+2001,2,7,Iowa,2,Kentucky,LOSS
+2001,2,1,Duke,9,Missouri,WIN
+2001,2,6,Southern California,3,Boston College,LOSS
+2001,2,12,Utah State,4,UCLA,LOSS
+2001,2,10,Georgetown,15,Hampton,WIN
+2001,1,7,Wake Forest,10,Butler,WIN
+2001,1,2,Arizona,15,Eastern Illinois,LOSS
+2001,1,1,Michigan State,16,Alabama State,WIN
+2001,1,1,Illinois,16,Northwestern State,WIN
+2001,1,6,Texas,11,Temple,WIN
+2001,1,8,California,9,Fresno State,WIN
+2001,1,5,Virginia,12,Gonzaga,WIN
+2001,1,4,Oklahoma,13,Indiana State,WIN
+2001,1,8,Tennessee,9,Charlotte,WIN
+2001,1,4,Kansas,13,Cal State Northridge,WIN
+2001,1,7,Penn State,10,Providence,WIN
+2001,1,5,Syracuse,12,Hawaii,WIN
+2001,1,3,Florida,14,Western Kentucky,LOSS
+2001,1,6,Notre Dame,11,Xavier,WIN
+2001,1,3,Mississippi,14,Iona,WIN
+2001,1,2,North Carolina,15,Princeton,WIN
+2001,1,5,Cincinnati,12,Brigham Young,WIN
+2001,1,2,Iowa State,15,Hampton,LOSS
+2001,1,1,Duke,16,Monmouth,LOSS
+2001,1,8,Georgia,9,Missouri,WIN
+2001,1,5,Ohio State,12,Utah State,WIN
+2001,1,4,UCLA,13,Hofstra,WIN
+2001,1,6,Southern California,11,Oklahoma State,LOSS
+2001,1,3,Boston College,14,Southern Utah,LOSS
+2001,1,7,Iowa,10,Creighton,WIN
+2001,1,2,Kentucky,15,Holy Cross,WIN
+2001,1,1,Stanford,16,UNC Greensboro,WIN
+2001,1,7,Arkansas,10,Georgetown,WIN
+2001,1,3,Maryland,14,George Mason,LOSS
+2001,1,6,Wisconsin,11,Georgia State,LOSS
+2001,1,4,Indiana,13,Kent State,WIN
+2001,1,8,Georgia Tech,9,St. Joseph's,LOSS
+2001,0,16,Winthrop,16,Northwestern State,WIN
+2000,6,1,Michigan State,5,Florida,WIN
+2000,5,8,Wisconsin,1,Michigan State,LOSS
+2000,5,5,Florida,8,North Carolina,WIN
+2000,4,5,Florida,3,Oklahoma State,WIN
+2000,4,8,North Carolina,7,Tulsa,WIN
+2000,4,1,Michigan State,2,Iowa State,WIN
+2000,4,8,Wisconsin,6,Purdue,WIN
+2000,3,3,Oklahoma State,10,Seton Hall,LOSS
+2000,3,8,North Carolina,4,Tennessee,WIN
+2000,3,6,Miami (Fla.),7,Tulsa,WIN
+2000,3,1,Duke,5,Florida,WIN
+2000,3,1,Michigan State,4,Syracuse,WIN
+2000,3,6,Purdue,10,Gonzaga,LOSS
+2000,3,8,Wisconsin,4,LSU,LOSS
+2000,3,6,UCLA,2,Iowa State,WIN
+2000,2,1,Duke,8,Kansas,WIN
+2000,2,6,Miami (Fla.),3,Ohio State,LOSS
+2000,2,5,Connecticut,4,Tennessee,WIN
+2000,2,1,Stanford,8,North Carolina,WIN
+2000,2,10,Seton Hall,2,Temple,LOSS
+2000,2,11,Pepperdine,3,Oklahoma State,WIN
+2000,2,5,Florida,4,Illinois,WIN
+2000,2,7,Tulsa,2,Cincinnati,WIN
+2000,2,5,Kentucky,4,Syracuse,LOSS
+2000,2,10,Gonzaga,2,St. John's,WIN
+2000,2,6,Purdue,3,Oklahoma,WIN
+2000,2,5,Texas,4,LSU,WIN
+2000,2,1,Arizona,8,Wisconsin,WIN
+2000,2,7,Auburn,2,Iowa State,LOSS
+2000,2,6,UCLA,3,Maryland,LOSS
+2000,2,1,Michigan State,8,Utah,LOSS
+2000,1,6,Indiana,11,Pepperdine,LOSS
+2000,1,2,Temple,15,Lafayette,WIN
+2000,1,1,Duke,16,Lamar,LOSS
+2000,1,8,Kansas,9,DePaul,LOSS
+2000,1,5,Florida,12,Butler,WIN
+2000,1,2,Cincinnati,15,UNC Wilmington,LOSS
+2000,1,7,Tulsa,10,UNLV,WIN
+2000,1,3,Ohio State,14,Appalachian State,WIN
+2000,1,6,Miami (Fla.),11,Arkansas,LOSS
+2000,1,4,Tennessee,13,Louisiana-Lafayette,WIN
+2000,1,5,Connecticut,12,Utah State,WIN
+2000,1,8,North Carolina,9,Missouri,WIN
+2000,1,1,Stanford,16,South Carolina State,LOSS
+2000,1,7,Oregon,10,Seton Hall,WIN
+2000,1,3,Oklahoma State,14,Hofstra,LOSS
+2000,1,4,Illinois,13,Penn,LOSS
+2000,1,8,Utah,9,St. Louis,WIN
+2000,1,2,Iowa State,15,Central Connecticut State,WIN
+2000,1,7,Auburn,10,Creighton,WIN
+2000,1,3,Maryland,14,Iona,WIN
+2000,1,6,UCLA,11,Ball State,LOSS
+2000,1,4,Syracuse,13,Samford,LOSS
+2000,1,1,Arizona,16,Jackson State,LOSS
+2000,1,8,Wisconsin,9,Fresno State,LOSS
+2000,1,3,Oklahoma,14,Winthrop,LOSS
+2000,1,5,Texas,12,Indiana State,WIN
+2000,1,4,LSU,13,Southeast Missouri State,LOSS
+2000,1,6,Purdue,11,Dayton,LOSS
+2000,1,7,Louisville,10,Gonzaga,WIN
+2000,1,2,St. John's,15,Northern Arizona,WIN
+2000,1,1,Michigan State,16,Valparaiso,LOSS
+2000,1,5,Kentucky,12,St. Bonaventure,WIN
+1999,6,1,Duke,1,Connecticut,WIN
+1999,5,1,Duke,1,Michigan State,WIN
+1999,5,4,Ohio State,1,Connecticut,WIN
+1999,4,1,Michigan State,3,Kentucky,LOSS
+1999,4,1,Duke,6,Temple,WIN
+1999,4,4,Ohio State,3,St. John's,LOSS
+1999,4,1,Connecticut,10,Gonzaga,LOSS
+1999,3,6,Temple,10,Purdue,WIN
+1999,3,1,Duke,12,Missouri State,LOSS
+1999,3,1,Michigan State,13,Oklahoma,WIN
+1999,3,3,Kentucky,10,Miami (Ohio),LOSS
+1999,3,6,Florida,10,Gonzaga,WIN
+1999,3,3,St. John's,2,Maryland,LOSS
+1999,3,1,Connecticut,5,Iowa,LOSS
+1999,3,1,Auburn,4,Ohio State,LOSS
+1999,2,5,Charlotte,13,Oklahoma,LOSS
+1999,2,6,Temple,3,Cincinnati,WIN
+1999,2,10,Miami (Ohio),2,Utah,LOSS
+1999,2,1,Michigan State,9,Mississippi,LOSS
+1999,2,12,Missouri State,4,Tennessee,LOSS
+1999,2,1,Duke,9,Tulsa,WIN
+1999,2,6,Kansas,3,Kentucky,WIN
+1999,2,10,Purdue,2,Miami (Fla.),LOSS
+1999,2,6,Florida,14,Weber State,WIN
+1999,2,5,Iowa,4,Arkansas,LOSS
+1999,2,1,Connecticut,9,New Mexico,LOSS
+1999,2,12,Detroit,4,Ohio State,WIN
+1999,2,10,Gonzaga,2,Stanford,LOSS
+1999,2,6,Indiana,3,St. John's,LOSS
+1999,2,1,Auburn,9,Oklahoma State,LOSS
+1999,2,10,Creighton,2,Maryland,WIN
+1999,1,3,Cincinnati,14,George Mason,WIN
+1999,1,2,Utah,15,Arkansas State,LOSS
+1999,1,7,Washington,10,Miami (Ohio),WIN
+1999,1,3,Kentucky,14,New Mexico State,LOSS
+1999,1,6,Kansas,11,Evansville,LOSS
+1999,1,4,Arizona,13,Oklahoma,LOSS
+1999,1,5,Charlotte,12,Rhode Island,LOSS
+1999,1,8,Villanova,9,Mississippi,LOSS
+1999,1,7,Texas,10,Purdue,LOSS
+1999,1,1,Michigan State,16,Mount St. Mary's,LOSS
+1999,1,6,Temple,11,Kent State,LOSS
+1999,1,4,Tennessee,13,Delaware,LOSS
+1999,1,5,Wisconsin,12,Missouri State,LOSS
+1999,1,8,College of Charleston,9,Tulsa,WIN
+1999,1,1,Duke,16,Florida A&M,WIN
+1999,1,2,Miami (Fla.),15,Lafayette,LOSS
+1999,1,5,UCLA,12,Detroit,LOSS
+1999,1,5,Iowa,12,Alabama-Birmingham,LOSS
+1999,1,8,Missouri,9,New Mexico,LOSS
+1999,1,1,Connecticut,16,Texas-San Antonio,LOSS
+1999,1,2,Maryland,15,Valparaiso,LOSS
+1999,1,7,Louisville,10,Creighton,LOSS
+1999,1,3,St. John's,14,Samford,WIN
+1999,1,4,Arkansas,13,Siena,WIN
+1999,1,1,Auburn,16,Winthrop,WIN
+1999,1,8,Syracuse,9,Oklahoma State,LOSS
+1999,1,7,Minnesota,10,Gonzaga,WIN
+1999,1,6,Indiana,11,George Washington,WIN
+1999,1,4,Ohio State,13,Murray St.,LOSS
+1999,1,6,Florida,11,Penn,WIN
+1999,1,3,North Carolina,14,Weber State,WIN
+1999,1,2,Stanford,15,Alcorn State,WIN
+1998,6,3,Utah,2,Kentucky,LOSS
+1998,5,3,Stanford,2,Kentucky,WIN
+1998,5,1,North Carolina,3,Utah,WIN
+1998,4,1,Duke,2,Kentucky,WIN
+1998,4,8,Rhode Island,3,Stanford,LOSS
+1998,4,1,Arizona,3,Utah,WIN
+1998,4,1,North Carolina,2,Connecticut,WIN
+1998,3,3,Stanford,2,Purdue,LOSS
+1998,3,1,Duke,5,Syracuse,WIN
+1998,3,8,Rhode Island,13,Valparaiso,WIN
+1998,3,6,UCLA,2,Kentucky,LOSS
+1998,3,1,North Carolina,4,Michigan State,WIN
+1998,3,11,Washington,2,Connecticut,WIN
+1998,3,1,Arizona,4,Maryland,WIN
+1998,3,3,Utah,10,West Virginia,WIN
+1998,2,12,Florida State,13,Valparaiso,LOSS
+1998,2,5,Syracuse,4,New Mexico,WIN
+1998,2,1,Duke,8,Oklahoma State,WIN
+1998,2,10,Detroit,2,Purdue,WIN
+1998,2,1,Kansas,8,Rhode Island,WIN
+1998,2,11,Western Michigan,3,Stanford,WIN
+1998,2,10,St. Louis,2,Kentucky,WIN
+1998,2,6,UCLA,3,Michigan,WIN
+1998,2,6,Arkansas,3,Utah,WIN
+1998,2,10,West Virginia,2,Cincinnati,LOSS
+1998,2,1,North Carolina,8,Charlotte,WIN
+1998,2,7,Indiana,2,Connecticut,LOSS
+1998,2,5,Princeton,4,Michigan State,WIN
+1998,2,11,Washington,14,Richmond,WIN
+1998,2,1,Arizona,9,Illinois State,WIN
+1998,2,5,Illinois,4,Maryland,WIN
+1998,1,1,Duke,16,Radford,LOSS
+1998,1,7,St. John's,10,Detroit,WIN
+1998,1,1,Kansas,16,Prairie View,LOSS
+1998,1,8,Rhode Island,9,Murray St.,WIN
+1998,1,5,TCU,12,Florida State,WIN
+1998,1,4,Mississippi,13,Valparaiso,WIN
+1998,1,6,Clemson,11,Western Michigan,WIN
+1998,1,3,Stanford,14,College of Charleston,LOSS
+1998,1,2,Purdue,15,Delaware,WIN
+1998,1,8,Oklahoma State,9,George Washington,WIN
+1998,1,5,Syracuse,12,Iona,WIN
+1998,1,4,New Mexico,13,Butler,WIN
+1998,1,6,UCLA,11,Miami (Fla.),LOSS
+1998,1,3,Michigan,14,Davidson,LOSS
+1998,1,7,Massachusetts,10,St. Louis,WIN
+1998,1,2,Kentucky,15,South Carolina State,WIN
+1998,1,6,Xavier,11,Washington,WIN
+1998,1,2,Cincinnati,15,Northern Arizona,WIN
+1998,1,7,Temple,10,West Virginia,LOSS
+1998,1,3,Utah,14,San Francisco,WIN
+1998,1,1,North Carolina,16,Navy,LOSS
+1998,1,8,Charlotte,9,Illinois-Chicago,WIN
+1998,1,5,Princeton,12,UNLV,WIN
+1998,1,3,South Carolina,14,Richmond,WIN
+1998,1,7,Indiana,10,Oklahoma,WIN
+1998,1,2,Connecticut,15,Fairleigh Dickinson,WIN
+1998,1,1,Arizona,16,Nicholls State,WIN
+1998,1,8,Tennessee,9,Illinois State,WIN
+1998,1,5,Illinois,12,South Alabama,LOSS
+1998,1,4,Michigan State,13,Eastern Michigan,WIN
+1998,1,4,Maryland,13,Utah State,LOSS
+1998,1,6,Arkansas,11,Nebraska,WIN
+1997,6,1,Kentucky,4,Arizona,WIN
+1997,5,1,Kentucky,1,Minnesota,WIN
+1997,5,1,North Carolina,4,Arizona,LOSS
+1997,4,4,Arizona,10,Providence,WIN
+1997,4,1,North Carolina,6,Louisville,WIN
+1997,4,1,Kentucky,2,Utah,WIN
+1997,4,1,Minnesota,2,UCLA,WIN
+1997,3,14,Chattanooga,10,Providence,WIN
+1997,3,1,North Carolina,5,California,WIN
+1997,3,6,Louisville,10,Texas,WIN
+1997,3,1,Kansas,4,Arizona,WIN
+1997,3,1,Minnesota,4,Clemson,WIN
+1997,3,1,Kentucky,4,St. Joseph's,WIN
+1997,3,6,Iowa State,2,UCLA,LOSS
+1997,3,6,Stanford,2,Utah,WIN
+1997,2,10,Providence,2,Duke,WIN
+1997,2,6,Stanford,3,Wake Forest,WIN
+1997,2,7,Charlotte,2,Utah,LOSS
+1997,2,1,Minnesota,9,Temple,WIN
+1997,2,5,Tulsa,4,Clemson,WIN
+1997,2,6,Louisville,3,New Mexico,WIN
+1997,2,10,Texas,15,Coppin State,LOSS
+1997,2,6,Illinois,14,Chattanooga,WIN
+1997,2,5,California,4,Villanova,LOSS
+1997,2,6,Iowa State,3,Cincinnati,WIN
+1997,2,7,Xavier,2,UCLA,LOSS
+1997,2,1,Kentucky,8,Iowa,WIN
+1997,2,5,Boston College,4,St. Joseph's,WIN
+1997,2,1,Kansas,8,Purdue,LOSS
+1997,2,12,College of Charleston,4,Arizona,WIN
+1997,2,1,North Carolina,9,Colorado,WIN
+1997,1,3,New Mexico,14,Old Dominion,WIN
+1997,1,6,Louisville,11,Massachusetts,WIN
+1997,1,7,Charlotte,10,Georgetown,WIN
+1997,1,7,Marquette,10,Providence,LOSS
+1997,1,2,Duke,15,Murray St.,LOSS
+1997,1,3,Georgia,14,Chattanooga,WIN
+1997,1,3,Wake Forest,14,St. Mary's (Cal.),LOSS
+1997,1,1,Minnesota,16,Texas State,LOSS
+1997,1,6,Stanford,11,Oklahoma,WIN
+1997,1,8,Mississippi,9,Temple,WIN
+1997,1,6,Illinois,11,Southern California,LOSS
+1997,1,5,Tulsa,12,Boston University,LOSS
+1997,1,7,Wisconsin,10,Texas,WIN
+1997,1,2,Utah,15,Navy,LOSS
+1997,1,4,Clemson,13,Miami (Ohio),LOSS
+1997,1,2,South Carolina,15,Coppin State,WIN
+1997,1,7,Xavier,10,Vanderbilt,LOSS
+1997,1,4,Villanova,13,Long Island,WIN
+1997,1,4,St. Joseph's,13,Pacific,LOSS
+1997,1,5,Boston College,12,Valparaiso,WIN
+1997,1,8,Iowa,9,Virginia,WIN
+1997,1,1,Kentucky,16,Montana,LOSS
+1997,1,4,Arizona,13,South Alabama,LOSS
+1997,1,5,Maryland,12,College of Charleston,WIN
+1997,1,8,Purdue,9,Rhode Island,LOSS
+1997,1,1,Kansas,16,Jackson State,LOSS
+1997,1,1,North Carolina,16,Fairfield,WIN
+1997,1,2,UCLA,15,Charleston Southern,LOSS
+1997,1,3,Cincinnati,14,Butler,LOSS
+1997,1,6,Iowa State,11,Illinois State,LOSS
+1997,1,5,California,12,Princeton,WIN
+1997,1,8,Indiana,9,Colorado,WIN
+1996,6,4,Syracuse,1,Kentucky,WIN
+1996,5,1,Massachusetts,1,Kentucky,LOSS
+1996,5,5,Mississippi State,4,Syracuse,WIN
+1996,4,4,Syracuse,2,Kansas,WIN
+1996,4,5,Mississippi State,2,Cincinnati,WIN
+1996,4,1,Kentucky,2,Wake Forest,LOSS
+1996,4,1,Massachusetts,2,Georgetown,WIN
+1996,3,1,Connecticut,5,Mississippi State,WIN
+1996,3,3,Arizona,2,Kansas,LOSS
+1996,3,8,Georgia,4,Syracuse,WIN
+1996,3,3,Georgia Tech,2,Cincinnati,WIN
+1996,3,1,Kentucky,4,Utah,LOSS
+1996,3,6,Louisville,2,Wake Forest,WIN
+1996,3,1,Massachusetts,12,Arkansas,LOSS
+1996,3,3,Texas Tech,2,Georgetown,WIN
+1996,2,7,Temple,2,Cincinnati,LOSS
+1996,2,10,Santa Clara,2,Kansas,WIN
+1996,2,6,Iowa,3,Arizona,WIN
+1996,2,10,Texas,2,Wake Forest,WIN
+1996,2,11,Boston College,3,Georgia Tech,WIN
+1996,2,6,Louisville,3,Villanova,LOSS
+1996,2,7,New Mexico,2,Georgetown,WIN
+1996,2,6,North Carolina,3,Texas Tech,LOSS
+1996,2,1,Purdue,8,Georgia,WIN
+1996,2,5,Iowa State,4,Utah,LOSS
+1996,2,1,Kentucky,9,Virginia Tech,WIN
+1996,2,12,Drexel,4,Syracuse,WIN
+1996,2,1,Massachusetts,9,Stanford,WIN
+1996,2,12,Arkansas,4,Marquette,LOSS
+1996,2,5,Mississippi State,13,Princeton,LOSS
+1996,2,1,Connecticut,9,Eastern Michigan,LOSS
+1996,1,7,Michigan,10,Texas,WIN
+1996,1,6,Indiana,11,Boston College,LOSS
+1996,1,3,Georgia Tech,14,Austin Peay,WIN
+1996,1,7,Temple,10,Oklahoma,WIN
+1996,1,2,Cincinnati,15,UNC Greensboro,WIN
+1996,1,6,Iowa,11,George Washington,WIN
+1996,1,3,Arizona,14,Valparaiso,LOSS
+1996,1,7,Maryland,10,Santa Clara,WIN
+1996,1,2,Kansas,15,South Carolina State,WIN
+1996,1,2,Georgetown,15,Mississippi Valley State,LOSS
+1996,1,6,North Carolina,11,New Orleans,WIN
+1996,1,3,Texas Tech,14,Northern Illinois,LOSS
+1996,1,7,New Mexico,10,Kansas State,LOSS
+1996,1,2,Wake Forest,15,Louisiana-Monroe,LOSS
+1996,1,6,Louisville,11,Tulsa,LOSS
+1996,1,3,Villanova,14,Portland,LOSS
+1996,1,8,Duke,9,Eastern Michigan,LOSS
+1996,1,4,Syracuse,13,Montana State,LOSS
+1996,1,5,Memphis,12,Drexel,WIN
+1996,1,8,Georgia,9,Clemson,WIN
+1996,1,1,Purdue,16,Western Carolina,WIN
+1996,1,4,UCLA,13,Princeton,LOSS
+1996,1,5,Mississippi State,12,Virginia Commonwealth,LOSS
+1996,1,1,Connecticut,16,Colgate,WIN
+1996,1,1,Kentucky,16,San Jose State,WIN
+1996,1,4,Marquette,13,Monmouth,WIN
+1996,1,8,Green Bay,9,Virginia Tech,LOSS
+1996,1,5,Iowa State,12,California,LOSS
+1996,1,5,Penn State,12,Arkansas,WIN
+1996,1,8,Bradley,9,Stanford,WIN
+1996,1,4,Utah,13,Canisius,LOSS
+1996,1,1,Massachusetts,16,Central Florida,WIN
+1995,6,2,Arkansas,1,UCLA,LOSS
+1995,5,4,Oklahoma State,1,UCLA,WIN
+1995,5,2,Arkansas,2,North Carolina,LOSS
+1995,4,4,Oklahoma State,2,Massachusetts,WIN
+1995,4,4,Virginia,2,Arkansas,WIN
+1995,4,1,Kentucky,2,North Carolina,WIN
+1995,4,1,UCLA,2,Connecticut,LOSS
+1995,3,1,Kansas,4,Virginia,LOSS
+1995,3,1,Wake Forest,4,Oklahoma State,LOSS
+1995,3,6,Memphis,2,Arkansas,LOSS
+1995,3,6,Tulsa,2,Massachusetts,LOSS
+1995,3,3,Maryland,2,Connecticut,WIN
+1995,3,6,Georgetown,2,North Carolina,LOSS
+1995,3,1,UCLA,5,Mississippi State,LOSS
+1995,3,1,Kentucky,5,Arizona State,WIN
+1995,2,1,UCLA,8,Missouri,LOSS
+1995,2,6,Georgetown,14,Weber State,LOSS
+1995,2,6,Memphis,3,Purdue,LOSS
+1995,2,10,Stanford,2,Massachusetts,LOSS
+1995,2,7,Syracuse,2,Arkansas,WIN
+1995,2,5,Mississippi State,4,Utah,WIN
+1995,2,6,Tulsa,14,Old Dominion,WIN
+1995,2,7,Iowa State,2,North Carolina,WIN
+1995,2,5,Alabama,4,Oklahoma State,LOSS
+1995,2,1,Kentucky,9,Tulane,LOSS
+1995,2,1,Kansas,8,Western Kentucky,LOSS
+1995,2,12,Miami (Ohio),4,Virginia,LOSS
+1995,2,1,Wake Forest,9,St. Louis,WIN
+1995,2,5,Arizona State,13,Manhattan,WIN
+1995,2,7,Cincinnati,2,Connecticut,WIN
+1995,2,11,Texas,3,Maryland,LOSS
+1995,1,3,Michigan State,14,Weber State,LOSS
+1995,1,6,Georgetown,11,Xavier,LOSS
+1995,1,2,Arkansas,15,Texas Southern,LOSS
+1995,1,7,Syracuse,10,Southern Illinois,LOSS
+1995,1,3,Purdue,14,Green Bay,WIN
+1995,1,6,Memphis,11,Louisville,LOSS
+1995,1,4,Utah,13,Long Beach State,LOSS
+1995,1,5,Mississippi State,12,Santa Clara,LOSS
+1995,1,8,Missouri,9,Indiana,WIN
+1995,1,1,UCLA,16,Florida International,LOSS
+1995,1,2,Massachusetts,15,St. Peter's,WIN
+1995,1,7,Charlotte,10,Stanford,WIN
+1995,1,3,Villanova,14,Old Dominion,LOSS
+1995,1,6,Tulsa,11,Illinois,WIN
+1995,1,2,North Carolina,15,Murray St.,LOSS
+1995,1,7,Iowa State,10,Florida,LOSS
+1995,1,5,Alabama,12,Penn,LOSS
+1995,1,8,Minnesota,9,St. Louis,WIN
+1995,1,5,Arizona,12,Miami (Ohio),WIN
+1995,1,4,Virginia,13,Nicholls State,WIN
+1995,1,4,Oklahoma,13,Manhattan,LOSS
+1995,1,5,Arizona State,12,Ball State,WIN
+1995,1,8,Brigham Young,9,Tulane,LOSS
+1995,1,1,Kentucky,16,Mount St. Mary's,WIN
+1995,1,1,Wake Forest,16,North Carolina A&T,LOSS
+1995,1,4,Oklahoma State,13,Drexel,WIN
+1995,1,6,Oregon,11,Texas,LOSS
+1995,1,1,Kansas,16,Colgate,WIN
+1995,1,8,Western Kentucky,9,Michigan,WIN
+1995,1,3,Maryland,14,Gonzaga,LOSS
+1995,1,7,Cincinnati,10,Temple,WIN
+1995,1,2,Connecticut,15,Chattanooga,WIN
+1994,6,1,Arkansas,2,Duke,LOSS
+1994,5,2,Arizona,1,Arkansas,WIN
+1994,5,3,Florida,2,Duke,WIN
+1994,4,1,Arkansas,3,Michigan,WIN
+1994,4,9,Boston College,3,Florida,LOSS
+1994,4,1,Missouri,2,Arizona,WIN
+1994,4,1,Purdue,2,Duke,LOSS
+1994,3,9,Boston College,5,Indiana,WIN
+1994,3,3,Florida,2,Connecticut,LOSS
+1994,3,1,Arkansas,12,Tulsa,WIN
+1994,3,3,Michigan,10,Maryland,LOSS
+1994,3,1,Purdue,4,Kansas,WIN
+1994,3,3,Louisville,2,Arizona,WIN
+1994,3,1,Missouri,4,Syracuse,LOSS
+1994,3,6,Marquette,2,Duke,WIN
+1994,2,12,Tulsa,4,Oklahoma State,WIN
+1994,2,7,Michigan State,2,Duke,LOSS
+1994,2,6,Minnesota,3,Louisville,WIN
+1994,2,5,Indiana,4,Temple,LOSS
+1994,2,1,North Carolina,9,Boston College,WIN
+1994,2,1,Arkansas,9,Georgetown,LOSS
+1994,2,7,Virginia,2,Arizona,LOSS
+1994,2,6,Marquette,3,Kentucky,LOSS
+1994,2,6,Texas,3,Michigan,WIN
+1994,2,12,Green Bay,4,Syracuse,WIN
+1994,2,10,Maryland,2,Massachusetts,LOSS
+1994,2,1,Missouri,9,Wisconsin,WIN
+1994,2,11,Penn,3,Florida,LOSS
+1994,2,10,George Washington,2,Connecticut,LOSS
+1994,2,1,Purdue,9,Alabama,WIN
+1994,2,5,Wake Forest,4,Kansas,WIN
+1994,1,4,Temple,13,Drexel,WIN
+1994,1,7,Virginia,10,New Mexico,LOSS
+1994,1,4,Oklahoma State,13,New Mexico State,LOSS
+1994,1,2,Arizona,15,Loyola (Md.),WIN
+1994,1,1,Arkansas,16,North Carolina A&T,LOSS
+1994,1,8,Illinois,9,Georgetown,WIN
+1994,1,5,UCLA,12,Tulsa,WIN
+1994,1,6,Minnesota,11,Southern Illinois,WIN
+1994,1,1,North Carolina,16,Liberty,WIN
+1994,1,8,Washington State,9,Boston College,WIN
+1994,1,5,Indiana,12,Ohio,LOSS
+1994,1,6,Marquette,11,Louisiana-Lafayette,WIN
+1994,1,3,Kentucky,14,Tennessee State,WIN
+1994,1,7,Michigan State,10,Seton Hall,WIN
+1994,1,2,Duke,15,Texas Southern,LOSS
+1994,1,3,Louisville,14,Boise State,WIN
+1994,1,8,Providence,9,Alabama,WIN
+1994,1,1,Missouri,16,Navy,LOSS
+1994,1,6,Texas,11,Western Kentucky,WIN
+1994,1,4,Kansas,13,Chattanooga,LOSS
+1994,1,5,California,12,Green Bay,LOSS
+1994,1,3,Michigan,14,Pepperdine,WIN
+1994,1,7,St. Louis,10,Maryland,WIN
+1994,1,2,Massachusetts,15,Texas State,LOSS
+1994,1,4,Syracuse,13,Hawaii,WIN
+1994,1,6,Nebraska,11,Penn,LOSS
+1994,1,3,Florida,14,James Madison,LOSS
+1994,1,7,Alabama-Birmingham,10,George Washington,LOSS
+1994,1,2,Connecticut,15,Rider,LOSS
+1994,1,8,Cincinnati,9,Wisconsin,LOSS
+1994,1,5,Wake Forest,12,College of Charleston,LOSS
+1994,1,1,Purdue,16,Central Florida,LOSS
+1993,6,1,Michigan,1,North Carolina,LOSS
+1993,5,1,North Carolina,2,Kansas,LOSS
+1993,5,1,Kentucky,1,Michigan,LOSS
+1993,4,1,North Carolina,2,Cincinnati,LOSS
+1993,4,1,Michigan,7,Temple,LOSS
+1993,4,1,Indiana,2,Kansas,WIN
+1993,4,1,Kentucky,3,Florida State,LOSS
+1993,3,1,Michigan,12,George Washington,LOSS
+1993,3,3,Vanderbilt,7,Temple,WIN
+1993,3,1,North Carolina,4,Arkansas,WIN
+1993,3,6,Virginia,2,Cincinnati,WIN
+1993,3,6,California,2,Kansas,LOSS
+1993,3,1,Indiana,4,Louisville,LOSS
+1993,3,3,Florida State,7,Western Kentucky,WIN
+1993,3,1,Kentucky,5,Wake Forest,WIN
+1993,2,1,Kentucky,8,Utah,LOSS
+1993,2,5,Oklahoma State,4,Louisville,LOSS
+1993,2,1,Indiana,9,Xavier,WIN
+1993,2,7,New Mexico State,2,Cincinnati,LOSS
+1993,2,6,Virginia,3,Massachusetts,LOSS
+1993,2,12,George Washington,13,Southern,LOSS
+1993,2,1,Michigan,9,UCLA,WIN
+1993,2,5,Wake Forest,4,Iowa,LOSS
+1993,2,7,Temple,15,Santa Clara,WIN
+1993,2,6,California,3,Duke,LOSS
+1993,2,6,Illinois,3,Vanderbilt,LOSS
+1993,2,11,Tulane,3,Florida State,LOSS
+1993,2,7,Brigham Young,2,Kansas,LOSS
+1993,2,7,Western Kentucky,2,Seton Hall,LOSS
+1993,2,5,St. John's,4,Arkansas,LOSS
+1993,2,1,North Carolina,8,Rhode Island,LOSS
+1993,1,7,New Mexico State,10,Nebraska,LOSS
+1993,1,3,Massachusetts,14,Penn,LOSS
+1993,1,6,Virginia,11,Manhattan,LOSS
+1993,1,4,Georgia Tech,13,Southern,WIN
+1993,1,5,New Mexico,12,George Washington,LOSS
+1993,1,8,Iowa State,9,UCLA,WIN
+1993,1,1,Michigan,16,Coastal Carolina,LOSS
+1993,1,4,Iowa,13,Louisiana-Monroe,WIN
+1993,1,5,Wake Forest,12,Chattanooga,WIN
+1993,1,8,Utah,9,Pittsburgh,LOSS
+1993,1,1,Kentucky,16,Rider,LOSS
+1993,1,8,New Orleans,9,Xavier,WIN
+1993,1,5,Oklahoma State,12,Marquette,WIN
+1993,1,4,Louisville,13,Delaware,WIN
+1993,1,1,Indiana,16,Wright State,LOSS
+1993,1,2,Cincinnati,15,Coppin State,WIN
+1993,1,7,Temple,10,Missouri,LOSS
+1993,1,3,Florida State,14,Evansville,WIN
+1993,1,7,Western Kentucky,10,Memphis,WIN
+1993,1,1,North Carolina,16,East Carolina,WIN
+1993,1,2,Arizona,15,Santa Clara,WIN
+1993,1,3,Vanderbilt,14,Boise State,WIN
+1993,1,7,Brigham Young,10,Southern Methodist,WIN
+1993,1,2,Kansas,15,Ball State,LOSS
+1993,1,6,Kansas State,11,Tulane,LOSS
+1993,1,2,Seton Hall,15,Tennessee State,WIN
+1993,1,5,St. John's,12,Texas Tech,WIN
+1993,1,4,Arkansas,13,Holy Cross,WIN
+1993,1,6,California,11,LSU,LOSS
+1993,1,3,Duke,14,Southern Illinois,WIN
+1993,1,8,Rhode Island,9,Purdue,WIN
+1993,1,6,Illinois,11,Long Beach State,LOSS
+1992,6,6,Michigan,1,Duke,LOSS
+1992,5,4,Cincinnati,6,Michigan,WIN
+1992,5,1,Duke,2,Indiana,WIN
+1992,4,1,Ohio State,6,Michigan,LOSS
+1992,4,4,Cincinnati,6,Memphis,WIN
+1992,4,1,UCLA,2,Indiana,WIN
+1992,4,1,Duke,2,Kentucky,LOSS
+1992,3,9,UTEP,4,Cincinnati,WIN
+1992,3,1,Ohio State,4,North Carolina,WIN
+1992,3,6,Memphis,7,Georgia Tech,LOSS
+1992,3,6,Michigan,2,Oklahoma State,LOSS
+1992,3,1,Duke,4,Seton Hall,WIN
+1992,3,1,UCLA,12,New Mexico State,WIN
+1992,3,3,Florida State,2,Indiana,WIN
+1992,3,3,Massachusetts,2,Kentucky,WIN
+1992,2,6,Michigan,14,East Tennessee State,WIN
+1992,2,6,Syracuse,3,Massachusetts,LOSS
+1992,2,10,Iowa State,2,Kentucky,WIN
+1992,2,1,UCLA,8,Louisville,WIN
+1992,2,12,New Mexico State,13,Louisiana-Lafayette,WIN
+1992,2,1,Kansas,9,UTEP,WIN
+1992,2,5,Michigan State,4,Cincinnati,LOSS
+1992,2,10,Tulane,2,Oklahoma State,WIN
+1992,2,5,Missouri,4,Seton Hall,WIN
+1992,2,1,Ohio State,9,Connecticut,WIN
+1992,2,5,Alabama,4,North Carolina,WIN
+1992,2,6,Memphis,3,Arkansas,LOSS
+1992,2,7,Georgia Tech,2,Southern California,WIN
+1992,2,7,LSU,2,Indiana,LOSS
+1992,2,1,Duke,9,Iowa,WIN
+1992,2,6,Georgetown,3,Florida State,LOSS
+1992,1,1,Kansas,16,Howard,LOSS
+1992,1,6,Michigan,11,Temple,WIN
+1992,1,3,Arizona,14,East Tennessee State,WIN
+1992,1,7,St. John's,10,Tulane,LOSS
+1992,1,2,Oklahoma State,15,Georgia Southern,WIN
+1992,1,6,Syracuse,11,Princeton,WIN
+1992,1,3,Massachusetts,14,Fordham,LOSS
+1992,1,7,Charlotte,10,Iowa State,LOSS
+1992,1,2,Kentucky,15,Old Dominion,WIN
+1992,1,1,UCLA,16,Robert Morris,LOSS
+1992,1,8,Louisville,9,Wake Forest,LOSS
+1992,1,5,DePaul,12,New Mexico State,LOSS
+1992,1,4,Oklahoma,13,Louisiana-Lafayette,LOSS
+1992,1,8,Evansville,9,UTEP,WIN
+1992,1,5,Michigan State,12,Missouri State,WIN
+1992,1,4,Cincinnati,13,Delaware,LOSS
+1992,1,2,Southern California,15,Louisiana-Monroe,LOSS
+1992,1,2,Indiana,15,Eastern Illinois,LOSS
+1992,1,7,LSU,10,Brigham Young,WIN
+1992,1,8,Nebraska,9,Connecticut,WIN
+1992,1,1,Ohio State,16,Mississippi Valley State,LOSS
+1992,1,3,Florida State,14,Montana,LOSS
+1992,1,6,Memphis,11,Pepperdine,WIN
+1992,1,3,Arkansas,14,Murray St.,WIN
+1992,1,7,Georgia Tech,10,Houston,LOSS
+1992,1,6,Georgetown,11,South Florida,WIN
+1992,1,4,Seton Hall,13,La Salle,WIN
+1992,1,5,Missouri,12,West Virginia,LOSS
+1992,1,1,Duke,16,Campbell,LOSS
+1992,1,4,North Carolina,13,Miami (Ohio),LOSS
+1992,1,8,Texas,9,Iowa,LOSS
+1992,1,5,Alabama,12,Stanford,WIN
+1991,6,2,Duke,3,Kansas,LOSS
+1991,5,1,North Carolina,3,Kansas,LOSS
+1991,5,1,UNLV,2,Duke,LOSS
+1991,4,4,St. John's,2,Duke,LOSS
+1991,4,1,North Carolina,10,Temple,WIN
+1991,4,1,Arkansas,3,Kansas,LOSS
+1991,4,1,UNLV,3,Seton Hall,LOSS
+1991,3,1,Ohio State,4,St. John's,WIN
+1991,3,1,North Carolina,12,Eastern Michigan,WIN
+1991,3,11,Connecticut,2,Duke,WIN
+1991,3,3,Oklahoma State,10,Temple,WIN
+1991,3,3,Kansas,2,Indiana,WIN
+1991,3,1,Arkansas,4,Alabama,WIN
+1991,3,1,UNLV,4,Utah,WIN
+1991,3,3,Seton Hall,2,Arizona,LOSS
+1991,2,5,Michigan State,4,Utah,WIN
+1991,2,1,Arkansas,8,Arizona State,LOSS
+1991,2,12,Eastern Michigan,13,Penn State,WIN
+1991,2,1,North Carolina,9,Villanova,WIN
+1991,2,5,Texas,4,St. John's,WIN
+1991,2,1,Ohio State,8,Georgia Tech,LOSS
+1991,2,5,Wake Forest,4,Alabama,LOSS
+1991,2,1,UNLV,8,Georgetown,WIN
+1991,2,11,Creighton,3,Seton Hall,LOSS
+1991,2,6,Pittsburgh,3,Kansas,LOSS
+1991,2,7,Florida State,2,Indiana,WIN
+1991,2,6,North Carolina State,3,Oklahoma State,LOSS
+1991,2,10,Temple,15,Richmond,WIN
+1991,2,11,Connecticut,14,Xavier,LOSS
+1991,2,7,Iowa,2,Duke,LOSS
+1991,2,10,Brigham Young,2,Arizona,WIN
+1991,1,8,Princeton,9,Villanova,WIN
+1991,1,5,Mississippi State,12,Eastern Michigan,LOSS
+1991,1,4,UCLA,13,Penn State,WIN
+1991,1,5,Texas,12,St. Peter's,WIN
+1991,1,8,Georgetown,9,Vanderbilt,WIN
+1991,1,5,Michigan State,12,Green Bay,LOSS
+1991,1,1,Ohio State,16,Towson,LOSS
+1991,1,1,Arkansas,16,Georgia State,WIN
+1991,1,8,Arizona State,9,Rutgers,WIN
+1991,1,5,Wake Forest,12,Louisiana Tech,LOSS
+1991,1,4,Alabama,13,Murray St.,WIN
+1991,1,4,Utah,13,South Alabama,WIN
+1991,1,8,Georgia Tech,9,DePaul,WIN
+1991,1,4,St. John's,13,Northern Illinois,WIN
+1991,1,1,UNLV,16,Montana,LOSS
+1991,1,1,North Carolina,16,Northeastern,WIN
+1991,1,2,Duke,15,Louisiana-Monroe,LOSS
+1991,1,6,New Mexico State,11,Creighton,LOSS
+1991,1,3,Seton Hall,14,Pepperdine,LOSS
+1991,1,7,Virginia,10,Brigham Young,WIN
+1991,1,2,Arizona,15,St. Francis (Pa.),LOSS
+1991,1,6,LSU,11,Connecticut,WIN
+1991,1,3,Nebraska,14,Xavier,WIN
+1991,1,7,Iowa,10,East Tennessee State,WIN
+1991,1,6,North Carolina State,11,Southern Mississippi,WIN
+1991,1,3,Oklahoma State,14,New Mexico,WIN
+1991,1,7,Purdue,10,Temple,WIN
+1991,1,2,Syracuse,15,Richmond,WIN
+1991,1,6,Pittsburgh,11,Georgia,LOSS
+1991,1,3,Kansas,14,New Orleans,LOSS
+1991,1,7,Florida State,10,Southern California,LOSS
+1991,1,2,Indiana,15,Coastal Carolina,WIN
+1990,6,1,UNLV,3,Duke,WIN
+1990,5,3,Duke,4,Arkansas,WIN
+1990,5,4,Georgia Tech,1,UNLV,LOSS
+1990,4,1,UNLV,11,Loyola Marymount,WIN
+1990,4,4,Georgia Tech,6,Minnesota,LOSS
+1990,4,1,Connecticut,3,Duke,LOSS
+1990,4,4,Arkansas,10,Texas,WIN
+1990,3,1,UNLV,12,Ball State,WIN
+1990,3,11,Loyola Marymount,7,Alabama,LOSS
+1990,3,6,Minnesota,2,Syracuse,WIN
+1990,3,1,Michigan State,4,Georgia Tech,LOSS
+1990,3,6,Xavier,10,Texas,WIN
+1990,3,3,Duke,7,UCLA,WIN
+1990,3,1,Connecticut,5,Clemson,WIN
+1990,3,8,North Carolina,4,Arkansas,LOSS
+1990,2,10,Texas,2,Purdue,LOSS
+1990,2,6,Xavier,3,Georgetown,LOSS
+1990,2,7,UCLA,2,Kansas,WIN
+1990,2,6,St. John's,3,Duke,LOSS
+1990,2,7,Alabama,2,Arizona,LOSS
+1990,2,7,Virginia,2,Syracuse,WIN
+1990,2,11,Loyola Marymount,3,Michigan,WIN
+1990,2,1,UNLV,8,Ohio State,LOSS
+1990,2,6,Minnesota,14,Northern Iowa,WIN
+1990,2,5,LSU,4,Georgia Tech,LOSS
+1990,2,12,Ball State,4,Louisville,WIN
+1990,2,1,Connecticut,9,California,WIN
+1990,2,5,Clemson,4,La Salle,WIN
+1990,2,1,Oklahoma,8,North Carolina,LOSS
+1990,2,12,Dayton,4,Arkansas,WIN
+1990,2,1,Michigan State,9,UC Santa Barbara,LOSS
+1990,1,3,Michigan,14,Illinois State,LOSS
+1990,1,7,Alabama,10,Colorado State,LOSS
+1990,1,2,Kansas,15,Robert Morris,WIN
+1990,1,6,Xavier,11,Kansas State,LOSS
+1990,1,6,New Mexico State,11,Loyola Marymount,LOSS
+1990,1,3,Georgetown,14,Texas Southern,WIN
+1990,1,7,Georgia,10,Texas,WIN
+1990,1,2,Arizona,15,South Florida,WIN
+1990,1,2,Syracuse,15,Coppin State,WIN
+1990,1,7,Virginia,10,Notre Dame,WIN
+1990,1,3,Missouri,14,Northern Iowa,LOSS
+1990,1,6,Minnesota,11,UTEP,WIN
+1990,1,6,St. John's,11,Temple,LOSS
+1990,1,3,Duke,14,Richmond,WIN
+1990,1,7,UCLA,10,Alabama-Birmingham,LOSS
+1990,1,2,Purdue,15,Louisiana-Monroe,LOSS
+1990,1,8,Ohio State,9,Providence,LOSS
+1990,1,4,Louisville,13,Idaho,WIN
+1990,1,8,Houston,9,UC Santa Barbara,LOSS
+1990,1,5,Illinois,12,Dayton,LOSS
+1990,1,4,Arkansas,13,Princeton,LOSS
+1990,1,8,North Carolina,9,Missouri State,WIN
+1990,1,1,Oklahoma,16,Towson,LOSS
+1990,1,4,La Salle,13,Southern Mississippi,WIN
+1990,1,5,Clemson,12,Brigham Young,LOSS
+1990,1,8,Indiana,9,California,WIN
+1990,1,1,Michigan State,16,Murray St.,LOSS
+1990,1,5,LSU,12,Villanova,LOSS
+1990,1,4,Georgia Tech,13,East Tennessee State,WIN
+1990,1,1,Connecticut,16,Boston University,WIN
+1990,1,1,UNLV,16,Arkansas-Little Rock,LOSS
+1990,1,5,Oregon State,12,Ball State,WIN
+1989,6,3,Michigan,3,Seton Hall,LOSS
+1989,5,1,Illinois,3,Michigan,WIN
+1989,5,2,Duke,3,Seton Hall,WIN
+1989,4,1,Georgetown,2,Duke,LOSS
+1989,4,1,Illinois,2,Syracuse,WIN
+1989,4,4,UNLV,3,Seton Hall,WIN
+1989,4,5,Virginia,3,Michigan,WIN
+1989,3,11,Minnesota,2,Duke,LOSS
+1989,3,3,Missouri,2,Syracuse,WIN
+1989,3,1,Illinois,4,Louisville,LOSS
+1989,3,1,Georgetown,5,North Carolina State,LOSS
+1989,3,1,Arizona,4,UNLV,WIN
+1989,3,3,Michigan,2,North Carolina,LOSS
+1989,3,1,Oklahoma,5,Virginia,WIN
+1989,3,3,Seton Hall,2,Indiana,LOSS
+1989,2,7,UCLA,2,North Carolina,WIN
+1989,2,11,Texas,3,Missouri,WIN
+1989,2,11,South Alabama,3,Michigan,LOSS
+1989,2,5,North Carolina State,4,Iowa,WIN
+1989,2,10,Colorado State,2,Syracuse,LOSS
+1989,2,1,Georgetown,9,Notre Dame,LOSS
+1989,2,11,Evansville,3,Seton Hall,WIN
+1989,2,7,UTEP,2,Indiana,LOSS
+1989,2,1,Illinois,9,Ball State,LOSS
+1989,2,12,DePaul,4,UNLV,LOSS
+1989,2,1,Arizona,9,Clemson,WIN
+1989,2,7,West Virginia,2,Duke,LOSS
+1989,2,11,Minnesota,14,Siena,LOSS
+1989,2,5,Virginia,13,Middle Tennessee State,WIN
+1989,2,1,Oklahoma,9,Louisiana Tech,WIN
+1989,2,5,Arkansas,4,Louisville,LOSS
+1989,1,3,Michigan,14,Xavier,WIN
+1989,1,6,Georgia Tech,11,Texas,WIN
+1989,1,3,Missouri,14,Creighton,WIN
+1989,1,7,Florida,10,Colorado State,LOSS
+1989,1,5,North Carolina State,12,South Carolina,WIN
+1989,1,2,Syracuse,15,Bucknell,WIN
+1989,1,6,Alabama,11,South Alabama,LOSS
+1989,1,2,Indiana,15,George Mason,WIN
+1989,1,6,Oregon State,11,Evansville,WIN
+1989,1,7,UTEP,10,LSU,LOSS
+1989,1,3,Seton Hall,14,Missouri State,LOSS
+1989,1,4,Iowa,13,Rutgers,WIN
+1989,1,8,Vanderbilt,9,Notre Dame,WIN
+1989,1,1,Georgetown,16,Princeton,WIN
+1989,1,2,North Carolina,15,Southern,WIN
+1989,1,7,UCLA,10,Iowa State,LOSS
+1989,1,6,Kansas State,11,Minnesota,WIN
+1989,1,4,UNLV,13,Idaho,LOSS
+1989,1,5,Memphis,12,DePaul,LOSS
+1989,1,8,St. Mary's (Cal.),9,Clemson,WIN
+1989,1,1,Arizona,16,Robert Morris,WIN
+1989,1,2,Duke,15,South Carolina State,LOSS
+1989,1,7,West Virginia,10,Tennessee,LOSS
+1989,1,3,Stanford,14,Siena,LOSS
+1989,1,4,Florida State,13,Middle Tennessee State,LOSS
+1989,1,5,Virginia,12,Providence,LOSS
+1989,1,8,La Salle,9,Louisiana Tech,WIN
+1989,1,1,Oklahoma,16,East Tennessee State,WIN
+1989,1,4,Louisville,13,Arkansas-Little Rock,LOSS
+1989,1,5,Arkansas,12,Loyola Marymount,LOSS
+1989,1,8,Pittsburgh,9,Ball State,WIN
+1989,1,1,Illinois,16,McNeese State,WIN
+1988,6,6,Kansas,1,Oklahoma,WIN
+1988,5,1,Arizona,1,Oklahoma,WIN
+1988,5,6,Kansas,2,Duke,LOSS
+1988,4,1,Arizona,2,North Carolina,WIN
+1988,4,4,Kansas State,6,Kansas,LOSS
+1988,4,1,Oklahoma,6,Villanova,WIN
+1988,4,1,Temple,2,Duke,WIN
+1988,3,1,Arizona,5,Iowa,LOSS
+1988,3,1,Purdue,4,Kansas State,WIN
+1988,3,3,Michigan,2,North Carolina,WIN
+1988,3,6,Kansas,7,Vanderbilt,LOSS
+1988,3,6,Villanova,2,Kentucky,LOSS
+1988,3,1,Temple,13,Richmond,LOSS
+1988,3,1,Oklahoma,5,Louisville,LOSS
+1988,3,11,Rhode Island,2,Duke,LOSS
+1988,2,5,Iowa,4,UNLV,LOSS
+1988,2,5,Georgia Tech,13,Richmond,LOSS
+1988,2,7,Maryland,2,Kentucky,WIN
+1988,2,1,Arizona,8,Seton Hall,LOSS
+1988,2,6,Villanova,3,Illinois,LOSS
+1988,2,1,Temple,8,Georgetown,LOSS
+1988,2,6,Kansas,14,Murray St.,WIN
+1988,2,5,DePaul,4,Kansas State,LOSS
+1988,2,1,Purdue,9,Memphis,LOSS
+1988,2,5,Louisville,4,Brigham Young,LOSS
+1988,2,6,Florida,3,Michigan,WIN
+1988,2,1,Oklahoma,8,Auburn,WIN
+1988,2,11,Rhode Island,3,Syracuse,WIN
+1988,2,10,Loyola Marymount,2,North Carolina,WIN
+1988,2,7,Southern Methodist,2,Duke,LOSS
+1988,1,7,Maryland,10,UC Santa Barbara,LOSS
+1988,1,8,Seton Hall,9,UTEP,WIN
+1988,1,4,UNLV,13,Missouri State,LOSS
+1988,1,7,Vanderbilt,10,Utah State,WIN
+1988,1,2,Pittsburgh,15,Eastern Michigan,WIN
+1988,1,8,Georgetown,9,LSU,LOSS
+1988,1,5,Georgia Tech,12,Iowa State,WIN
+1988,1,1,Temple,16,Lehigh,LOSS
+1988,1,6,Villanova,11,Arkansas,WIN
+1988,1,4,Indiana,13,Richmond,WIN
+1988,1,3,Illinois,14,Texas-San Antonio,WIN
+1988,1,3,North Carolina State,14,Murray St.,LOSS
+1988,1,6,Kansas,11,Xavier,LOSS
+1988,2,7,Vanderbilt,2,Pittsburgh,WIN
+1988,1,1,Arizona,16,Cornell,LOSS
+1988,1,5,Iowa,12,Florida State,WIN
+1988,1,2,Kentucky,15,Southern,WIN
+1988,1,4,Brigham Young,13,Charlotte,LOSS
+1988,1,7,Wyoming,10,Loyola Marymount,WIN
+1988,1,8,Baylor,9,Memphis,LOSS
+1988,1,3,Syracuse,14,North Carolina A&T,WIN
+1988,1,7,Southern Methodist,10,Notre Dame,LOSS
+1988,1,2,Duke,15,Boston University,WIN
+1988,1,6,Florida,11,St. John's,WIN
+1988,1,3,Michigan,14,Boise State,LOSS
+1988,1,2,North Carolina,15,North Texas,WIN
+1988,1,1,Oklahoma,16,Chattanooga,WIN
+1988,1,1,Purdue,16,Fairleigh Dickinson,LOSS
+1988,1,5,DePaul,12,Wichita State,LOSS
+1988,1,4,Kansas State,13,La Salle,WIN
+1988,1,8,Auburn,9,Bradley,WIN
+1988,1,5,Louisville,12,Oregon State,WIN
+1988,1,6,Missouri,11,Rhode Island,WIN
+1987,6,1,Indiana,2,Syracuse,LOSS
+1987,5,1,UNLV,1,Indiana,WIN
+1987,5,6,Providence,2,Syracuse,WIN
+1987,4,1,UNLV,2,Iowa,WIN
+1987,4,1,Indiana,10,LSU,WIN
+1987,4,1,North Carolina,2,Syracuse,WIN
+1987,4,1,Georgetown,6,Providence,LOSS
+1987,3,3,DePaul,10,LSU,WIN
+1987,3,1,UNLV,12,Wyoming,WIN
+1987,3,6,Oklahoma,2,Iowa,LOSS
+1987,3,1,Indiana,5,Duke,LOSS
+1987,3,1,North Carolina,5,Notre Dame,WIN
+1987,3,1,Georgetown,5,Kansas,LOSS
+1987,3,6,Providence,2,Alabama,LOSS
+1987,3,6,Florida,2,Syracuse,LOSS
+1987,2,6,St. John's,3,DePaul,WIN
+1987,2,7,UTEP,2,Iowa,WIN
+1987,2,10,Western Kentucky,2,Syracuse,LOSS
+1987,2,6,Oklahoma,3,Pittsburgh,WIN
+1987,2,10,LSU,2,Temple,LOSS
+1987,2,1,Georgetown,9,Ohio State,WIN
+1987,2,6,Florida,3,Purdue,LOSS
+1987,2,5,Kansas,13,Missouri State,LOSS
+1987,2,6,Providence,14,Austin Peay,WIN
+1987,2,12,Wyoming,4,UCLA,LOSS
+1987,2,1,UNLV,9,Kansas State,LOSS
+1987,2,1,North Carolina,9,Michigan,LOSS
+1987,2,7,New Orleans,2,Alabama,WIN
+1987,2,5,Notre Dame,4,TCU,LOSS
+1987,2,5,Duke,13,Xavier,WIN
+1987,2,1,Indiana,8,Auburn,LOSS
+1987,1,5,Kansas,12,Houston,WIN
+1987,1,6,Florida,11,North Carolina State,WIN
+1987,1,3,Purdue,14,Northeastern,WIN
+1987,1,2,Syracuse,15,Georgia Southern,LOSS
+1987,1,2,Iowa,15,Santa Clara,LOSS
+1987,1,7,UTEP,10,Arizona,WIN
+1987,1,8,Kentucky,9,Ohio State,LOSS
+1987,1,3,Pittsburgh,14,Marist,WIN
+1987,1,6,Oklahoma,11,Tulsa,WIN
+1987,1,4,Clemson,13,Missouri State,WIN
+1987,1,7,Georgia Tech,10,LSU,LOSS
+1987,1,7,West Virginia,10,Western Kentucky,WIN
+1987,1,6,St. John's,11,Wichita State,WIN
+1987,1,3,DePaul,14,Louisiana Tech,LOSS
+1987,1,2,Temple,15,Southern,WIN
+1987,1,1,Georgetown,16,Bucknell,WIN
+1987,1,7,New Orleans,10,Brigham Young,LOSS
+1987,1,4,UCLA,13,Central Michigan,LOSS
+1987,1,3,Illinois,14,Austin Peay,WIN
+1987,1,1,UNLV,16,Idaho State,WIN
+1987,1,8,Auburn,9,San Diego,LOSS
+1987,1,4,Missouri,13,Xavier,LOSS
+1987,1,8,Navy,9,Michigan,WIN
+1987,1,8,Georgia,9,Kansas State,WIN
+1987,1,5,Virginia,12,Wyoming,LOSS
+1987,1,1,Indiana,16,Fairfield,WIN
+1987,1,5,Duke,12,Texas A&M,
+1987,1,4,TCU,13,Marshall,
+1987,1,5,Notre Dame,12,Middle Tennessee State,
+1987,1,1,North Carolina,16,Penn,
+1987,1,6,Providence,11,Alabama-Birmingham,
+1987,1,2,Alabama,15,North Carolina A&T,
+1986,6,2,Louisville,1,Duke,
+1986,5,11,LSU,2,Louisville,
+1986,5,1,Duke,1,Kansas,
+1986,4,1,Duke,7,Navy,
+1986,4,1,Kansas,6,North Carolina State,
+1986,4,1,Kentucky,11,LSU,
+1986,4,8,Auburn,2,Louisville,
+1986,3,1,Kansas,5,Michigan State,
+1986,3,6,North Carolina State,7,Iowa State,
+1986,3,1,Duke,12,DePaul,
+1986,3,14,Cleveland State,7,Navy,
+1986,3,3,North Carolina,2,Louisville,
+1986,3,1,Kentucky,5,Alabama,
+1986,3,11,LSU,2,Georgia Tech,
+1986,3,8,Auburn,4,UNLV,
+1986,2,1,St. John's,8,Auburn,
+1986,2,7,Navy,2,Syracuse,
+1986,2,5,Alabama,4,Illinois,
+1986,2,1,Kentucky,8,Western Kentucky,
+1986,2,6,North Carolina State,14,Arkansas-Little Rock,
+1986,2,7,Iowa State,2,Michigan,
+1986,2,6,St. Joseph's,14,Cleveland State,
+1986,2,5,Maryland,4,UNLV,
+1986,2,6,Alabama-Birmingham,3,North Carolina,
+1986,2,11,LSU,3,Memphis,
+1986,2,1,Duke,8,Old Dominion,
+1986,2,12,DePaul,4,Oklahoma,
+1986,2,1,Kansas,9,Temple,
+1986,2,5,Michigan State,4,Georgetown,
+1986,2,10,Villanova,2,Georgia Tech,
+1986,2,7,Bradley,2,Louisville,
+1986,1,2,Syracuse,15,Brown,
+1986,1,1,St. John's,16,Montana State,
+1986,1,8,Auburn,9,Arizona,
+1986,1,8,Western Kentucky,9,Nebraska,
+1986,1,5,Maryland,12,Pepperdine,
+1986,1,6,North Carolina State,11,Iowa,
+1986,1,2,Michigan,15,Akron,
+1986,1,4,UNLV,13,Louisiana-Monroe,
+1986,1,1,Kentucky,16,Davidson,
+1986,1,7,Navy,10,Tulsa,
+1986,1,3,Notre Dame,14,Arkansas-Little Rock,
+1986,1,6,St. Joseph's,11,Richmond,
+1986,1,3,Indiana,14,Cleveland State,
+1986,1,4,Illinois,13,Fairfield,
+1986,1,8,Old Dominion,9,West Virginia,
+1986,1,7,Iowa State,10,Miami (Ohio),
+1986,1,5,Alabama,12,Xavier,
+1986,1,2,Georgia Tech,15,Marist,
+1986,1,1,Duke,16,Mississippi Valley State,
+1986,1,5,Virginia,12,DePaul,
+1986,1,4,Oklahoma,13,Northeastern,
+1986,1,1,Kansas,16,North Carolina A&T,
+1986,1,5,Michigan State,12,Washington,
+1986,1,7,Virginia Tech,10,Villanova,
+1986,1,2,Louisville,15,Drexel,
+1986,1,8,Jacksonville,9,Temple,
+1986,1,4,Georgetown,13,Texas Tech,
+1986,1,7,Bradley,10,UTEP,
+1986,1,6,Purdue,11,LSU,
+1986,1,3,North Carolina,14,Utah,
+1986,1,6,Alabama-Birmingham,11,Missouri,
+1986,1,3,Memphis,14,Ball State,
+1985,6,1,Georgetown,8,Villanova,
+1985,5,1,St. John's,1,Georgetown,
+1985,5,2,Memphis,8,Villanova,
+1985,4,1,St. John's,3,North Carolina State,
+1985,4,8,Villanova,2,North Carolina,
+1985,4,1,Georgetown,2,Georgia Tech,
+1985,4,1,Oklahoma,2,Memphis,
+1985,3,3,North Carolina State,7,Alabama,
+1985,3,11,Auburn,2,North Carolina,
+1985,3,1,St. John's,12,Kentucky,
+1985,3,8,Villanova,5,Maryland,
+1985,3,3,Illinois,2,Georgia Tech,
+1985,3,11,Boston College,2,Memphis,
+1985,3,1,Oklahoma,5,Louisiana Tech,
+1985,3,1,Georgetown,4,Loyola (Ill.),
+1985,2,11,UTEP,3,North Carolina State,
+1985,2,7,Syracuse,2,Georgia Tech,
+1985,2,7,Alabama-Birmingham,2,Memphis,
+1985,2,7,Alabama,2,Virginia Commonwealth,
+1985,2,6,Georgia,3,Illinois,
+1985,2,11,Boston College,3,Duke,
+1985,2,1,Michigan,8,Villanova,
+1985,2,5,Maryland,13,Navy,
+1985,2,1,Oklahoma,9,Illinois State,
+1985,2,1,Georgetown,8,Temple,
+1985,2,7,Notre Dame,2,North Carolina,
+1985,2,5,Southern Methodist,4,Loyola (Ill.),
+1985,2,12,Kentucky,4,UNLV,
+1985,2,1,St. John's,9,Arkansas,
+1985,2,11,Auburn,3,Kansas,
+1985,2,5,Louisiana Tech,4,Ohio State,
+1985,1,6,Texas Tech,11,Boston College,
+1985,1,7,Alabama,10,Arizona,
+1985,1,2,Virginia Commonwealth,15,Marshall,
+1985,1,3,Illinois,14,Northeastern,
+1985,1,6,Georgia,11,Wichita State,
+1985,1,7,Syracuse,10,DePaul,
+1985,1,2,Georgia Tech,15,Mercer,
+1985,1,3,Duke,14,Pepperdine,
+1985,1,7,Alabama-Birmingham,10,Michigan State,
+1985,1,1,Michigan,16,Fairleigh Dickinson,
+1985,1,8,Villanova,9,Dayton,
+1985,1,6,Tulsa,11,UTEP,
+1985,1,4,LSU,13,Navy,
+1985,1,5,Maryland,12,Miami (Ohio),
+1985,1,2,Memphis,15,Penn,
+1985,1,3,North Carolina State,14,Nevada,
+1985,1,8,Southern California,9,Illinois State,
+1985,1,6,Purdue,11,Auburn,
+1985,1,7,Notre Dame,10,Oregon State,
+1985,1,2,North Carolina,15,Middle Tennessee State,
+1985,1,4,Ohio State,13,Iowa State,
+1985,1,1,Georgetown,16,Lehigh,
+1985,1,5,Louisiana Tech,12,Pittsburgh,
+1985,1,1,Oklahoma,16,North Carolina A&T,
+1985,1,5,Washington,12,Kentucky,
+1985,1,4,Loyola (Ill.),13,Iona,
+1985,1,5,Southern Methodist,12,Old Dominion,
+1985,1,4,UNLV,13,San Diego State,
+1985,1,8,Temple,9,Virginia Tech,
+1985,1,1,St. John's,16,Southern,
+1985,1,3,Kansas,14,Ohio,
+1985,1,8,Iowa,9,Arkansas,
