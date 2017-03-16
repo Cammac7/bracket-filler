@@ -6,7 +6,6 @@ eloFile = "best_elo_by_year.csv"
 tourneyfile = "NCAA_Tourney_Data.csv"
 teamNames = "teamnamematchset.csv"
 
-elo_names = ['year', 'team' ,'elo']
 tourney_names = ['YEAR','ROUND','SEED','TEAM','SCORE','OPP_SEED','OPPONENT','OPP_SCORE','RESULT']
 teamNames_names = ['Games','NCAA']
 
@@ -16,8 +15,8 @@ namematchDataset = pandas.read_csv(teamNames)
 
 namesHash = dict(zip(namematchDataset['NCAA'], namematchDataset['Games']))
 
-for k, v in namesHash.items():
-    print(k, v)
+# for k, v in namesHash.items():
+#     print(k, v)
 
 def nameswitch(x):
     return namesHash[x]
@@ -32,7 +31,8 @@ tourneyDataset['OPPONENT'] = tourneyDataset['OPPONENT'].map(nameswitch)
 #print(eloDataset.head(20))
 
 newset = tourneyDataset.merge(eloDataset,on=['TEAM','YEAR'])
-eloDataset.columns = ['YEAR','OPPONENT','OPP_ELO']
+
+eloDataset = eloDataset.rename(columns={'TEAM': 'OPPONENT', 'ELO': 'OPP_ELO'})
 newerset = newset.merge(eloDataset,on=['OPPONENT','YEAR'])
 
 def calcscore(j):
@@ -43,12 +43,10 @@ def calcscore(j):
     else:
         return -1
 
-   
+
 newerset['ELOSCORE'] = newerset.apply(calcscore,axis=1)
 
 newerset.to_csv('testexport.csv')
 total_score = newerset['ELOSCORE'].sum()
 print(total_score)
 print(newset.head(20))
-
-
