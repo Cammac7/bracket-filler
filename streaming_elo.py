@@ -73,7 +73,7 @@ def elo_dfs(infile):
         elo_dict[p2] = elo_update(p2_elo, p1_elo, 0)
         #added list wrapping to elo_dict.items(). .items is a list in python2 but a VIEW in python3
         if next_game_year != current_game_year:
-            elo_df = pd.DataFrame(list(elo_dict.items()),columns=["NAME","ELO"])
+            elo_df = pd.DataFrame(list(elo_dict.items()),columns=["TEAM","ELO"])
             elo_df["YEAR"] = current_game_year
             sys.stderr.write(cur[1]["Date"] + '\n')
             if nex:
