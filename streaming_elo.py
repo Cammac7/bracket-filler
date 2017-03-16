@@ -22,18 +22,44 @@ def elo_update(p1_elo, p2_elo, p1_result):
     p1_new = (p1_elo + kfactor * (p1_result - p1_expected));
     return p1_new
 
+def load_tourney_start_dates():
+    INFILE = "NCAA_Dates.csv"
+
+    #eg: ['1985-03-14', '1986-03-13', '1987-03-12', '1988-03-17'...]
+    start_dates = pd.read_csv("NCAA_Dates.csv")["first_Formatted"].values
+
+    #eg: {1985:1985.24, 1986:1986.33, ...}
+    year2cutoff = dict((int(dt.split("-")[0]), to_years(dt)) for dt in start_dates)
+    return year2cutoff
+
+def date_to_tourney_year(dt, year2cutoff):
+    #given a date (string) of a game
+    #compute the tournament year that we can use that game's data for
+    #ie: if the game happens after the start of this year's
+    #NCAA tournament then we can't use that data until the next year's tourney
+    year_frac = to_years(dt)
+    year_integer = math.floor(year_frac)
+    cutoff = year2cutoff[year_integer] #the starting time of the NCAA tournament that year, expressed as a fraction
+    if year_frac >= cutoff:
+        return year_integer + 1
+    else:
+        return year_integer
 
 def elo_dfs(infile):
     df = pd.read_csv(infile)
     df = df[df.apply(lambda r: r["Result"].split()[0] == "W", axis = 1)]
     elo_dict = {}
     starting_elo = 1500
+
+    year2cutoff = load_tourney_start_dates()
+
     for las, cur, nex in threewise(df.iterrows()):
-        cur_yr = str(int(round(to_years(cur[1]["Date"]))))
+        current_game_year = date_to_tourney_year(cur[1]["Date"], year2cutoff)
         if nex:
-            nex_yr = str(int(round(to_years(nex[1]["Date"]))))
+            next_game_year = date_to_tourney_year(nex[1]["Date"], year2cutoff)
         else:
-            nex_yr = ""
+            next_game_year = ""
+
 
         _, row = cur
         p1 = row["Schl"].strip()
@@ -46,10 +72,13 @@ def elo_dfs(infile):
         elo_dict[p1] = elo_update(p1_elo, p2_elo, 1)
         elo_dict[p2] = elo_update(p2_elo, p1_elo, 0)
         #added list wrapping to elo_dict.items(). .items is a list in python2 but a VIEW in python3
-        if nex_yr != cur_yr:
+        if next_game_year != current_game_year:
             elo_df = pd.DataFrame(list(elo_dict.items()),columns=["name","elo"])
-            elo_df["year"] = cur_yr
-            sys.stderr.write(cur_yr + "\n")
+            elo_df["year"] = current_game_year
+            sys.stderr.write(cur[1]["Date"] + '\n')
+            if nex:
+                sys.stderr.write(nex[1]["Date"] + '\n')
+            sys.stderr.write(str(current_game_year) + "\n")
             yield elo_df
 
 if __name__ == "__main__":
