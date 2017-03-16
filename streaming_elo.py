@@ -38,7 +38,7 @@ def date_to_tourney_year(dt, year2cutoff):
     #ie: if the game happens after the start of this year's
     #NCAA tournament then we can't use that data until the next year's tourney
     year_frac = to_years(dt)
-    year_integer = math.floor(year_frac)
+    year_integer = int(math.floor(year_frac))
     cutoff = year2cutoff[year_integer] #the starting time of the NCAA tournament that year, expressed as a fraction
     if year_frac >= cutoff:
         return year_integer + 1
