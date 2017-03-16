@@ -34,5 +34,12 @@ tourneyDataset['OPPONENT'] = tourneyDataset['OPPONENT'].map(nameswitch)
 newset = tourneyDataset.merge(eloDataset,on=['TEAM','YEAR'])
 eloDataset.columns = ['YEAR','OPPONENT','OPP_ELO']
 newerset = newset.merge(eloDataset,on=['OPPONENT','YEAR'])
+
+def calcscore(j):
+    if j['ELO'] > j[OPP_ELO] and x['RESULT']=='WIN':
+        x['ELOSCORE'] = 1
+    
+newerset['ELOSCORE'] = newerset.apply(calcscore,axis=1)
+
 newerset.to_csv('testexport.csv')
 print(newset.head(20))
