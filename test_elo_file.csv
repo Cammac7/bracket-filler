@@ -1,4 +1,4 @@
-year,team,elo
+YEAR,TEAM,ELO
 2010,Air Force,0.6837
 2010,Akron,0.9293
 2010,Alabama,0.3342
@@ -598,7 +598,7 @@ year,team,elo
 2011,Saint Peter's,0.0041
 2011,Samford,0.1987
 2011,Sam Houston State,0.9258
-2011,San Diego,1.0
+2011,San Diego,1
 2011,San Diego State,0.789
 2011,San Francisco,0.1456
 2011,San Jose State,0.1191
@@ -2614,7 +2614,7 @@ year,team,elo
 2017,Michigan,0.1834
 2017,Michigan State,0.0994
 2017,Middle Tennessee,0.5632
-2017,Milwaukee,1.0
+2017,Milwaukee,1
 2017,Minnesota,0.0951
 2017,Mississippi,0.9975
 2017,Mississippi State,0.4239

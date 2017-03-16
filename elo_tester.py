@@ -25,6 +25,7 @@ def nameswitch(x):
 print(tourneyDataset.head(20))
 
 tourneyDataset['TEAM'].map(nameswitch)
+tourneyDataset['OPPONENT'].map(nameswitch)
 
 eloDataset['score'] = 0
 
