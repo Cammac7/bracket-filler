@@ -7,7 +7,7 @@ tourneyfile = "NCAA_Tourney_Data.csv"
 teamNames = "teamnamematchset.csv"
 
 elo_names = ['year', 'team' ,'elo']
-tourney_names = ['YEAR','ROUND','SEED','TEAM','SCORE','OPP_SEED','OPPONENT','OPP_SCORE','SCORE_DIFF','RESULT']
+tourney_names = ['YEAR','ROUND','SEED','TEAM','SCORE','OPP_SEED','OPPONENT','OPP_SCORE','RESULT']
 teamNames_names = ['Games','NCAA']
 
 eloDataset = pandas.read_csv(eloFile)
