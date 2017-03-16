@@ -3,7 +3,7 @@ import numpy
 import pandas
 
 eloFile = "test_elo_file.csv"
-tourneyfile = "NCAAtourneydata_all.csv"
+tourneyfile = "NCAA_Tourney_Data.csv"
 teamNames = "teamnamematchset.csv"
 
 elo_names = ['year', 'team' ,'elo']
