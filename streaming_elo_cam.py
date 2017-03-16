@@ -4,7 +4,9 @@ import pandas as pd
 import argparse
 import sys
 import jtutils
-from jtutils.jtfunctions import to_years, threewise
+from jtutils.jtfunctions import to_years, to_days, threewise
+from datetime import datetime
+
 
 def readCL():
     parser = argparse.ArgumentParser()
@@ -30,10 +32,13 @@ def elo_dfs(infile):
     starting_elo = 1500
     for las, cur, nex in threewise(df.iterrows()):
         cur_yr = str(int(round(to_years(cur[1]["Date"]))))
+        cur_date = datetime.strptime(cur[1]["Date"],"%Y-%m-%d")
         if nex:
             nex_yr = str(int(round(to_years(nex[1]["Date"]))))
+            nex_date = datetime.strptime(cur[1]["Date"],"%Y-%m-%d")
         else:
             nex_yr = ""
+            nex_date = ""
 
         _, row = cur
         p1 = row["Schl"].strip()
@@ -46,7 +51,7 @@ def elo_dfs(infile):
         elo_dict[p1] = elo_update(p1_elo, p2_elo, 1)
         elo_dict[p2] = elo_update(p2_elo, p1_elo, 0)
         #added list wrapping to elo_dict.items(). .items is a list in python2 but a VIEW in python3
-        if nex_yr != cur_yr:
+        if nex_date > datetime.strptime(nex_yr+"-03-11","%Y-%m-%d"):
             elo_df = pd.DataFrame(list(elo_dict.items()),columns=["name","elo"])
             elo_df["year"] = cur_yr
             sys.stderr.write(cur_yr + "\n")
