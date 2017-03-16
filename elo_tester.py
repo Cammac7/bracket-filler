@@ -32,5 +32,7 @@ tourneyDataset['OPPONENT'].map(nameswitch)
 #print(eloDataset.head(20))
 
 newset = tourneyDataset.merge(eloDataset,on=['TEAM','YEAR'])
-
+eloDataset.columns = ['YEAR','OPPONENT','OPP_ELO']
+newerset = newset.merge(eloDataset,on=['OPPONENT','YEAR'])
+newerset.to_csv('testexport.csv')
 print(newset.head(20))
