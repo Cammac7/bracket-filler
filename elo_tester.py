@@ -36,9 +36,9 @@ eloDataset.columns = ['YEAR','OPPONENT','OPP_ELO']
 newerset = newset.merge(eloDataset,on=['OPPONENT','YEAR'])
 
 def calcscore(j):
-    if j['ELO'] > j[OPP_ELO] and j['RESULT']=='WIN':
+    if j['ELO'] > j['OPP_ELO'] and j['RESULT']=='WIN':
         j['ELOSCORE'] = 1
-    
+   
 newerset['ELOSCORE'] = newerset.apply(calcscore,axis=1)
 
 newerset.to_csv('testexport.csv')
