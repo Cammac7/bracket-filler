@@ -38,7 +38,7 @@ newerset = newset.merge(eloDataset,on=['OPPONENT','YEAR'])
 def calcscore(j):
     if j['ELO'] > j['OPP_ELO'] and j['RESULT']=='WIN':
         return 1
-    elif j['ELO']<J['OPP_ELO'] and j['RESULT']=='LOSS':
+    elif j['ELO']<j['OPP_ELO'] and j['RESULT']=='LOSS':
         return 1
     else:
         return -1
