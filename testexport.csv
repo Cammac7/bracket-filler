@@ -1,9 +1,9 @@
 ,YEAR,ROUND,SEED,TEAM,SCORE,OPP_SEED,OPPONENT,OPP_SCORE,RESULT,ELO,OPP_ELO,ELOSCORE
 0,2016,Play-In,16,Fairleigh Dickinson,65,16,Florida Gulf Coast,96,LOSS,0.4626,0.0562,
-1,2016,First Round,1,North Carolina,83,16,Florida Gulf Coast,67,WIN,0.495,0.0562,
+1,2016,First Round,1,North Carolina,83,16,Florida Gulf Coast,67,WIN,0.495,0.0562,1.0
 2,2016,Sweet 16,3,Miami (FL),69,2,Villanova,92,LOSS,0.5337,0.3056,
 3,2016,Elite Eight,1,Kansas,59,2,Villanova,64,LOSS,0.1808,0.3056,
-4,2016,First Round,3,Miami (FL),79,14,Buffalo,72,WIN,0.5337,0.337,
+4,2016,First Round,3,Miami (FL),79,14,Buffalo,72,WIN,0.5337,0.337,1.0
 5,2016,First Round,7,Dayton,51,10,Syracuse,70,LOSS,0.4574,0.7468,
 6,2016,Elite Eight,1,Virginia,62,10,Syracuse,68,LOSS,0.2119,0.7468,
 7,2016,Sweet 16,11,Gonzaga,60,10,Syracuse,63,LOSS,0.1192,0.7468,
@@ -12,45 +12,45 @@
 10,2016,Sweet 16,1,Virginia,84,4,Iowa State,71,WIN,0.2119,0.4147,
 11,2016,First Round,6,Seton Hall,52,11,Gonzaga,68,LOSS,0.0914,0.1192,
 12,2016,First Round,3,West Virginia,56,14,Stephen F. Austin,70,LOSS,0.1629,0.4651,
-13,2016,Second Round,6,Notre Dame,76,14,Stephen F. Austin,75,WIN,0.5674,0.4651,
+13,2016,Second Round,6,Notre Dame,76,14,Stephen F. Austin,75,WIN,0.5674,0.4651,1.0
 14,2016,Sweet 16,3,Texas A&M,63,2,Oklahoma,77,LOSS,0.1913,0.8393,
 15,2016,Elite Eight,1,Oregon,68,2,Oklahoma,80,LOSS,0.9728,0.8393,
 16,2016,Final Four,2,Villanova,95,2,Oklahoma,51,WIN,0.3056,0.8393,
-17,2016,Second Round,3,Texas A&M,92,11,Northern Iowa,88,WIN,0.1913,0.0254,
+17,2016,Second Round,3,Texas A&M,92,11,Northern Iowa,88,WIN,0.1913,0.0254,1.0
 18,2016,First Round,6,Texas,72,11,Northern Iowa,75,LOSS,0.10300000000000001,0.0254,
-19,2016,First Round,3,Texas A&M,92,14,Green Bay,65,WIN,0.1913,0.1725,
-20,2016,Second Round,1,Oregon,69,8,Saint Joseph's,64,WIN,0.9728,0.1882,
-21,2016,Sweet 16,1,Oregon,82,4,Duke,68,WIN,0.9728,0.7259,
+19,2016,First Round,3,Texas A&M,92,14,Green Bay,65,WIN,0.1913,0.1725,1.0
+20,2016,Second Round,1,Oregon,69,8,Saint Joseph's,64,WIN,0.9728,0.1882,1.0
+21,2016,Sweet 16,1,Oregon,82,4,Duke,68,WIN,0.9728,0.7259,1.0
 22,2016,Second Round,12,Yale,64,4,Duke,71,LOSS,0.9282,0.7259,
-23,2016,First Round,1,Oregon,91,16,Holy Cross,52,WIN,0.9728,0.0186,
+23,2016,First Round,1,Oregon,91,16,Holy Cross,52,WIN,0.9728,0.0186,1.0
 24,2016,First Round,4,University of California,66,13,Hawaii,77,LOSS,0.0936,0.8088,
 25,2016,Second Round,5,Maryland,73,13,Hawaii,60,WIN,0.0034,0.8088,
 26,2016,First Round,8,Texas Tech,61,9,Butler,71,LOSS,0.2043,0.6983,
 27,2016,Second Round,1,Virginia,77,9,Butler,69,WIN,0.2119,0.6983,
 28,2016,First Round,6,Arizona,55,11,Wichita State,65,LOSS,0.325,0.6343,
 29,2016,First Round,2,Michigan State,81,15,Middle Tennessee,90,LOSS,0.8122,0.2275,
-30,2016,Second Round,10,Syracuse,75,15,Middle Tennessee,50,WIN,0.7468,0.2275,
+30,2016,Second Round,10,Syracuse,75,15,Middle Tennessee,50,WIN,0.7468,0.2275,1.0
 31,2016,First Round,7,Oregon State,67,10,Virginia Commonwealth,75,LOSS,0.7034,0.1958,
-32,2016,Second Round,2,Oklahoma,85,10,Virginia Commonwealth,81,WIN,0.8393,0.1958,
+32,2016,Second Round,2,Oklahoma,85,10,Virginia Commonwealth,81,WIN,0.8393,0.1958,1.0
 33,2016,Second Round,11,Wichita State,57,3,Miami (FL),65,LOSS,0.6343,0.5337,
-34,2016,Play-In,11,Wichita State,70,11,Vanderbilt,50,WIN,0.6343,0.0251,
+34,2016,Play-In,11,Wichita State,70,11,Vanderbilt,50,WIN,0.6343,0.0251,1.0
 35,2016,First Round,8,Colorado,67,9,Connecticut,74,LOSS,0.0008,0.7397,
 36,2016,Second Round,1,Kansas,73,9,Connecticut,61,WIN,0.1808,0.7397,
-37,2016,First Round,12,Yale,79,5,Baylor,75,WIN,0.9282,0.9234,
-38,2016,First Round,1,Virginia,81,16,Hampton,45,WIN,0.2119,0.0694,
+37,2016,First Round,12,Yale,79,5,Baylor,75,WIN,0.9282,0.9234,1.0
+38,2016,First Round,1,Virginia,81,16,Hampton,45,WIN,0.2119,0.0694,1.0
 39,2016,Play-In,11,Tulsa,62,11,Michigan,67,LOSS,0.6624,0.2139,
-40,2016,First Round,6,Notre Dame,70,11,Michigan,63,WIN,0.5674,0.2139,
-41,2016,Sweet 16,1,Kansas,79,5,Maryland,63,WIN,0.1808,0.0034,
+40,2016,First Round,6,Notre Dame,70,11,Michigan,63,WIN,0.5674,0.2139,1.0
+41,2016,Sweet 16,1,Kansas,79,5,Maryland,63,WIN,0.1808,0.0034,1.0
 42,2016,First Round,1,Kansas,105,16,Austin Peay,79,WIN,0.1808,0.8006,
 43,2016,First Round,10,Pittsburgh,43,7,Wisconsin,47,LOSS,0.6334,0.7546,
 44,2016,Second Round,2,Xavier,63,7,Wisconsin,66,LOSS,0.8093,0.7546,
 45,2016,Sweet 16,6,Notre Dame,61,7,Wisconsin,56,WIN,0.5674,0.7546,
-46,2016,First Round,2,Xavier,71,15,Weber State,53,WIN,0.8093,0.297,
+46,2016,First Round,2,Xavier,71,15,Weber State,53,WIN,0.8093,0.297,1.0
 47,2016,Second Round,11,Gonzaga,82,3,Utah,59,WIN,0.1192,0.3798,
 48,2016,First Round,5,Purdue,83,12,Arkansas-Little Rock,85,LOSS,0.6167,0.125,
 49,2016,First Round,8,Southern California,69,9,Providence,70,LOSS,0.8764,0.3528,
-50,2016,Second Round,1,North Carolina,85,9,Providence,66,WIN,0.495,0.3528,
-51,2016,First Round,7,Iowa,72,10,Temple,70,WIN,0.7538,0.191,
+50,2016,Second Round,1,North Carolina,85,9,Providence,66,WIN,0.495,0.3528,1.0
+51,2016,First Round,7,Iowa,72,10,Temple,70,WIN,0.7538,0.191,1.0
 52,2016,First Round,8,Saint Joseph's,78,9,Cincinnati,76,WIN,0.1882,0.5032,
 53,2016,National Championship,2,Villanova,77,1,North Carolina,74,WIN,0.3056,0.495,
 54,2016,Second Round,2,Villanova,87,7,Iowa,68,WIN,0.3056,0.7538,
@@ -59,139 +59,139 @@
 57,2016,First Round,2,Oklahoma,82,15,Cal State Bakersfield,68,WIN,0.8393,0.9261,
 58,2016,First Round,5,Maryland,79,12,South Dakota State,74,WIN,0.0034,0.8326,
 59,2016,Second Round,5,Indiana,73,4,Kentucky,67,WIN,0.1812,0.4818,
-60,2016,First Round,5,Indiana,99,12,Chattanooga,74,WIN,0.1812,0.1097,
-61,2016,First Round,4,Duke,93,13,North Carolina-Wilmington,85,WIN,0.7259,0.6665,
+60,2016,First Round,5,Indiana,99,12,Chattanooga,74,WIN,0.1812,0.1097,1.0
+61,2016,First Round,4,Duke,93,13,North Carolina-Wilmington,85,WIN,0.7259,0.6665,1.0
 62,2016,First Round,3,Utah,80,14,Fresno State,69,WIN,0.3798,0.9844,
 63,2016,First Round,4,Iowa State,94,13,Iona,81,WIN,0.4147,0.8089,
 64,2016,Elite Eight,1,North Carolina,88,6,Notre Dame,74,WIN,0.495,0.5674,
-65,2016,Sweet 16,1,North Carolina,101,5,Indiana,86,WIN,0.495,0.1812,
+65,2016,Sweet 16,1,North Carolina,101,5,Indiana,86,WIN,0.495,0.1812,1.0
 66,2016,First Round,4,Kentucky,85,13,Stony Brook,57,WIN,0.4818,0.539,
 67,2015,Final Four,7,Michigan State,61,1,Duke,81,LOSS,0.5539999999999999,0.4974,
 68,2015,National Championship,1,Wisconsin,63,1,Duke,68,LOSS,0.4914,0.4974,
-69,2015,Second Round,7,Michigan State,60,2,Virginia,54,WIN,0.5539999999999999,0.3261,
+69,2015,Second Round,7,Michigan State,60,2,Virginia,54,WIN,0.5539999999999999,0.3261,1.0
 70,2015,Elite Eight,7,Michigan State,76,4,Louisville,70,WIN,0.5539999999999999,0.9845,
 71,2015,Second Round,5,Northern Iowa,53,4,Louisville,66,LOSS,0.6462,0.9845,
 72,2015,Sweet 16,8,North Carolina State,65,4,Louisville,75,LOSS,0.255,0.9845,
-73,2015,First Round,7,Michigan State,70,10,Georgia,63,WIN,0.5539999999999999,0.1221,
+73,2015,First Round,7,Michigan State,70,10,Georgia,63,WIN,0.5539999999999999,0.1221,1.0
 74,2015,Second Round,7,Iowa,68,2,Gonzaga,87,LOSS,0.4974,0.2412,
 75,2015,Sweet 16,11,UCLA,62,2,Gonzaga,74,LOSS,0.3433,0.2412,
-76,2015,Elite Eight,1,Duke,66,2,Gonzaga,52,WIN,0.4974,0.2412,
-77,2015,First Round,7,Iowa,83,10,Davidson,52,WIN,0.4974,0.3776,
+76,2015,Elite Eight,1,Duke,66,2,Gonzaga,52,WIN,0.4974,0.2412,1.0
+77,2015,First Round,7,Iowa,83,10,Davidson,52,WIN,0.4974,0.3776,1.0
 78,2015,Second Round,10,Ohio State,58,2,Arizona,73,LOSS,0.3555,0.0944,
 79,2015,Sweet 16,6,Xavier,60,2,Arizona,68,LOSS,0.8057,0.0944,
-80,2015,Elite Eight,1,Wisconsin,85,2,Arizona,78,WIN,0.4914,0.0944,
+80,2015,Elite Eight,1,Wisconsin,85,2,Arizona,78,WIN,0.4914,0.0944,1.0
 81,2015,First Round,6,Providence,53,11,Dayton,66,LOSS,0.0555,0.713,
-82,2015,First Round,5,Northern Iowa,71,12,Wyoming,54,WIN,0.6462,0.0783,
-83,2015,Second Round,11,UCLA,92,14,Alabama-Birmingham,75,WIN,0.3433,0.2536,
+82,2015,First Round,5,Northern Iowa,71,12,Wyoming,54,WIN,0.6462,0.0783,1.0
+83,2015,Second Round,11,UCLA,92,14,Alabama-Birmingham,75,WIN,0.3433,0.2536,1.0
 84,2015,First Round,3,Iowa State,59,14,Alabama-Birmingham,60,LOSS,0.1577,0.2536,
 85,2015,Play-In,16,Manhattan,64,16,Hampton,74,LOSS,0.1711,0.087,
-86,2015,First Round,1,Kentucky,79,16,Hampton,56,WIN,0.4076,0.087,
+86,2015,First Round,1,Kentucky,79,16,Hampton,56,WIN,0.4076,0.087,1.0
 87,2015,First Round,8,North Carolina State,66,9,Louisiana State,65,WIN,0.255,0.7292,
 88,2015,Second Round,5,Arkansas,78,4,North Carolina,87,LOSS,0.3147,0.6907,
 89,2015,Sweet 16,1,Wisconsin,79,4,North Carolina,72,WIN,0.4914,0.6907,
 90,2015,First Round,5,Arkansas,56,12,Wofford,53,WIN,0.3147,0.6949,
-91,2015,Second Round,6,Xavier,75,14,Georgia State,67,WIN,0.8057,0.1839,
+91,2015,Second Round,6,Xavier,75,14,Georgia State,67,WIN,0.8057,0.1839,1.0
 92,2015,First Round,3,Baylor,56,14,Georgia State,57,LOSS,0.7298,0.1839,
 93,2015,First Round,6,Xavier,76,11,Mississippi,57,WIN,0.8057,0.9735,
 94,2015,Final Four,1,Kentucky,64,1,Wisconsin,71,LOSS,0.4076,0.4914,
 95,2015,Elite Eight,1,Kentucky,68,3,Notre Dame,66,WIN,0.4076,0.5418,
 96,2015,Second Round,6,Butler,64,3,Notre Dame,67,LOSS,0.5283,0.5418,
-97,2015,Second Round,1,Kentucky,64,8,Cincinnati,51,WIN,0.4076,0.2003,
-98,2015,Sweet 16,1,Kentucky,78,5,West Virginia,39,WIN,0.4076,0.359,
+97,2015,Second Round,1,Kentucky,64,8,Cincinnati,51,WIN,0.4076,0.2003,1.0
+98,2015,Sweet 16,1,Kentucky,78,5,West Virginia,39,WIN,0.4076,0.359,1.0
 99,2015,First Round,12,Buffalo,62,5,West Virginia,68,LOSS,0.6709,0.359,
 100,2015,Second Round,11,Dayton,66,3,Oklahoma,72,LOSS,0.713,0.3336,
-101,2015,Play-In,11,Dayton,56,11,Boise State,55,WIN,0.713,0.5218,
-102,2015,Second Round,1,Wisconsin,72,8,Oregon,65,WIN,0.4914,0.1827,
-103,2015,First Round,1,Wisconsin,86,16,Coastal Carolina,72,WIN,0.4914,0.4481,
+101,2015,Play-In,11,Dayton,56,11,Boise State,55,WIN,0.713,0.5218,1.0
+102,2015,Second Round,1,Wisconsin,72,8,Oregon,65,WIN,0.4914,0.1827,1.0
+103,2015,First Round,1,Wisconsin,86,16,Coastal Carolina,72,WIN,0.4914,0.4481,1.0
 104,2015,Sweet 16,3,Oklahoma,58,7,Michigan State,62,LOSS,0.3336,0.5539999999999999,
-105,2015,First Round,3,Oklahoma,69,14,Albany (NY),60,WIN,0.3336,0.0961,
+105,2015,First Round,3,Oklahoma,69,14,Albany (NY),60,WIN,0.3336,0.0961,1.0
 106,2015,First Round,7,Virginia Commonwealth,72,10,Ohio State,75,LOSS,0.5892,0.3555,
 107,2015,First Round,6,Butler,56,11,Texas,48,WIN,0.5283,0.5734,
 108,2015,Second Round,1,Villanova,68,8,North Carolina State,71,LOSS,0.7909999999999999,0.255,
-109,2015,First Round,1,Villanova,93,16,Lafayette,52,WIN,0.7909999999999999,0.2735,
+109,2015,First Round,1,Villanova,93,16,Lafayette,52,WIN,0.7909999999999999,0.2735,1.0
 110,2015,First Round,6,Southern Methodist,59,11,UCLA,60,LOSS,0.6604,0.3433,
 111,2015,First Round,8,Cincinnati,66,9,Purdue,65,WIN,0.2003,0.7040000000000001,
-112,2015,First Round,4,Louisville,57,13,UC-Irvine,55,WIN,0.9845,0.6323,
-113,2015,First Round,4,North Carolina,67,13,Harvard,65,WIN,0.6907,0.2437,
+112,2015,First Round,4,Louisville,57,13,UC-Irvine,55,WIN,0.9845,0.6323,1.0
+113,2015,First Round,4,North Carolina,67,13,Harvard,65,WIN,0.6907,0.2437,1.0
 114,2015,First Round,4,Maryland,65,13,Valparaiso,62,WIN,0.0794,0.299,
-115,2015,Play-In,11,Mississippi,94,11,Brigham Young,90,WIN,0.9735,0.0702,
+115,2015,Play-In,11,Mississippi,94,11,Brigham Young,90,WIN,0.9735,0.0702,1.0
 116,2015,Play-In,16,Robert Morris,81,16,North Florida,77,WIN,0.1209,0.5974,
 117,2015,First Round,3,Notre Dame,69,14,Northeastern,65,WIN,0.5418,0.7095,
 118,2015,Sweet 16,3,Notre Dame,81,7,Wichita State,70,WIN,0.5418,0.9134,
-119,2015,First Round,7,Wichita State,81,10,Indiana,76,WIN,0.9134,0.3678,
+119,2015,First Round,7,Wichita State,81,10,Indiana,76,WIN,0.9134,0.3678,1.0
 120,2015,Second Round,7,Wichita State,78,2,Kansas,65,WIN,0.9134,0.9629,
-121,2015,First Round,8,Oregon,79,9,Oklahoma State,73,WIN,0.1827,0.1592,
-122,2015,Sweet 16,1,Duke,63,5,Utah,57,WIN,0.4974,0.1908,
+121,2015,First Round,8,Oregon,79,9,Oklahoma State,73,WIN,0.1827,0.1592,1.0
+122,2015,Sweet 16,1,Duke,63,5,Utah,57,WIN,0.4974,0.1908,1.0
 123,2015,Second Round,1,Duke,68,8,San Diego State,49,WIN,0.4974,0.7081,
-124,2015,First Round,1,Duke,85,16,Robert Morris,56,WIN,0.4974,0.1209,
+124,2015,First Round,1,Duke,85,16,Robert Morris,56,WIN,0.4974,0.1209,1.0
 125,2015,First Round,5,Utah,57,12,Stephen F. Austin,50,WIN,0.1908,0.6467,
-126,2015,Second Round,5,Utah,75,4,Georgetown,64,WIN,0.1908,0.1403,
+126,2015,Second Round,5,Utah,75,4,Georgetown,64,WIN,0.1908,0.1403,1.0
 127,2015,First Round,4,Georgetown,84,13,Eastern Washington,74,WIN,0.1403,0.1854,
 128,2015,First Round,2,Gonzaga,86,15,North Dakota State,76,WIN,0.2412,0.9539,
-129,2015,Second Round,5,West Virginia,69,4,Maryland,59,WIN,0.359,0.0794,
+129,2015,Second Round,5,West Virginia,69,4,Maryland,59,WIN,0.359,0.0794,1.0
 130,2015,First Round,2,Virginia,79,15,Belmont,67,WIN,0.3261,0.5533,
-131,2015,First Round,8,San Diego State,76,9,St. John's (NY),64,WIN,0.7081,0.0487,
-132,2015,First Round,2,Kansas,75,15,New Mexico State,56,WIN,0.9629,0.95,
+131,2015,First Round,8,San Diego State,76,9,St. John's (NY),64,WIN,0.7081,0.0487,1.0
+132,2015,First Round,2,Kansas,75,15,New Mexico State,56,WIN,0.9629,0.95,1.0
 133,2015,First Round,2,Arizona,93,15,Texas Southern,72,WIN,0.0944,0.7304,
 134,2014,First Round,8,Colorado,48,9,Pittsburgh,77,LOSS,0.737,0.2016,
-135,2014,Second Round,1,Florida,61,9,Pittsburgh,45,WIN,0.4038,0.2016,
+135,2014,Second Round,1,Florida,61,9,Pittsburgh,45,WIN,0.4038,0.2016,1.0
 136,2014,First Round,6,Massachusetts,67,11,Tennessee,86,LOSS,0.7536,0.2133,
 137,2014,Play-In,11,Iowa,65,11,Tennessee,78,LOSS,0.3264,0.2133,
 138,2014,Second Round,12,North Dakota State,44,4,San Diego State,63,LOSS,0.0591,0.1468,
 139,2014,Sweet 16,1,Arizona,70,4,San Diego State,64,WIN,0.1138,0.1468,
 140,2014,Second Round,12,Stephen F. Austin,60,6,UCLA,77,LOSS,0.7585,0.2488,
-141,2014,Sweet 16,1,Florida,79,4,UCLA,68,WIN,0.4038,0.2488,
+141,2014,Sweet 16,1,Florida,79,4,UCLA,68,WIN,0.4038,0.2488,1.0
 142,2014,Sweet 16,6,Baylor,52,2,Wisconsin,69,LOSS,0.1765,0.5479999999999999,
 143,2014,Second Round,7,Oregon,77,2,Wisconsin,85,LOSS,0.8468,0.5479999999999999,
 144,2014,Elite Eight,1,Arizona,63,2,Wisconsin,64,LOSS,0.1138,0.5479999999999999,
 145,2014,First Round,6,Baylor,74,11,Nebraska,60,WIN,0.1765,0.5735,
-146,2014,Second Round,6,Baylor,85,3,Creighton,55,WIN,0.1765,0.1415,
+146,2014,Second Round,6,Baylor,85,3,Creighton,55,WIN,0.1765,0.1415,1.0
 147,2014,Second Round,5,Saint Louis,51,4,Louisville,66,LOSS,0.9448,0.8748,
 148,2014,Sweet 16,8,Kentucky,74,4,Louisville,69,WIN,0.3729,0.8748,
-149,2014,First Round,5,Saint Louis,83,12,North Carolina State,80,WIN,0.9448,0.2035,
+149,2014,First Round,5,Saint Louis,83,12,North Carolina State,80,WIN,0.9448,0.2035,1.0
 150,2014,Second Round,7,Texas,65,2,Michigan,79,LOSS,0.287,0.1666,
 151,2014,Sweet 16,11,Tennessee,71,2,Michigan,73,LOSS,0.2133,0.1666,
-152,2014,Elite Eight,8,Kentucky,75,2,Michigan,72,WIN,0.3729,0.1666,
+152,2014,Elite Eight,8,Kentucky,75,2,Michigan,72,WIN,0.3729,0.1666,1.0
 153,2014,First Round,7,Texas,87,10,Arizona State,85,WIN,0.287,0.6905,
 154,2014,Final Four,1,Florida,53,7,Connecticut,63,LOSS,0.4038,0.7893,
 155,2014,Elite Eight,4,Michigan State,54,7,Connecticut,60,LOSS,0.4167,0.7893,
 156,2014,Sweet 16,3,Iowa State,76,7,Connecticut,81,LOSS,0.5418,0.7893,
-157,2014,Elite Eight,1,Florida,62,11,Dayton,52,WIN,0.4038,0.0322,
+157,2014,Elite Eight,1,Florida,62,11,Dayton,52,WIN,0.4038,0.0322,1.0
 158,2014,First Round,6,Ohio State,59,11,Dayton,60,LOSS,0.0457,0.0322,
-159,2014,First Round,1,Florida,67,16,Albany (NY),55,WIN,0.4038,0.2114,
-160,2014,First Round,7,Oregon,87,10,Brigham Young,68,WIN,0.8468,0.1747,
+159,2014,First Round,1,Florida,67,16,Albany (NY),55,WIN,0.4038,0.2114,1.0
+160,2014,First Round,7,Oregon,87,10,Brigham Young,68,WIN,0.8468,0.1747,1.0
 161,2014,First Round,3,Duke,71,14,Mercer,78,LOSS,0.6794,0.1376,
-162,2014,Second Round,11,Tennessee,83,14,Mercer,63,WIN,0.2133,0.1376,
+162,2014,Second Round,11,Tennessee,83,14,Mercer,63,WIN,0.2133,0.1376,1.0
 163,2014,Second Round,12,Harvard,73,4,Michigan State,80,LOSS,0.3087,0.4167,
 164,2014,Sweet 16,1,Virginia,59,4,Michigan State,61,LOSS,0.4127,0.4167,
 165,2014,First Round,4,Michigan State,93,13,Delaware,78,WIN,0.4167,0.5838,
 166,2014,First Round,5,Oklahoma,75,12,North Dakota State,80,LOSS,0.5002,0.0591,
 167,2014,First Round,7,New Mexico,53,10,Stanford,58,LOSS,0.3921,0.8001,
 168,2014,Sweet 16,11,Dayton,82,10,Stanford,72,WIN,0.0322,0.8001,
-169,2014,First Round,3,Iowa State,93,14,North Carolina Central,75,WIN,0.5418,0.1628,
+169,2014,First Round,3,Iowa State,93,14,North Carolina Central,75,WIN,0.5418,0.1628,1.0
 170,2014,First Round,5,Cincinnati,57,12,Harvard,61,LOSS,0.4475,0.3087,
 171,2014,First Round,5,Virginia Commonwealth,75,12,Stephen F. Austin,77,LOSS,0.5031,0.7585,
 172,2014,Second Round,6,North Carolina,83,10,Iowa State,85,LOSS,0.4143,0.5418,
-173,2014,First Round,6,North Carolina,79,11,Providence,77,WIN,0.4143,0.0708,
+173,2014,First Round,6,North Carolina,79,11,Providence,77,WIN,0.4143,0.0708,1.0
 174,2014,Second Round,1,Wichita State,76,8,Kentucky,78,LOSS,0.5083,0.3729,
 175,2014,Final Four,2,Wisconsin,73,8,Kentucky,74,LOSS,0.5479999999999999,0.3729,
-176,2014,National Championship,7,Connecticut,60,8,Kentucky,54,WIN,0.7893,0.3729,
-177,2014,First Round,1,Wichita State,64,16,Cal Poly,37,WIN,0.5083,0.2423,
+176,2014,National Championship,7,Connecticut,60,8,Kentucky,54,WIN,0.7893,0.3729,1.0
+177,2014,First Round,1,Wichita State,64,16,Cal Poly,37,WIN,0.5083,0.2423,1.0
 178,2014,First Round,1,Virginia,70,16,Coastal Carolina,59,WIN,0.4127,0.6588,
 179,2014,Second Round,1,Virginia,78,8,Memphis,60,WIN,0.4127,0.4687,
 180,2014,First Round,1,Arizona,68,16,Weber State,59,WIN,0.1138,0.3139,
 181,2014,Second Round,1,Arizona,84,8,Gonzaga,61,WIN,0.1138,0.8197,
-182,2014,First Round,2,Wisconsin,75,15,American,35,WIN,0.5479999999999999,0.1159,
+182,2014,First Round,2,Wisconsin,75,15,American,35,WIN,0.5479999999999999,0.1159,1.0
 183,2014,Second Round,11,Dayton,55,3,Syracuse,53,WIN,0.0322,0.6343,
-184,2014,Second Round,10,Stanford,60,2,Kansas,57,WIN,0.8001,0.2403,
+184,2014,Second Round,10,Stanford,60,2,Kansas,57,WIN,0.8001,0.2403,1.0
 185,2014,First Round,8,Kentucky,56,9,Kansas State,49,WIN,0.3729,0.895,
 186,2014,First Round,4,San Diego State,73,13,New Mexico State,69,WIN,0.1468,0.3248,
-187,2014,First Round,8,Memphis,71,9,George Washington,66,WIN,0.4687,0.0145,
-188,2014,First Round,7,Connecticut,89,10,Saint Joseph's,81,WIN,0.7893,0.3428,
-189,2014,Second Round,7,Connecticut,77,2,Villanova,65,WIN,0.7893,0.5262,
+187,2014,First Round,8,Memphis,71,9,George Washington,66,WIN,0.4687,0.0145,1.0
+188,2014,First Round,7,Connecticut,89,10,Saint Joseph's,81,WIN,0.7893,0.3428,1.0
+189,2014,Second Round,7,Connecticut,77,2,Villanova,65,WIN,0.7893,0.5262,1.0
 190,2014,Play-In,16,Albany (NY),71,16,Mount St. Mary's,64,WIN,0.2114,0.8946,
-191,2014,First Round,4,Louisville,71,13,Manhattan,64,WIN,0.8748,0.1971,
-192,2014,First Round,8,Gonzaga,85,9,Oklahoma State,77,WIN,0.8197,0.6576,
+191,2014,First Round,4,Louisville,71,13,Manhattan,64,WIN,0.8748,0.1971,1.0
+192,2014,First Round,8,Gonzaga,85,9,Oklahoma State,77,WIN,0.8197,0.6576,1.0
 193,2014,First Round,3,Creighton,76,14,Louisiana-Lafayette,66,WIN,0.1415,0.6124,
 194,2014,First Round,2,Kansas,80,15,Eastern Kentucky,69,WIN,0.2403,0.9278,
 195,2014,Play-In,16,Cal Poly,81,16,Texas Southern,69,WIN,0.2423,0.7023,
@@ -199,11 +199,11 @@
 197,2014,First Round,4,UCLA,76,13,Tulsa,59,WIN,0.2488,0.6244,
 198,2014,First Round,2,Michigan,57,15,Wofford,40,WIN,0.1666,0.9697,
 199,2014,First Round,2,Villanova,73,15,Milwaukee,53,WIN,0.5262,0.9901,
-200,2014,First Round,3,Syracuse,77,14,Western Michigan,53,WIN,0.6343,0.5617,
+200,2014,First Round,3,Syracuse,77,14,Western Michigan,53,WIN,0.6343,0.5617,1.0
 201,2013,Second Round,5,Virginia Commonwealth,53,4,Michigan,78,LOSS,0.2351,0.8131,
 202,2013,Sweet 16,1,Kansas,85,4,Michigan,87,LOSS,0.2591,0.8131,
 203,2013,National Championship,1,Louisville,82,4,Michigan,76,WIN,0.1122,0.8131,
-204,2013,First Round,5,Virginia Commonwealth,88,12,Akron,42,WIN,0.2351,0.1608,
+204,2013,First Round,5,Virginia Commonwealth,88,12,Akron,42,WIN,0.2351,0.1608,1.0
 205,2013,Second Round,6,Memphis,48,3,Michigan State,70,LOSS,0.126,0.0722,
 206,2013,First Round,6,Memphis,54,11,Saint Mary's (CA),52,WIN,0.126,0.4347,
 207,2013,Play-In,11,Middle Tennessee,54,11,Saint Mary's (CA),67,LOSS,0.5221,0.4347,
@@ -215,58 +215,58 @@
 213,2013,Second Round,7,Creighton,50,2,Duke,66,LOSS,0.5792,0.6208,
 214,2013,Sweet 16,3,Michigan State,61,2,Duke,71,LOSS,0.0722,0.6208,
 215,2013,Elite Eight,1,Louisville,85,2,Duke,63,WIN,0.1122,0.6208,
-216,2013,First Round,7,Creighton,67,10,Cincinnati,63,WIN,0.5792,0.2736,
+216,2013,First Round,7,Creighton,67,10,Cincinnati,63,WIN,0.5792,0.2736,1.0
 217,2013,Second Round,11,Minnesota,64,3,Florida,78,LOSS,0.5286,0.0569,
-218,2013,Elite Eight,4,Michigan,79,3,Florida,59,WIN,0.8131,0.0569,
+218,2013,Elite Eight,4,Michigan,79,3,Florida,59,WIN,0.8131,0.0569,1.0
 219,2013,First Round,5,Oklahoma State,55,12,Oregon,68,LOSS,0.0649,0.4958,
 220,2013,Sweet 16,1,Louisville,77,12,Oregon,69,WIN,0.1122,0.4958,
 221,2013,Play-In,16,Long Island University,55,16,James Madison,68,LOSS,0.5312,0.121,
-222,2013,First Round,1,Indiana,83,16,James Madison,62,WIN,0.9896,0.121,
+222,2013,First Round,1,Indiana,83,16,James Madison,62,WIN,0.9896,0.121,1.0
 223,2013,First Round,5,Wisconsin,46,12,Mississippi,57,LOSS,0.2987,0.1886,
 224,2013,Sweet 16,1,Indiana,50,4,Syracuse,61,LOSS,0.9896,0.9981,
 225,2013,Second Round,12,University of California,60,4,Syracuse,66,LOSS,0.6884,0.9981,
 226,2013,Final Four,4,Michigan,61,4,Syracuse,56,WIN,0.8131,0.9981,
-227,2013,Second Round,1,Indiana,58,9,Temple,52,WIN,0.9896,0.6148,
+227,2013,Second Round,1,Indiana,58,9,Temple,52,WIN,0.9896,0.6148,1.0
 228,2013,First Round,8,North Carolina State,72,9,Temple,76,LOSS,0.2657,0.6148,
 229,2013,First Round,2,Georgetown,68,15,Florida Gulf Coast,78,LOSS,0.1724,0.7732,
 230,2013,Second Round,7,San Diego State,71,15,Florida Gulf Coast,81,LOSS,0.6779999999999999,0.7732,
 231,2013,Sweet 16,3,Florida,62,15,Florida Gulf Coast,50,WIN,0.0569,0.7732,
-232,2013,First Round,7,San Diego State,70,10,Oklahoma,55,WIN,0.6779999999999999,0.3596,
+232,2013,First Round,7,San Diego State,70,10,Oklahoma,55,WIN,0.6779999999999999,0.3596,1.0
 233,2013,First Round,3,Michigan State,65,14,Valparaiso,54,WIN,0.0722,0.6073,
 234,2013,Play-In,13,Boise State,71,13,La Salle,80,LOSS,0.9356,0.5026,
 235,2013,First Round,4,Kansas State,61,13,La Salle,63,LOSS,0.6363,0.5026,
 236,2013,Second Round,12,Mississippi,74,13,La Salle,76,LOSS,0.1886,0.5026,
 237,2013,Sweet 16,9,Wichita State,72,13,La Salle,58,WIN,0.2035,0.5026,
 238,2013,First Round,3,New Mexico,62,14,Harvard,68,LOSS,0.8454,0.4188,
-239,2013,Second Round,6,Arizona,74,14,Harvard,51,WIN,0.4687,0.4188,
-240,2013,First Round,1,Gonzaga,64,16,Southern,58,WIN,0.6796,0.0914,
+239,2013,Second Round,6,Arizona,74,14,Harvard,51,WIN,0.4687,0.4188,1.0
+240,2013,First Round,1,Gonzaga,64,16,Southern,58,WIN,0.6796,0.0914,1.0
 241,2013,Second Round,7,Illinois,59,2,Miami (FL),63,LOSS,0.5464,0.7039,
-242,2013,Sweet 16,3,Marquette,71,2,Miami (FL),61,WIN,0.8552,0.7039,
+242,2013,Sweet 16,3,Marquette,71,2,Miami (FL),61,WIN,0.8552,0.7039,1.0
 243,2013,First Round,7,Illinois,57,10,Colorado,49,WIN,0.5464,0.5579999999999999,
 244,2013,First Round,5,Nevada-Las Vegas,61,12,University of California,64,LOSS,0.5229,0.6884,
 245,2013,Second Round,10,Iowa State,75,2,Ohio State,78,LOSS,0.7018,0.3733,
 246,2013,Sweet 16,6,Arizona,70,2,Ohio State,73,LOSS,0.4687,0.3733,
 247,2013,Elite Eight,9,Wichita State,70,2,Ohio State,66,WIN,0.2035,0.3733,
-248,2013,First Round,6,Arizona,81,11,Belmont,64,WIN,0.4687,0.0848,
+248,2013,First Round,6,Arizona,81,11,Belmont,64,WIN,0.4687,0.0848,1.0
 249,2013,Second Round,6,Butler,72,3,Marquette,74,LOSS,0.3297,0.8552,
-250,2013,Elite Eight,4,Syracuse,55,3,Marquette,39,WIN,0.9981,0.8552,
-251,2013,First Round,6,Butler,68,11,Bucknell,56,WIN,0.3297,0.0606,
+250,2013,Elite Eight,4,Syracuse,55,3,Marquette,39,WIN,0.9981,0.8552,1.0
+251,2013,First Round,6,Butler,68,11,Bucknell,56,WIN,0.3297,0.0606,1.0
 252,2013,First Round,1,Kansas,64,16,Western Kentucky,57,WIN,0.2591,0.6933,
 253,2013,Second Round,1,Kansas,70,8,North Carolina,58,WIN,0.2591,0.8269,
 254,2013,Play-In,16,North Carolina A&T,73,16,Liberty,72,WIN,0.2695,0.2869,
-255,2013,First Round,3,Marquette,59,14,Davidson,58,WIN,0.8552,0.5971,
+255,2013,First Round,3,Marquette,59,14,Davidson,58,WIN,0.8552,0.5971,1.0
 256,2013,Second Round,1,Louisville,82,8,Colorado State,56,WIN,0.1122,0.9817,
 257,2013,First Round,1,Louisville,79,16,North Carolina A&T,48,WIN,0.1122,0.2695,
 258,2013,First Round,4,Michigan,71,13,South Dakota State,56,WIN,0.8131,0.9149,
-259,2013,First Round,8,North Carolina,78,9,Villanova,71,WIN,0.8269,0.341,
-260,2013,First Round,8,Colorado State,84,9,Missouri,72,WIN,0.9817,0.3521,
-261,2013,First Round,2,Duke,73,15,Albany (NY),61,WIN,0.6208,0.5394,
+259,2013,First Round,8,North Carolina,78,9,Villanova,71,WIN,0.8269,0.341,1.0
+260,2013,First Round,8,Colorado State,84,9,Missouri,72,WIN,0.9817,0.3521,1.0
+261,2013,First Round,2,Duke,73,15,Albany (NY),61,WIN,0.6208,0.5394,1.0
 262,2013,First Round,3,Florida,79,14,Northwestern State,47,WIN,0.0569,0.4044,
-263,2013,First Round,4,Syracuse,81,13,Montana,34,WIN,0.9981,0.7482,
+263,2013,First Round,4,Syracuse,81,13,Montana,34,WIN,0.9981,0.7482,1.0
 264,2013,Second Round,12,Oregon,74,4,Saint Louis,57,WIN,0.4958,0.7173,
-265,2013,First Round,4,Saint Louis,64,13,New Mexico State,44,WIN,0.7173,0.1431,
-266,2013,First Round,2,Ohio State,95,15,Iona,70,WIN,0.3733,0.3299,
-267,2013,First Round,2,Miami (FL),78,15,Pacific,49,WIN,0.7039,0.6614,
+265,2013,First Round,4,Saint Louis,64,13,New Mexico State,44,WIN,0.7173,0.1431,1.0
+266,2013,First Round,2,Ohio State,95,15,Iona,70,WIN,0.3733,0.3299,1.0
+267,2013,First Round,2,Miami (FL),78,15,Pacific,49,WIN,0.7039,0.6614,1.0
 268,2012,Second Round,11,Colorado,63,3,Baylor,80,LOSS,0.7154,0.4068,
 269,2012,Elite Eight,1,Kentucky,82,3,Baylor,70,WIN,0.3866,0.4068,
 270,2012,Sweet 16,6,Cincinnati,66,2,Ohio State,81,LOSS,0.2933,0.3184,
@@ -281,31 +281,31 @@
 279,2012,Sweet 16,11,North Carolina State,57,2,Kansas,60,LOSS,0.1336,0.3584,
 280,2012,Second Round,10,Purdue,60,2,Kansas,63,LOSS,0.9028,0.3584,
 281,2012,Final Four,2,Ohio State,62,2,Kansas,64,LOSS,0.3184,0.3584,
-282,2012,National Championship,1,Kentucky,67,2,Kansas,59,WIN,0.3866,0.3584,
-283,2012,Sweet 16,1,North Carolina,73,13,Ohio,65,WIN,0.6779999999999999,0.0738,
+282,2012,National Championship,1,Kentucky,67,2,Kansas,59,WIN,0.3866,0.3584,1.0
+283,2012,Sweet 16,1,North Carolina,73,13,Ohio,65,WIN,0.6779999999999999,0.0738,1.0
 284,2012,Second Round,12,South Florida,56,13,Ohio,62,LOSS,0.5647,0.0738,
 285,2012,First Round,4,Michigan,60,13,Ohio,65,LOSS,0.613,0.0738,
 286,2012,Second Round,1,North Carolina,87,8,Creighton,73,WIN,0.6779999999999999,0.9167,
-287,2012,First Round,1,North Carolina,77,16,Vermont,58,WIN,0.6779999999999999,0.4206,
+287,2012,First Round,1,North Carolina,77,16,Vermont,58,WIN,0.6779999999999999,0.4206,1.0
 288,2012,Play-In,16,Lamar,59,16,Vermont,71,LOSS,0.5867,0.4206,
 289,2012,Sweet 16,1,Michigan State,44,4,Louisville,57,LOSS,0.4586,0.1002,
 290,2012,Second Round,5,New Mexico,56,4,Louisville,59,LOSS,0.0691,0.1002,
-291,2012,Final Four,1,Kentucky,69,4,Louisville,61,WIN,0.3866,0.1002,
-292,2012,Second Round,1,Michigan State,65,9,Saint Louis,61,WIN,0.4586,0.1574,
+291,2012,Final Four,1,Kentucky,69,4,Louisville,61,WIN,0.3866,0.1002,1.0
+292,2012,Second Round,1,Michigan State,65,9,Saint Louis,61,WIN,0.4586,0.1574,1.0
 293,2012,First Round,8,Memphis,54,9,Saint Louis,61,LOSS,0.8775,0.1574,
 294,2012,First Round,1,Michigan State,89,16,Long Island University,67,WIN,0.4586,0.6421,
 295,2012,Sweet 16,3,Marquette,58,7,Florida,68,LOSS,0.8658,0.1757,
 296,2012,Elite Eight,4,Louisville,72,7,Florida,68,WIN,0.1002,0.1757,
-297,2012,First Round,3,Marquette,88,14,Brigham Young,68,WIN,0.8658,0.7853,
+297,2012,First Round,3,Marquette,88,14,Brigham Young,68,WIN,0.8658,0.7853,1.0
 298,2012,Second Round,6,Murray State,53,3,Marquette,62,LOSS,0.01,0.8658,
 299,2012,First Round,6,Murray State,58,11,Colorado State,41,WIN,0.01,0.732,
-300,2012,Sweet 16,1,Syracuse,64,4,Wisconsin,63,WIN,0.7681,0.2928,
+300,2012,Sweet 16,1,Syracuse,64,4,Wisconsin,63,WIN,0.7681,0.2928,1.0
 301,2012,Second Round,5,Vanderbilt,57,4,Wisconsin,60,LOSS,0.7011,0.2928,
 302,2012,First Round,1,Syracuse,72,16,North Carolina-Asheville,65,WIN,0.7681,0.7975,
-303,2012,Second Round,1,Syracuse,75,8,Kansas State,59,WIN,0.7681,0.3622,
-304,2012,First Round,7,Gonzaga,77,10,West Virginia,54,WIN,0.6809999999999999,0.0114,
+303,2012,Second Round,1,Syracuse,75,8,Kansas State,59,WIN,0.7681,0.3622,1.0
+304,2012,First Round,7,Gonzaga,77,10,West Virginia,54,WIN,0.6809999999999999,0.0114,1.0
 305,2012,First Round,2,Duke,70,15,Lehigh,75,LOSS,0.9461,0.6742,
-306,2012,Second Round,10,Xavier,70,15,Lehigh,58,WIN,0.9101,0.6742,
+306,2012,Second Round,10,Xavier,70,15,Lehigh,58,WIN,0.9101,0.6742,1.0
 307,2012,First Round,7,Notre Dame,63,10,Xavier,67,LOSS,0.875,0.9101,
 308,2012,Sweet 16,3,Baylor,75,10,Xavier,70,WIN,0.4068,0.9101,
 309,2012,First Round,6,Nevada-Las Vegas,64,11,Colorado,68,LOSS,0.6966,0.7154,
@@ -321,32 +321,32 @@
 319,2012,Second Round,7,Florida,84,15,Norfolk State,50,WIN,0.1757,0.7081,
 320,2012,Play-In,16,Mississippi Valley State,58,16,Western Kentucky,59,LOSS,0.5858,0.9646,
 321,2012,First Round,1,Kentucky,81,16,Western Kentucky,66,WIN,0.3866,0.9646,
-322,2012,First Round,8,Creighton,58,9,Alabama,57,WIN,0.9167,0.0469,
+322,2012,First Round,8,Creighton,58,9,Alabama,57,WIN,0.9167,0.0469,1.0
 323,2012,First Round,3,Florida State,66,14,St. Bonaventure,63,WIN,0.7869,0.8049,
-324,2012,First Round,4,Louisville,69,13,Davidson,62,WIN,0.1002,0.1,
+324,2012,First Round,4,Louisville,69,13,Davidson,62,WIN,0.1002,0.1,1.0
 325,2012,First Round,3,Baylor,68,14,South Dakota State,60,WIN,0.4068,0.7586,
 326,2012,First Round,8,Kansas State,70,9,Southern Mississippi,64,WIN,0.3622,0.9026,
-327,2012,Play-In,14,Brigham Young,78,14,Iona,72,WIN,0.7853,0.6709999999999999,
+327,2012,Play-In,14,Brigham Young,78,14,Iona,72,WIN,0.7853,0.6709999999999999,1.0
 328,2012,Second Round,1,Kentucky,87,8,Iowa State,71,WIN,0.3866,0.5026,
-329,2012,First Round,8,Iowa State,77,9,Connecticut,64,WIN,0.5026,0.1945,
-330,2012,First Round,4,Indiana,79,13,New Mexico State,66,WIN,0.7292,0.1935,
-331,2012,First Round,3,Georgetown,74,14,Belmont,59,WIN,0.8921,0.3512,
-332,2012,First Round,2,Kansas,65,15,Detroit Mercy,50,WIN,0.3584,0.146,
+329,2012,First Round,8,Iowa State,77,9,Connecticut,64,WIN,0.5026,0.1945,1.0
+330,2012,First Round,4,Indiana,79,13,New Mexico State,66,WIN,0.7292,0.1935,1.0
+331,2012,First Round,3,Georgetown,74,14,Belmont,59,WIN,0.8921,0.3512,1.0
+332,2012,First Round,2,Kansas,65,15,Detroit Mercy,50,WIN,0.3584,0.146,1.0
 333,2012,First Round,4,Wisconsin,73,13,Montana,49,WIN,0.2928,0.8495,
 334,2012,First Round,7,Florida,71,10,Virginia,45,WIN,0.1757,0.3444,
 335,2011,Second Round,11,Gonzaga,67,3,Brigham Young,89,LOSS,0.0741,0.4093,
 336,2011,Sweet 16,11,Marquette,63,2,North Carolina,81,LOSS,0.9706,0.6178,
 337,2011,Second Round,7,Washington,83,2,North Carolina,86,LOSS,0.8929,0.6178,
-338,2011,Elite Eight,4,Kentucky,76,2,North Carolina,69,WIN,0.7843,0.6178,
-339,2011,Second Round,11,Marquette,66,3,Syracuse,62,WIN,0.9706,0.691,
+338,2011,Elite Eight,4,Kentucky,76,2,North Carolina,69,WIN,0.7843,0.6178,1.0
+339,2011,Second Round,11,Marquette,66,3,Syracuse,62,WIN,0.9706,0.691,1.0
 340,2011,First Round,6,Georgetown,56,11,Virginia Commonwealth,74,LOSS,0.6428,0.8064,
 341,2011,Play-In,11,Southern California,46,11,Virginia Commonwealth,59,LOSS,0.9206,0.8064,
 342,2011,Elite Eight,1,Kansas,61,11,Virginia Commonwealth,71,LOSS,0.5875,0.8064,
 343,2011,Play-In,12,Alabama-Birmingham,52,12,Clemson,70,LOSS,0.9783,0.261,
-344,2011,First Round,5,West Virginia,84,12,Clemson,76,WIN,0.8061,0.261,
+344,2011,First Round,5,West Virginia,84,12,Clemson,76,WIN,0.8061,0.261,1.0
 345,2011,Sweet 16,1,Duke,77,5,Arizona,93,LOSS,0.249,0.8191,
 346,2011,Second Round,1,Duke,73,8,Michigan,71,WIN,0.249,0.4147,
-347,2011,First Round,1,Duke,87,16,Hampton,45,WIN,0.249,0.1498,
+347,2011,First Round,1,Duke,87,16,Hampton,45,WIN,0.249,0.1498,1.0
 348,2011,First Round,6,St. John's (NY),71,11,Gonzaga,86,LOSS,0.1238,0.0741,
 349,2011,Second Round,6,Cincinnati,58,3,Connecticut,69,LOSS,0.2476,0.1745,
 350,2011,Elite Eight,5,Arizona,63,3,Connecticut,65,LOSS,0.8191,0.1745,
@@ -354,9 +354,9 @@
 352,2011,First Round,6,Cincinnati,78,11,Missouri,63,WIN,0.2476,0.8717,
 353,2011,First Round,6,Xavier,55,11,Marquette,66,LOSS,0.9644,0.9706,
 354,2011,First Round,8,Nevada-Las Vegas,62,9,Illinois,73,LOSS,0.6837,0.0882,
-355,2011,Second Round,1,Kansas,73,9,Illinois,59,WIN,0.5875,0.0882,
+355,2011,Second Round,1,Kansas,73,9,Illinois,59,WIN,0.5875,0.0882,1.0
 356,2011,First Round,1,Kansas,72,16,Boston University,53,WIN,0.5875,0.8934,
-357,2011,Sweet 16,1,Kansas,77,12,Richmond,57,WIN,0.5875,0.1999,
+357,2011,Sweet 16,1,Kansas,77,12,Richmond,57,WIN,0.5875,0.1999,1.0
 358,2011,First Round,5,Vanderbilt,66,12,Richmond,69,LOSS,0.6352,0.1999,
 359,2011,Sweet 16,3,Brigham Young,74,2,Florida,83,LOSS,0.4093,0.7034,
 360,2011,Second Round,7,UCLA,65,2,Florida,73,LOSS,0.1015,0.7034,
@@ -365,9 +365,9 @@
 363,2011,Final Four,11,Virginia Commonwealth,62,8,Butler,70,LOSS,0.8064,0.4745,
 364,2011,Second Round,1,Pittsburgh,70,8,Butler,71,LOSS,0.6186,0.4745,
 365,2011,National Championship,3,Connecticut,53,8,Butler,41,WIN,0.1745,0.4745,
-366,2011,Sweet 16,11,Virginia Commonwealth,72,10,Florida State,71,WIN,0.8064,0.0483,
+366,2011,Sweet 16,11,Virginia Commonwealth,72,10,Florida State,71,WIN,0.8064,0.0483,1.0
 367,2011,First Round,7,Texas A&M,50,10,Florida State,57,LOSS,0.3049,0.0483,
-368,2011,Second Round,11,Virginia Commonwealth,94,3,Purdue,76,WIN,0.8064,0.6078,
+368,2011,Second Round,11,Virginia Commonwealth,94,3,Purdue,76,WIN,0.8064,0.6078,1.0
 369,2011,Second Round,5,West Virginia,63,4,Kentucky,71,LOSS,0.8061,0.7843,
 370,2011,Sweet 16,1,Ohio State,60,4,Kentucky,62,LOSS,0.8748,0.7843,
 371,2011,First Round,7,UCLA,78,10,Michigan State,76,WIN,0.1015,0.1018,
@@ -377,53 +377,53 @@
 375,2011,Second Round,5,Kansas State,65,4,Wisconsin,70,LOSS,0.0009,0.9306,
 376,2011,Sweet 16,8,Butler,61,4,Wisconsin,54,WIN,0.4745,0.9306,
 377,2011,First Round,5,Kansas State,73,12,Utah State,68,WIN,0.0009,0.19,
-378,2011,First Round,7,Washington,68,10,Georgia,65,WIN,0.8929,0.3378,
-379,2011,Second Round,5,Arizona,70,4,Texas,69,WIN,0.8191,0.7835,
+378,2011,First Round,7,Washington,68,10,Georgia,65,WIN,0.8929,0.3378,1.0
+379,2011,Second Round,5,Arizona,70,4,Texas,69,WIN,0.8191,0.7835,1.0
 380,2011,First Round,5,Arizona,77,12,Memphis,75,WIN,0.8191,0.8193,
-381,2011,First Round,1,Ohio State,75,16,Texas-San Antonio,46,WIN,0.8748,0.163,
-382,2011,Second Round,1,Ohio State,98,8,George Mason,66,WIN,0.8748,0.7190000000000001,
-383,2011,First Round,4,Kentucky,59,13,Princeton,57,WIN,0.7843,0.7535,
-384,2011,First Round,1,Pittsburgh,74,16,North Carolina-Asheville,51,WIN,0.6186,0.4911,
+381,2011,First Round,1,Ohio State,75,16,Texas-San Antonio,46,WIN,0.8748,0.163,1.0
+382,2011,Second Round,1,Ohio State,98,8,George Mason,66,WIN,0.8748,0.7190000000000001,1.0
+383,2011,First Round,4,Kentucky,59,13,Princeton,57,WIN,0.7843,0.7535,1.0
+384,2011,First Round,1,Pittsburgh,74,16,North Carolina-Asheville,51,WIN,0.6186,0.4911,1.0
 385,2011,First Round,4,Louisville,61,13,Morehead State,62,LOSS,0.5586,0.2772,
 386,2011,Second Round,12,Richmond,65,13,Morehead State,48,WIN,0.1999,0.2772,
-387,2011,First Round,8,Butler,60,9,Old Dominion,58,WIN,0.4745,0.4058,
-388,2011,First Round,4,Texas,85,13,Oakland,81,WIN,0.7835,0.7227,
+387,2011,First Round,8,Butler,60,9,Old Dominion,58,WIN,0.4745,0.4058,1.0
+388,2011,First Round,4,Texas,85,13,Oakland,81,WIN,0.7835,0.7227,1.0
 389,2011,First Round,8,George Mason,61,9,Villanova,57,WIN,0.7190000000000001,0.8578,
-390,2011,Play-In,16,North Carolina-Asheville,81,16,Arkansas-Little Rock,77,WIN,0.4911,0.2943,
-391,2011,First Round,3,Connecticut,81,14,Bucknell,52,WIN,0.1745,0.1385,
+390,2011,Play-In,16,North Carolina-Asheville,81,16,Arkansas-Little Rock,77,WIN,0.4911,0.2943,1.0
+391,2011,First Round,3,Connecticut,81,14,Bucknell,52,WIN,0.1745,0.1385,1.0
 392,2011,Play-In,16,Texas-San Antonio,70,16,Alabama State,61,WIN,0.163,0.3293,
-393,2011,First Round,2,Notre Dame,69,15,Akron,56,WIN,0.3184,0.0093,
+393,2011,First Round,2,Notre Dame,69,15,Akron,56,WIN,0.3184,0.0093,1.0
 394,2011,Second Round,10,Florida State,71,2,Notre Dame,57,WIN,0.0483,0.3184,
-395,2011,First Round,4,Wisconsin,72,13,Belmont,58,WIN,0.9306,0.1224,
+395,2011,First Round,4,Wisconsin,72,13,Belmont,58,WIN,0.9306,0.1224,1.0
 396,2011,First Round,2,North Carolina,102,15,Long Island University,87,WIN,0.6178,0.9281,
 397,2011,First Round,3,Syracuse,77,14,Indiana State,60,WIN,0.691,0.9946,
-398,2011,First Round,2,San Diego State,68,15,Northern Colorado,50,WIN,0.789,0.429,
-399,2011,First Round,3,Purdue,65,14,Saint Peter's,43,WIN,0.6078,0.0041,
-400,2011,First Round,2,Florida,79,15,UC-Santa Barbara,51,WIN,0.7034,0.6437,
+398,2011,First Round,2,San Diego State,68,15,Northern Colorado,50,WIN,0.789,0.429,1.0
+399,2011,First Round,3,Purdue,65,14,Saint Peter's,43,WIN,0.6078,0.0041,1.0
+400,2011,First Round,2,Florida,79,15,UC-Santa Barbara,51,WIN,0.7034,0.6437,1.0
 401,2011,First Round,8,Michigan,75,9,Tennessee,45,WIN,0.4147,0.5788,
 402,2010,Final Four,2,West Virginia,57,1,Duke,78,LOSS,0.0471,0.2483,
 403,2010,National Championship,5,Butler,59,1,Duke,61,LOSS,0.1385,0.2483,
 404,2010,First Round,2,West Virginia,77,15,Morgan State,50,WIN,0.0471,0.7986,
 405,2010,First Round,3,Georgetown,83,14,Ohio,97,LOSS,0.0583,0.4707,
-406,2010,Second Round,6,Tennessee,83,14,Ohio,68,WIN,0.9923,0.4707,
+406,2010,Second Round,6,Tennessee,83,14,Ohio,68,WIN,0.9923,0.4707,1.0
 407,2010,Sweet 16,11,Washington,56,2,West Virginia,69,LOSS,0.5759,0.0471,
 408,2010,Second Round,10,Missouri,59,2,West Virginia,68,LOSS,0.4435,0.0471,
 409,2010,Elite Eight,1,Kentucky,66,2,West Virginia,73,LOSS,0.8869,0.0471,
-410,2010,Second Round,11,Washington,82,3,New Mexico,64,WIN,0.5759,0.2889,
+410,2010,Second Round,11,Washington,82,3,New Mexico,64,WIN,0.5759,0.2889,1.0
 411,2010,First Round,5,Temple,65,12,Cornell,78,LOSS,0.3521,0.7383,
-412,2010,Sweet 16,1,Kentucky,62,12,Cornell,45,WIN,0.8869,0.7383,
+412,2010,Sweet 16,1,Kentucky,62,12,Cornell,45,WIN,0.8869,0.7383,1.0
 413,2010,Second Round,7,Brigham Young,72,2,Kansas State,84,LOSS,0.6343,0.8454,
 414,2010,Sweet 16,6,Xavier,96,2,Kansas State,101,LOSS,0.3831,0.8454,
 415,2010,Elite Eight,5,Butler,63,2,Kansas State,56,WIN,0.1385,0.8454,
-416,2010,First Round,7,Brigham Young,99,10,Florida,92,WIN,0.6343,0.1445,
+416,2010,First Round,7,Brigham Young,99,10,Florida,92,WIN,0.6343,0.1445,1.0
 417,2010,Second Round,10,Georgia Tech,66,2,Ohio State,75,LOSS,0.0302,0.5365,
-418,2010,Sweet 16,6,Tennessee,76,2,Ohio State,73,WIN,0.9923,0.5365,
+418,2010,Sweet 16,6,Tennessee,76,2,Ohio State,73,WIN,0.9923,0.5365,1.0
 419,2010,First Round,7,Richmond,71,10,Saint Mary's (CA),80,LOSS,0.919,0.6498,
 420,2010,Sweet 16,3,Baylor,72,10,Saint Mary's (CA),49,WIN,0.0684,0.6498,
 421,2010,Second Round,11,Old Dominion,68,3,Baylor,76,LOSS,0.6968,0.0684,
-422,2010,Elite Eight,1,Duke,78,3,Baylor,71,WIN,0.2483,0.0684,
+422,2010,Elite Eight,1,Duke,78,3,Baylor,71,WIN,0.2483,0.0684,1.0
 423,2010,First Round,7,Clemson,78,10,Missouri,86,LOSS,0.379,0.4435,
-424,2010,First Round,1,Kentucky,100,16,East Tennessee State,71,WIN,0.8869,0.5172,
+424,2010,First Round,1,Kentucky,100,16,East Tennessee State,71,WIN,0.8869,0.5172,1.0
 425,2010,Second Round,1,Kentucky,90,9,Wake Forest,60,WIN,0.8869,0.9575,
 426,2010,First Round,8,Texas,80,9,Wake Forest,81,LOSS,0.3037,0.9575,
 427,2010,Sweet 16,9,Northern Iowa,52,5,Michigan State,59,LOSS,0.2106,0.2155,
@@ -436,32 +436,32 @@
 434,2010,First Round,1,Syracuse,79,16,Vermont,56,WIN,0.1292,0.5902,
 435,2010,First Round,8,Nevada-Las Vegas,66,9,Northern Iowa,69,LOSS,0.6697,0.2106,
 436,2010,Second Round,1,Kansas,67,9,Northern Iowa,69,LOSS,0.3619,0.2106,
-437,2010,Second Round,5,Butler,54,13,Murray State,52,WIN,0.1385,0.0626,
+437,2010,Second Round,5,Butler,54,13,Murray State,52,WIN,0.1385,0.0626,1.0
 438,2010,First Round,4,Vanderbilt,65,13,Murray State,66,LOSS,0.9262,0.0626,
 439,2010,First Round,5,Butler,77,12,Texas-El Paso,59,WIN,0.1385,0.1858,
 440,2010,Elite Eight,5,Michigan State,70,6,Tennessee,69,WIN,0.2155,0.9923,
-441,2010,Second Round,5,Michigan State,85,4,Maryland,83,WIN,0.2155,0.1116,
+441,2010,Second Round,5,Michigan State,85,4,Maryland,83,WIN,0.2155,0.1116,1.0
 442,2010,First Round,5,Michigan State,70,12,New Mexico State,67,WIN,0.2155,0.9661,
 443,2010,Second Round,5,Texas A&M,61,4,Purdue,63,LOSS,0.2572,0.4034,
 444,2010,Sweet 16,1,Duke,70,4,Purdue,57,WIN,0.2483,0.4034,
 445,2010,First Round,5,Texas A&M,69,12,Utah State,53,WIN,0.2572,0.8226,
-446,2010,First Round,1,Kansas,90,16,Lehigh,74,WIN,0.3619,0.2097,
+446,2010,First Round,1,Kansas,90,16,Lehigh,74,WIN,0.3619,0.2097,1.0
 447,2010,First Round,6,Marquette,78,11,Washington,80,LOSS,0.3389,0.5759,
 448,2010,First Round,6,Notre Dame,50,11,Old Dominion,51,LOSS,0.5327,0.6968,
-449,2010,First Round,6,Tennessee,62,11,San Diego State,59,WIN,0.9923,0.3373,
-450,2010,First Round,2,Villanova,73,15,Robert Morris,70,WIN,0.8052,0.2122,
+449,2010,First Round,6,Tennessee,62,11,San Diego State,59,WIN,0.9923,0.3373,1.0
+450,2010,First Round,2,Villanova,73,15,Robert Morris,70,WIN,0.8052,0.2122,1.0
 451,2010,First Round,4,Wisconsin,53,13,Wofford,49,WIN,0.3478,0.44,
 452,2010,First Round,3,New Mexico,62,14,Montana,57,WIN,0.2889,0.8886,
 453,2010,Second Round,1,Duke,68,8,University of California,53,WIN,0.2483,0.7628,
 454,2010,First Round,1,Duke,73,16,Arkansas-Pine Bluff,44,WIN,0.2483,0.2682,
 455,2010,Second Round,10,Saint Mary's (CA),75,2,Villanova,68,WIN,0.6498,0.8052,
-456,2010,First Round,8,Gonzaga,67,9,Florida State,60,WIN,0.2225,0.0182,
-457,2010,First Round,4,Purdue,72,13,Siena,64,WIN,0.4034,0.4014,
+456,2010,First Round,8,Gonzaga,67,9,Florida State,60,WIN,0.2225,0.0182,1.0
+457,2010,First Round,4,Purdue,72,13,Siena,64,WIN,0.4034,0.4014,1.0
 458,2010,First Round,3,Baylor,68,14,Sam Houston State,59,WIN,0.0684,0.1744,
 459,2010,First Round,4,Maryland,89,13,Houston,77,WIN,0.1116,0.1117,
 460,2010,First Round,8,University of California,77,9,Louisville,62,WIN,0.7628,0.7834,
-461,2010,First Round,2,Ohio State,68,15,UC-Santa Barbara,51,WIN,0.5365,0.3678,
+461,2010,First Round,2,Ohio State,68,15,UC-Santa Barbara,51,WIN,0.5365,0.3678,1.0
 462,2010,Play-In,16,Arkansas-Pine Bluff,61,16,Winthrop,44,WIN,0.2682,0.5584,
-463,2010,Second Round,12,Cornell,87,4,Wisconsin,69,WIN,0.7383,0.3478,
+463,2010,Second Round,12,Cornell,87,4,Wisconsin,69,WIN,0.7383,0.3478,1.0
 464,2010,First Round,2,Kansas State,82,15,North Texas,62,WIN,0.8454,0.8535,
-465,2010,First Round,3,Pittsburgh,89,14,Oakland,66,WIN,0.6962,0.4962,
+465,2010,First Round,3,Pittsburgh,89,14,Oakland,66,WIN,0.6962,0.4962,1.0
