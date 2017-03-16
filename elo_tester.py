@@ -2,7 +2,7 @@ import sys
 import numpy
 import pandas
 
-eloFile = "best_elo_by_year.csv"
+eloFile = "best_elo_by_year_3.csv"
 tourneyfile = "NCAA_Tourney_Data.csv"
 teamNames = "teamnamematchset.csv"
 
@@ -46,7 +46,5 @@ def calcscore(j):
 
 newerset['ELOSCORE'] = newerset.apply(calcscore,axis=1)
 
-newerset.to_csv('testexport.csv')
 total_score = newerset['ELOSCORE'].sum()
 print(total_score)
-print(newset.head(20))

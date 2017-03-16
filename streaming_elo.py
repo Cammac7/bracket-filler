@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import math
 import pandas as pd
 import argparse
@@ -17,7 +17,7 @@ def elo_ev(p1_elo, p2_elo):
     return (1.0 / (1.0 + math.pow(10, ((p2_elo - p1_elo) / 400.))));
 
 def elo_update(p1_elo, p2_elo, p1_result):
-    kfactor = 50
+    kfactor = 60
     p1_expected = elo_ev(p1_elo, p2_elo)
     p1_new = (p1_elo + kfactor * (p1_result - p1_expected));
     return p1_new
