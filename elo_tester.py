@@ -2,7 +2,7 @@ import sys
 import numpy
 import pandas
 
-eloFile = "test_elo_file.csv"
+eloFile = "best_elo_by_year.csv"
 tourneyfile = "NCAA_Tourney_Data.csv"
 teamNames = "teamnamematchset.csv"
 
