@@ -3,3 +3,6 @@
 
 "best_elo_by_year.csv" <- "allGames.csv"
   ./streaming_elo.py $INPUT0  | psort -c elo > $OUTPUT0
+
+"test_elo_file.csv" <- "allGames.csv"
+  less $INPUT0 | pcsv -p 'r["yr"] = r["Date"].split("-")[0]' -c yr,Schl | (read -r h; echo $h; cat - | sort | uniq) | pawk -b 'print "year,team,elo"' -g 'i>0' -p 'write_line(r + [rand()])' > $OUTPUT0
