@@ -22,12 +22,15 @@ for k, v in namesHash.items():
 def nameswitch(x):
     return namesHash[x]
 
-print(tourneyDataset.head(20))
+#print(tourneyDataset.head(20))
 
 tourneyDataset['TEAM'].map(nameswitch)
 tourneyDataset['OPPONENT'].map(nameswitch)
 
-eloDataset['score'] = 0
+#eloDataset['score'] = 0
 
-print(eloDataset.head(20))
+#print(eloDataset.head(20))
 
+newset = tourneyDataset.merge(eloDataset,on=['TEAM','YEAR'])
+
+print(newset.head(20))
